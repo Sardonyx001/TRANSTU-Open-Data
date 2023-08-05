@@ -1,0 +1,8 @@
+﻿agency_id,route_color,route_id,route_long_name,route_short_name,route_text_color,route_type
+TRANSTU_RF,,ligne_sud1,Place Barcelone to Ben Arous ,ligne1_metro,,1
+TRANSTU,,ligne1,Tunis Marine to Ben Arous,ligne1_metro,,1
+TRANSTU,,ligne28,Bellevue to Bellevue,ligne28_bus,,3
+TRANSTU,,ligne2,Station Barcelone Nord to Ariana,ligne2_metro,,1
+TRANSTU,,ligneTGM,Tunis Marine to Marsa,ligne TGM,,4
+
+

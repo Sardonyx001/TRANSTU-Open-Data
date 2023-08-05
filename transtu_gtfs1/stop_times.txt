@@ -1,0 +1,3845 @@
+trip_id	departure_time	stop_id	stop_sequence	timepoint	arrival_time
+lig1_101	3:52:00	marine	1	0	3:52:00
+lig1_101		hached	2	0	
+lig1_101	3:58:00	barcelone_sud	3	0	3:58:00
+lig1_101		bab_alioua	4	0	
+lig1_101		manachou	5	0	
+lig1_101		13_aout	6	0	
+lig1_101	4:08:00	mohamed_ali	7	0	4:08:00
+lig1_101		kabbaria	8	0	
+lig1_101		ibn_sina	9	0	
+lig1_101		ouardia6	10	0	
+lig1_101		cité_ennour	11	0	
+lig1_101		echebbi	12	0	
+lig1_101	4:20:00	ben_arous	13	0	4:20:00
+lig1_102	4:25:00	marine	1	0	4:25:00
+lig1_102		hached	2	0	
+lig1_102	4:30:00	barcelone_sud	3	0	4:30:00
+lig1_102		bab_alioua	4	0	
+lig1_102		manachou	5	0	
+lig1_102		13_aout	6	0	
+lig1_102	4:40:00	mohamed_ali	7	0	4:40:00
+lig1_102		kabbaria	8	0	
+lig1_102		ibn_sina	9	0	
+lig1_102		ouardia6	10	0	
+lig1_102		cité_ennour	11	0	
+lig1_102		echebbi	12	0	
+lig1_102	4:50:00	ben_arous	13	0	4:52:00
+ligne1001	4:55:00	marine	1	0	4:55:00
+ligne1001		hached	2	0	
+ligne1001	5:00:00	barcelone_sud	3	0	5:00:00
+ligne1001		bab_alioua	4	0	
+ligne1001		manachou	5	0	
+ligne1001		13_aout	6	0	
+ligne1001	5:10:00	mohamed_ali	7	0	5:10:00
+ligne1001		kabbaria	8	0	
+ligne1001		ibn_sina	9	0	
+ligne1001		ouardia6	10	0	
+ligne1001		cité_ennour	11	0	
+ligne1001		echebbi	12	0	
+ligne1001	5:20:00	ben_arous	13	0	5:20:00
+ligne1002	5:39:00	marine	1	0	5:39:00
+ligne1002		hached	2	0	
+ligne1002	5:45:00	barcelone_sud	3	0	5:45:00
+ligne1002		bab_alioua	4	0	
+ligne1002		manachou	5	0	
+ligne1002		13_aout	6	0	
+ligne1002	5:55:00	mohamed_ali	7	0	5:55:00
+ligne1002		kabbaria	8	0	
+ligne1002		ibn_sina	9	0	
+ligne1002		ouardia6	10	0	
+ligne1002		cité_ennour	11	0	
+ligne1002		echebbi	12	0	
+ligne1002	6:07:00	ben_arous	13	0	6:07:00
+ligne1003	6:39:00	marine	1	0	6:39:00
+ligne1003		hached	2	0	
+ligne1003	6:45:00	barcelone_sud	3	0	6:45:00
+ligne1003		bab_alioua	4	0	
+ligne1003		manachou	5	0	
+ligne1003		13_aout	6	0	
+ligne1003	6:55:00	mohamed_ali	7	0	6:55:00
+ligne1003		kabbaria	8	0	
+ligne1003		ibn_sina	9	0	
+ligne1003		ouardia6	10	0	
+ligne1003		cité_ennour	11	0	
+ligne1003		echebbi	12	0	
+ligne1003	7:07:00	ben_arous	13	0	7:07:00
+ligne1004	4:25:00	ben_arous	1	0	4:25:00
+ligne1004		"echebbi_retour	"	2	0	
+ligne1004		"ennour_retour	"	3	0	
+ligne1004		"ouardia6_retour	"	4	0	
+ligne1004		ibnsina_retour	5	0	
+ligne1004		"kabbaria_retour	"	6	0	
+ligne1004	4:37:00	med ali_retour	7	0	4:37:00
+ligne1004		13aout_retour	8	0	
+ligne1004		manachou_retour	9	0	
+ligne1004		babalioua_retour	10	0	
+ligne1004	4:47:00	barcelone_sud	11	0	4:47:00
+ligne1004		hached	12	0	
+ligne1004	4:54:00	marine	13	0	4:54:00
+ligne_sud1001	5:30:00	barcelone_sud	1	0	5:30:00
+ligne_sud1001		bab_alioua	2	0	
+ligne_sud1001		manachou	3	0	
+ligne_sud1001		13_aout	4	0	
+ligne_sud1001	5:40:00	mohamed_ali	5	0	5:40:00
+ligne_sud1001		kabbaria	6	0	
+ligne_sud1001		ibn_sina	7	0	
+ligne_sud1001		ouardia6	8	0	
+ligne_sud1001		cité_ennour	9	0	
+ligne_sud1001		echebbi	10	0	
+ligne_sud1001	5:52:00	ben_arous	11	0	5:52:00
+ligne_sud1002	6:00:00	barcelone_sud	1	0	6:00:00
+ligne_sud1002		bab_alioua	2	0	
+ligne_sud1002		manachou	3	0	
+ligne_sud1002		13_aout	4	0	
+ligne_sud1002	6:10:00	mohamed_ali	5	0	6:10:00
+ligne_sud1002		kabbaria	6	0	
+ligne_sud1002		ibn_sina	7	0	
+ligne_sud1002		ouardia6	8	0	
+ligne_sud1002		cité_ennour	9	0	
+ligne_sud1002		echebbi	10	0	
+ligne_sud1002	6:22:00	ben_arous	11	0	6:22:00
+ligne_sud1003	6:15:00	barcelone_sud	1	0	6:15:00
+ligne_sud1003		bab_alioua	2	0	
+ligne_sud1003		manachou	3	0	
+ligne_sud1003		13_aout	4	0	
+ligne_sud1003	6:25:00	mohamed_ali	5	0	6:25:00
+ligne_sud1003		kabbaria	6	0	
+ligne_sud1003		ibn_sina	7	0	
+ligne_sud1003		ouardia6	8	0	
+ligne_sud1003		cité_ennour	9	0	
+ligne_sud1003		echebbi	10	0	
+ligne_sud1003	6:37:00	ben_arous	11	0	6:37:00
+ligne_sud1004	6:30:00	barcelone_sud	1	0	6:30:00
+ligne_sud1004		bab_alioua	2	0	
+ligne_sud1004		manachou	3	0	
+ligne_sud1004		13_aout	4	0	
+ligne_sud1004	6:40:00	mohamed_ali	5	0	6:40:00
+ligne_sud1004		kabbaria	6	0	
+ligne_sud1004		ibn_sina	7	0	
+ligne_sud1004		ouardia6	8	0	
+ligne_sud1004		cité_ennour	9	0	
+ligne_sud1004		echebbi	10	0	
+ligne_sud1004	6:52:00	ben_arous	11	0	6:52:00
+ligne_sud1005	7:00:00	barcelone_sud	1	0	7:00:00
+ligne_sud1005		bab_alioua	2	0	
+ligne_sud1005		manachou	3	0	
+ligne_sud1005		13_aout	4	0	
+ligne_sud1005	7:10:00	mohamed_ali	5	0	7:10:00
+ligne_sud1005		kabbaria	6	0	
+ligne_sud1005		ibn_sina	7	0	
+ligne_sud1005		ouardia6	8	0	
+ligne_sud1005		cité_ennour	9	0	
+ligne_sud1005		echebbi	10	0	
+ligne_sud1005	7:22:00	ben_arous	11	0	7:22:00
+ligne_sud1006	7:15:00	barcelone_sud	1	0	7:15:00
+ligne_sud1006		bab_alioua	2	0	
+ligne_sud1006		manachou	3	0	
+ligne_sud1006		13_aout	4	0	
+ligne_sud1006	7:25:00	mohamed_ali	5	0	7:25:00
+ligne_sud1006		kabbaria	6	0	
+ligne_sud1006		ibn_sina	7	0	
+ligne_sud1006		ouardia6	8	0	
+ligne_sud1006		cité_ennour	9	0	
+ligne_sud1006		echebbi	10	0	
+ligne_sud1006	7:37:00	ben_arous	11	0	7:37:00
+ligne_sud1007	7:30:00	barcelone_sud	1	0	7:30:00
+ligne_sud1007		bab_alioua	2	0	
+ligne_sud1007		manachou	3	0	
+ligne_sud1007		13_aout	4	0	
+ligne_sud1007	7:40:00	mohamed_ali	5	0	7:40:00
+ligne_sud1007		kabbaria	6	0	
+ligne_sud1007		ibn_sina	7	0	
+ligne_sud1007		ouardia6	8	0	
+ligne_sud1007		cité_ennour	9	0	
+ligne_sud1007		echebbi	10	0	
+ligne_sud1007	7:52:00	ben_arous	11	0	7:52:00
+ligne_sud1008	7:45:00	barcelone_sud	1	0	7:45:00
+ligne_sud1008		bab_alioua	2	0	
+ligne_sud1008		manachou	3	0	
+ligne_sud1008		13_aout	4	0	
+ligne_sud1008	7:53:00	mohamed_ali	5	0	7:53:00
+ligne_sud1008		kabbaria	6	0	
+ligne_sud1008		ibn_sina	7	0	
+ligne_sud1008		ouardia6	8	0	
+ligne_sud1008		cité_ennour	9	0	
+ligne_sud1008		echebbi	10	0	
+ligne_sud1008	8:05:00	ben_arous	11	0	8:05:00
+ligne_sud1009	8:00:00	barcelone_sud	1	0	8:00:00
+ligne_sud1009		bab_alioua	2	0	
+ligne_sud1009		manachou	3	0	
+ligne_sud1009		13_aout	4	0	
+ligne_sud1009	8:10:00	mohamed_ali	5	0	8:10:00
+ligne_sud1009		kabbaria	6	0	
+ligne_sud1009		ibn_sina	7	0	
+ligne_sud1009		ouardia6	8	0	
+ligne_sud1009		cité_ennour	9	0	
+ligne_sud1009		echebbi	10	0	
+ligne_sud1009	8:22:00	ben_arous	11	0	8:22:00
+ligne_sud1010	8:15:00	barcelone_sud	1	0	8:15:00
+ligne_sud1010		bab_alioua	2	0	
+ligne_sud1010		manachou	3	0	
+ligne_sud1010		13_aout	4	0	
+ligne_sud1010	8:25:00	mohamed_ali	5	0	8:25:00
+ligne_sud1010		kabbaria	6	0	
+ligne_sud1010		ibn_sina	7	0	
+ligne_sud1010		ouardia6	8	0	
+ligne_sud1010		cité_ennour	9	0	
+ligne_sud1010		echebbi	10	0	
+ligne_sud1010	8:37:00	ben_arous	11	0	8:37:00
+ligne_sud1011	8:30:00	barcelone_sud	1	0	8:30:00
+ligne_sud1011		bab_alioua	2	0	
+ligne_sud1011		manachou	3	0	
+ligne_sud1011		13_aout	4	0	
+ligne_sud1011	8:40:00	mohamed_ali	5	0	8:40:00
+ligne_sud1011		kabbaria	6	0	
+ligne_sud1011		ibn_sina	7	0	
+ligne_sud1011		ouardia6	8	0	
+ligne_sud1011		cité_ennour	9	0	
+ligne_sud1011		echebbi	10	0	
+ligne_sud1011	8:52:00	ben_arous	11	0	8:52:00
+ligne_sud1012	9:45:00	barcelone_sud	1	0	9:45:00
+ligne_sud1012		bab_alioua	2	0	
+ligne_sud1012		manachou	3	0	
+ligne_sud1012		13_aout	4	0	
+ligne_sud1012	9:55:00	mohamed_ali	5	0	9:55:00
+ligne_sud1012		kabbaria	6	0	
+ligne_sud1012		ibn_sina	7	0	
+ligne_sud1012		ouardia6	8	0	
+ligne_sud1012		cité_ennour	9	0	
+ligne_sud1012		echebbi	10	0	
+ligne_sud1012	10:07:00	ben_arous	11	0	10:07:00
+ligne_sud1013	10:00:00	barcelone_sud	1	0	10:00:00
+ligne_sud1013		bab_alioua	2	0	
+ligne_sud1013		manachou	3	0	
+ligne_sud1013		13_aout	4	0	
+ligne_sud1013	10:10:00	mohamed_ali	5	0	10:10:00
+ligne_sud1013		kabbaria	6	0	
+ligne_sud1013		ibn_sina	7	0	
+ligne_sud1013		ouardia6	8	0	
+ligne_sud1013		cité_ennour	9	0	
+ligne_sud1013		echebbi	10	0	
+ligne_sud1013	10:22:00	ben_arous	11	0	10:22:00
+ligne_sud1014	10:15:00	barcelone_sud	1	0	10:15:00
+ligne_sud1014		bab_alioua	2	0	
+ligne_sud1014		manachou	3	0	
+ligne_sud1014		13_aout	4	0	
+ligne_sud1014	10:25:00	mohamed_ali	5	0	10:25:00
+ligne_sud1014		kabbaria	6	0	
+ligne_sud1014		ibn_sina	7	0	
+ligne_sud1014		ouardia6	8	0	
+ligne_sud1014		cité_ennour	9	0	
+ligne_sud1014		echebbi	10	0	
+ligne_sud1014	10:37:00	ben_arous	11	0	10:37:00
+ligne_sud1015	10:30:00	barcelone_sud	1	0	10:30:00
+ligne_sud1015		bab_alioua	2	0	
+ligne_sud1015		manachou	3	0	
+ligne_sud1015		13_aout	4	0	
+ligne_sud1015	10:40:00	mohamed_ali	5	0	10:40:00
+ligne_sud1015		kabbaria	6	0	
+ligne_sud1015		ibn_sina	7	0	
+ligne_sud1015		ouardia6	8	0	
+ligne_sud1015		cité_ennour	9	0	
+ligne_sud1015		echebbi	10	0	
+ligne_sud1015	10:52:00	ben_arous	11	0	10:52:00
+ligne_sud1016	10:45:00	barcelone_sud	1	0	10:45:00
+ligne_sud1016		bab_alioua	2	0	
+ligne_sud1016		manachou	3	0	
+ligne_sud1016		13_aout	4	0	
+ligne_sud1016	10:55:00	mohamed_ali	5	0	10:55:00
+ligne_sud1016		kabbaria	6	0	
+ligne_sud1016		ibn_sina	7	0	
+ligne_sud1016		ouardia6	8	0	
+ligne_sud1016		cité_ennour	9	0	
+ligne_sud1016		echebbi	10	0	
+ligne_sud1016	11:07:00	ben_arous	11	0	11:07:00
+ligne_sud1017	11:00:00	barcelone_sud	1	0	11:00:00
+ligne_sud1017		bab_alioua	2	0	
+ligne_sud1017		manachou	3	0	
+ligne_sud1017		13_aout	4	0	
+ligne_sud1017	11:10:00	mohamed_ali	5	0	11:10:00
+ligne_sud1017		kabbaria	6	0	
+ligne_sud1017		ibn_sina	7	0	
+ligne_sud1017		ouardia6	8	0	
+ligne_sud1017		cité_ennour	9	0	
+ligne_sud1017		echebbi	10	0	
+ligne_sud1017	11:22:00	ben_arous	11	0	11:22:00
+ligne_sud1018	11:15:00	barcelone_sud	1	0	11:15:00
+ligne_sud1018		bab_alioua	2	0	
+ligne_sud1018		manachou	3	0	
+ligne_sud1018		13_aout	4	0	
+ligne_sud1018	11:25:00	mohamed_ali	5	0	11:25:00
+ligne_sud1018		kabbaria	6	0	
+ligne_sud1018		ibn_sina	7	0	
+ligne_sud1018		ouardia6	8	0	
+ligne_sud1018		cité_ennour	9	0	
+ligne_sud1018		echebbi	10	0	
+ligne_sud1018	11:37:00	ben_arous	11	0	11:37:00
+ligne_sud1019	11:30:00	barcelone_sud	1	0	11:30:00
+ligne_sud1019		bab_alioua	2	0	
+ligne_sud1019		manachou	3	0	
+ligne_sud1019		13_aout	4	0	
+ligne_sud1019	11:40:00	mohamed_ali	5	0	11:40:00
+ligne_sud1019		kabbaria	6	0	
+ligne_sud1019		ibn_sina	7	0	
+ligne_sud1019		ouardia6	8	0	
+ligne_sud1019		cité_ennour	9	0	
+ligne_sud1019		echebbi	10	0	
+ligne_sud1019	11:52:00	ben_arous	11	0	11:52:00
+ligne_sud1020	11:45:00	barcelone_sud	1	0	11:45:00
+ligne_sud1020		bab_alioua	2	0	
+ligne_sud1020		manachou	3	0	
+ligne_sud1020		13_aout	4	0	
+ligne_sud1020	11:55:00	mohamed_ali	5	0	11:55:00
+ligne_sud1020		kabbaria	6	0	
+ligne_sud1020		ibn_sina	7	0	
+ligne_sud1020		ouardia6	8	0	
+ligne_sud1020		cité_ennour	9	0	
+ligne_sud1020		echebbi	10	0	
+ligne_sud1020	12:07:00	ben_arous	11	0	12:07:00
+ligne_sud1021	12:00:00	barcelone_sud	1	0	12:00:00
+ligne_sud1021		bab_alioua	2	0	
+ligne_sud1021		manachou	3	0	
+ligne_sud1021		13_aout	4	0	
+ligne_sud1021	12:10:00	mohamed_ali	5	0	12:10:00
+ligne_sud1021		kabbaria	6	0	
+ligne_sud1021		ibn_sina	7	0	
+ligne_sud1021		ouardia6	8	0	
+ligne_sud1021		cité_ennour	9	0	
+ligne_sud1021		echebbi	10	0	
+ligne_sud1021	12:22:00	ben_arous	11	0	12:22:00
+ligne_sud1022	12:15:00	barcelone_sud	1	0	12:15:00
+ligne_sud1022		bab_alioua	2	0	
+ligne_sud1022		manachou	3	0	
+ligne_sud1022		13_aout	4	0	
+ligne_sud1022	12:25:00	mohamed_ali	5	0	12:25:00
+ligne_sud1022		kabbaria	6	0	
+ligne_sud1022		ibn_sina	7	0	
+ligne_sud1022		ouardia6	8	0	
+ligne_sud1022		cité_ennour	9	0	
+ligne_sud1022		echebbi	10	0	
+ligne_sud1022	12:37:00	ben_arous	11	0	12:37:00
+ligne_sud1023	12:30:00	barcelone_sud	1	0	12:30:00
+ligne_sud1023		bab_alioua	2	0	
+ligne_sud1023		manachou	3	0	
+ligne_sud1023		13_aout	4	0	
+ligne_sud1023	12:40:00	mohamed_ali	5	0	12:40:00
+ligne_sud1023		kabbaria	6	0	
+ligne_sud1023		ibn_sina	7	0	
+ligne_sud1023		ouardia6	8	0	
+ligne_sud1023		cité_ennour	9	0	
+ligne_sud1023		echebbi	10	0	
+ligne_sud1023	12:52:00	ben_arous	11	0	12:52:00
+ligne_sud1024	12:45:00	barcelone_sud	1	0	12:45:00
+ligne_sud1024		bab_alioua	2	0	
+ligne_sud1024		manachou	3	0	
+ligne_sud1024		13_aout	4	0	
+ligne_sud1024	12:55:00	mohamed_ali	5	0	12:55:00
+ligne_sud1024		kabbaria	6	0	
+ligne_sud1024		ibn_sina	7	0	
+ligne_sud1024		ouardia6	8	0	
+ligne_sud1024		cité_ennour	9	0	
+ligne_sud1024		echebbi	10	0	
+ligne_sud1024	13:07:00	ben_arous	11	0	13:07:00
+ligne_sud1025	13:00:00	barcelone_sud	1	0	13:00:00
+ligne_sud1025		bab_alioua	2	0	
+ligne_sud1025		manachou	3	0	
+ligne_sud1025		13_aout	4	0	
+ligne_sud1025	13:10:00	mohamed_ali	5	0	13:10:00
+ligne_sud1025		kabbaria	6	0	
+ligne_sud1025		ibn_sina	7	0	
+ligne_sud1025		ouardia6	8	0	
+ligne_sud1025		cité_ennour	9	0	
+ligne_sud1025		echebbi	10	0	
+ligne_sud1025	13:22:00	ben_arous	11	0	13:22:00
+ligne_sud1026	13:15:00	barcelone_sud	1	0	13:15:00
+ligne_sud1026		bab_alioua	2	0	
+ligne_sud1026		manachou	3	0	
+ligne_sud1026		13_aout	4	0	
+ligne_sud1026	13:25:00	mohamed_ali	5	0	13:25:00
+ligne_sud1026		kabbaria	6	0	
+ligne_sud1026		ibn_sina	7	0	
+ligne_sud1026		ouardia6	8	0	
+ligne_sud1026		cité_ennour	9	0	
+ligne_sud1026		echebbi	10	0	
+ligne_sud1026	13:37:00	ben_arous	11	0	13:37:00
+ligne_sud1027	13:30:00	barcelone_sud	1	0	13:30:00
+ligne_sud1027		bab_alioua	2	0	
+ligne_sud1027		manachou	3	0	
+ligne_sud1027		13_aout	4	0	
+ligne_sud1027	13:40:00	mohamed_ali	5	0	13:40:00
+ligne_sud1027		kabbaria	6	0	
+ligne_sud1027		ibn_sina	7	0	
+ligne_sud1027		ouardia6	8	0	
+ligne_sud1027		cité_ennour	9	0	
+ligne_sud1027		echebbi	10	0	
+ligne_sud1027	13:52:00	ben_arous	11	0	13:52:00
+ligne_sud1028	13:45:00	barcelone_sud	1	0	13:45:00
+ligne_sud1028		bab_alioua	2	0	
+ligne_sud1028		manachou	3	0	
+ligne_sud1028		13_aout	4	0	
+ligne_sud1028	13:55:00	mohamed_ali	5	0	13:55:00
+ligne_sud1028		kabbaria	6	0	
+ligne_sud1028		ibn_sina	7	0	
+ligne_sud1028		ouardia6	8	0	
+ligne_sud1028		cité_ennour	9	0	
+ligne_sud1028		echebbi	10	0	
+ligne_sud1028	14:07:00	ben_arous	11	0	14:07:00
+ligne_sud1029	14:00:00	barcelone_sud	1	0	14:00:00
+ligne_sud1029		bab_alioua	2	0	
+ligne_sud1029		manachou	3	0	
+ligne_sud1029		13_aout	4	0	
+ligne_sud1029	14:10:00	mohamed_ali	5	0	14:10:00
+ligne_sud1029		kabbaria	6	0	
+ligne_sud1029		ibn_sina	7	0	
+ligne_sud1029		ouardia6	8	0	
+ligne_sud1029		cité_ennour	9	0	
+ligne_sud1029		echebbi	10	0	
+ligne_sud1029	14:22:00	ben_arous	11	0	14:22:00
+ligne_sud1030	14:15:00	barcelone_sud	1	0	14:15:00
+ligne_sud1030		bab_alioua	2	0	
+ligne_sud1030		manachou	3	0	
+ligne_sud1030		13_aout	4	0	
+ligne_sud1030	14:25:00	mohamed_ali	5	0	14:25:00
+ligne_sud1030		kabbaria	6	0	
+ligne_sud1030		ibn_sina	7	0	
+ligne_sud1030		ouardia6	8	0	
+ligne_sud1030		cité_ennour	9	0	
+ligne_sud1030		echebbi	10	0	
+ligne_sud1030	14:37:00	ben_arous	11	0	14:37:00
+ligne_sud1031	14:30:00	barcelone_sud	1	0	14:30:00
+ligne_sud1031		bab_alioua	2	0	
+ligne_sud1031		manachou	3	0	
+ligne_sud1031		13_aout	4	0	
+ligne_sud1031	14:40:00	mohamed_ali	5	0	14:40:00
+ligne_sud1031		kabbaria	6	0	
+ligne_sud1031		ibn_sina	7	0	
+ligne_sud1031		ouardia6	8	0	
+ligne_sud1031		cité_ennour	9	0	
+ligne_sud1031		echebbi	10	0	
+ligne_sud1031	14:52:00	ben_arous	11	0	14:52:00
+ligne_sud1032	14:45:00	barcelone_sud	1	0	14:45:00
+ligne_sud1032		bab_alioua	2	0	
+ligne_sud1032		manachou	3	0	
+ligne_sud1032		13_aout	4	0	
+ligne_sud1032	14:55:00	mohamed_ali	5	0	14:55:00
+ligne_sud1032		kabbaria	6	0	
+ligne_sud1032		ibn_sina	7	0	
+ligne_sud1032		ouardia6	8	0	
+ligne_sud1032		cité_ennour	9	0	
+ligne_sud1032		echebbi	10	0	
+ligne_sud1032	15:07:00	ben_arous	11	0	15:07:00
+ligne_sud1033	15:00:00	barcelone_sud	1	0	15:00:00
+ligne_sud1033		bab_alioua	2	0	
+ligne_sud1033		manachou	3	0	
+ligne_sud1033		13_aout	4	0	
+ligne_sud1033	15:10:00	mohamed_ali	5	0	15:10:00
+ligne_sud1033		kabbaria	6	0	
+ligne_sud1033		ibn_sina	7	0	
+ligne_sud1033		ouardia6	8	0	
+ligne_sud1033		cité_ennour	9	0	
+ligne_sud1033		echebbi	10	0	
+ligne_sud1033	15:22:00	ben_arous	11	0	15:22:00
+ligne_sud1034	15:15:00	barcelone_sud	1	0	15:15:00
+ligne_sud1034		bab_alioua	2	0	
+ligne_sud1034		manachou	3	0	
+ligne_sud1034		13_aout	4	0	
+ligne_sud1034	15:25:00	mohamed_ali	5	0	15:25:00
+ligne_sud1034		kabbaria	6	0	
+ligne_sud1034		ibn_sina	7	0	
+ligne_sud1034		ouardia6	8	0	
+ligne_sud1034		cité_ennour	9	0	
+ligne_sud1034		echebbi	10	0	
+ligne_sud1034	15:37:00	ben_arous	11	0	15:37:00
+ligne_sud1035	15:30:00	barcelone_sud	1	0	15:30:00
+ligne_sud1035		bab_alioua	2	0	
+ligne_sud1035		manachou	3	0	
+ligne_sud1035		13_aout	4	0	
+ligne_sud1035	15:40:00	mohamed_ali	5	0	15:40:00
+ligne_sud1035		kabbaria	6	0	
+ligne_sud1035		ibn_sina	7	0	
+ligne_sud1035		ouardia6	8	0	
+ligne_sud1035		cité_ennour	9	0	
+ligne_sud1035		echebbi	10	0	
+ligne_sud1035	15:52:00	ben_arous	11	0	15:52:00
+ligne_sud1036	15:45:00	barcelone_sud	1	0	15:45:00
+ligne_sud1036		bab_alioua	2	0	
+ligne_sud1036		manachou	3	0	
+ligne_sud1036		13_aout	4	0	
+ligne_sud1036	15:55:00	mohamed_ali	5	0	15:55:00
+ligne_sud1036		kabbaria	6	0	
+ligne_sud1036		ibn_sina	7	0	
+ligne_sud1036		ouardia6	8	0	
+ligne_sud1036		cité_ennour	9	0	
+ligne_sud1036		echebbi	10	0	
+ligne_sud1036	16:07:00	ben_arous	11	0	16:07:00
+ligne_sud1037	16:00:00	barcelone_sud	1	0	16:00:00
+ligne_sud1037		bab_alioua	2	0	
+ligne_sud1037		manachou	3	0	
+ligne_sud1037		13_aout	4	0	
+ligne_sud1037	16:10:00	mohamed_ali	5	0	16:10:00
+ligne_sud1037		kabbaria	6	0	
+ligne_sud1037		ibn_sina	7	0	
+ligne_sud1037		ouardia6	8	0	
+ligne_sud1037		cité_ennour	9	0	
+ligne_sud1037		echebbi	10	0	
+ligne_sud1037	16:22:00	ben_arous	11	0	16:20:00
+ligne_sud1038	16:15:00	barcelone_sud	1	0	16:15:00
+ligne_sud1038		bab_alioua	2	0	
+ligne_sud1038		manachou	3	0	
+ligne_sud1038		13_aout	4	0	
+ligne_sud1038	16:25:00	mohamed_ali	5	0	16:25:00
+ligne_sud1038		kabbaria	6	0	
+ligne_sud1038		ibn_sina	7	0	
+ligne_sud1038		ouardia6	8	0	
+ligne_sud1038		cité_ennour	9	0	
+ligne_sud1038		echebbi	10	0	
+ligne_sud1038	16:37:00	ben_arous	11	0	16:37:00
+ligne_sud1039	16:30:00	barcelone_sud	1	0	16:30:00
+ligne_sud1039		bab_alioua	2	0	
+ligne_sud1039		manachou	3	0	
+ligne_sud1039		13_aout	4	0	
+ligne_sud1039	16:40:00	mohamed_ali	5	0	16:40:00
+ligne_sud1039		kabbaria	6	0	
+ligne_sud1039		ibn_sina	7	0	
+ligne_sud1039		ouardia6	8	0	
+ligne_sud1039		cité_ennour	9	0	
+ligne_sud1039		echebbi	10	0	
+ligne_sud1039	16:52:00	ben_arous	11	0	16:52:00
+ligne_sud1040	16:45:00	barcelone_sud	1	0	16:45:00
+ligne_sud1040		bab_alioua	2	0	
+ligne_sud1040		manachou	3	0	
+ligne_sud1040		13_aout	4	0	
+ligne_sud1040	16:55:00	mohamed_ali	5	0	16:55:00
+ligne_sud1040		kabbaria	6	0	
+ligne_sud1040		ibn_sina	7	0	
+ligne_sud1040		ouardia6	8	0	
+ligne_sud1040		cité_ennour	9	0	
+ligne_sud1040		echebbi	10	0	
+ligne_sud1040	17:07:00	ben_arous	11	0	17:07:00
+ligne_sud1041	17:00:00	barcelone_sud	1	0	17:00:00
+ligne_sud1041		bab_alioua	2	0	
+ligne_sud1041		manachou	3	0	
+ligne_sud1041		13_aout	4	0	
+ligne_sud1041	17:10:00	mohamed_ali	5	0	17:10:00
+ligne_sud1041		kabbaria	6	0	
+ligne_sud1041		ibn_sina	7	0	
+ligne_sud1041		ouardia6	8	0	
+ligne_sud1041		cité_ennour	9	0	
+ligne_sud1041		echebbi	10	0	
+ligne_sud1041	17:22:00	ben_arous	11	0	17:22:00
+ligne_sud1042	17:15:00	barcelone_sud	1	0	17:15:00
+ligne_sud1042		bab_alioua	2	0	
+ligne_sud1042		manachou	3	0	
+ligne_sud1042		13_aout	4	0	
+ligne_sud1042	17:25:00	mohamed_ali	5	0	17:25:00
+ligne_sud1042		kabbaria	6	0	
+ligne_sud1042		ibn_sina	7	0	
+ligne_sud1042		ouardia6	8	0	
+ligne_sud1042		cité_ennour	9	0	
+ligne_sud1042		echebbi	10	0	
+ligne_sud1042	17:37:00	ben_arous	11	0	17:37:00
+ligne_sud1043	17:30:00	barcelone_sud	1	0	17:30:00
+ligne_sud1043		bab_alioua	2	0	
+ligne_sud1043		manachou	3	0	
+ligne_sud1043		13_aout	4	0	
+ligne_sud1043	17:40:00	mohamed_ali	5	0	17:40:00
+ligne_sud1043		kabbaria	6	0	
+ligne_sud1043		ibn_sina	7	0	
+ligne_sud1043		ouardia6	8	0	
+ligne_sud1043		cité_ennour	9	0	
+ligne_sud1043		echebbi	10	0	
+ligne_sud1043	17:52:00	ben_arous	11	0	17:52:00
+ligne_sud1044	17:45:00	barcelone_sud	1	0	17:45:00
+ligne_sud1044		bab_alioua	2	0	
+ligne_sud1044		manachou	3	0	
+ligne_sud1044		13_aout	4	0	
+ligne_sud1044	17:55:00	mohamed_ali	5	0	17:55:00
+ligne_sud1044		kabbaria	6	0	
+ligne_sud1044		ibn_sina	7	0	
+ligne_sud1044		ouardia6	8	0	
+ligne_sud1044		cité_ennour	9	0	
+ligne_sud1044		echebbi	10	0	
+ligne_sud1044	18:07:00	ben_arous	11	0	18:07:00
+ligne_sud1045	17:57:00	barcelone_sud	1	0	17:57:00
+ligne_sud1045		bab_alioua	2	0	
+ligne_sud1045		manachou	3	0	
+ligne_sud1045		13_aout	4	0	
+ligne_sud1045	18:07:00	mohamed_ali	5	0	18:07:00
+ligne_sud1045		kabbaria	6	0	
+ligne_sud1045		ibn_sina	7	0	
+ligne_sud1045		ouardia6	8	0	
+ligne_sud1045		cité_ennour	9	0	
+ligne_sud1045		echebbi	10	0	
+ligne_sud1045	18:19:00	ben_arous	11	0	18:19:00
+ligne_sud1046	18:00:00	barcelone_sud	1	0	18:00:00
+ligne_sud1046		bab_alioua	2	0	
+ligne_sud1046		manachou	3	0	
+ligne_sud1046		13_aout	4	0	
+ligne_sud1046	18:10:00	mohamed_ali	5	0	18:10:00
+ligne_sud1046		kabbaria	6	0	
+ligne_sud1046		ibn_sina	7	0	
+ligne_sud1046		ouardia6	8	0	
+ligne_sud1046		cité_ennour	9	0	
+ligne_sud1046		echebbi	10	0	
+ligne_sud1046	1:00:00	ben_arous	11	0	18:22:00
+ligne_sud1047	18:15:00	barcelone_sud	1	0	18:15:00
+ligne_sud1047		bab_alioua	2	0	
+ligne_sud1047		manachou	3	0	
+ligne_sud1047		13_aout	4	0	
+ligne_sud1047	18:25:00	mohamed_ali	5	0	18:25:00
+ligne_sud1047		kabbaria	6	0	
+ligne_sud1047		ibn_sina	7	0	
+ligne_sud1047		ouardia6	8	0	
+ligne_sud1047		cité_ennour	9	0	
+ligne_sud1047		echebbi	10	0	
+ligne_sud1047	18:37:00	ben_arous	11	0	18:37:00
+ligne_sud1048	18:30:00	barcelone_sud	1	0	18:30:00
+ligne_sud1048		bab_alioua	2	0	
+ligne_sud1048		manachou	3	0	
+ligne_sud1048		13_aout	4	0	
+ligne_sud1048	18:45:00	mohamed_ali	5	0	18:45:00
+ligne_sud1048		kabbaria	6	0	
+ligne_sud1048		ibn_sina	7	0	
+ligne_sud1048		ouardia6	8	0	
+ligne_sud1048		cité_ennour	9	0	
+ligne_sud1048		echebbi	10	0	
+ligne_sud1048	18:52:00	ben_arous	11	0	18:52:00
+ligne_sud1049	18:45:00	barcelone_sud	1	0	18:45:00
+ligne_sud1049		bab_alioua	2	0	
+ligne_sud1049		manachou	3	0	
+ligne_sud1049		13_aout	4	0	
+ligne_sud1049	18:55:00	mohamed_ali	5	0	18:55:00
+ligne_sud1049		kabbaria	6	0	
+ligne_sud1049		ibn_sina	7	0	
+ligne_sud1049		ouardia6	8	0	
+ligne_sud1049		cité_ennour	9	0	
+ligne_sud1049		echebbi	10	0	
+ligne_sud1049	19:07:00	ben_arous	11	0	19:07:00
+ligne_sud1050	18:57:00	barcelone_sud	1	0	18:57:00
+ligne_sud1050		bab_alioua	2	0	
+ligne_sud1050		manachou	3	0	
+ligne_sud1050		13_aout	4	0	
+ligne_sud1050	19:07:00	mohamed_ali	5	0	19:07:00
+ligne_sud1050		kabbaria	6	0	
+ligne_sud1050		ibn_sina	7	0	
+ligne_sud1050		ouardia6	8	0	
+ligne_sud1050		cité_ennour	9	0	
+ligne_sud1050		echebbi	10	0	
+ligne_sud1050	19:19:00	ben_arous	11	0	19:19:00
+ligne_sud1051	19:00:00	barcelone_sud	1	0	19:00:00
+ligne_sud1051		bab_alioua	2	0	
+ligne_sud1051		manachou	3	0	
+ligne_sud1051		13_aout	4	0	
+ligne_sud1051	19:10:00	mohamed_ali	5	0	19:10:00
+ligne_sud1051		kabbaria	6	0	
+ligne_sud1051		ibn_sina	7	0	
+ligne_sud1051		ouardia6	8	0	
+ligne_sud1051		cité_ennour	9	0	
+ligne_sud1051		echebbi	10	0	
+ligne_sud1051	19:20:00	ben_arous	11	0	19:20:00
+ligne_sud1052	19:30:00	barcelone_sud	1	0	19:30:00
+ligne_sud1052		bab_alioua	2	0	
+ligne_sud1052		manachou	3	0	
+ligne_sud1052		13_aout	4	0	
+ligne_sud1052	19:40:00	mohamed_ali	5	0	19:40:00
+ligne_sud1052		kabbaria	6	0	
+ligne_sud1052		ibn_sina	7	0	
+ligne_sud1052		ouardia6	8	0	
+ligne_sud1052		cité_ennour	9	0	
+ligne_sud1052		echebbi	10	0	
+ligne_sud1052	19:52:00	ben_arous	11	0	19:52:00
+ligne_sud1053	20:07:00	barcelone_sud	1	0	20:07:00
+ligne_sud1053		bab_alioua	2	0	
+ligne_sud1053		manachou	3	0	
+ligne_sud1053		13_aout	4	0	
+ligne_sud1053	20:17:00	mohamed_ali	5	0	20:17:00
+ligne_sud1053		kabbaria	6	0	
+ligne_sud1053		ibn_sina	7	0	
+ligne_sud1053		ouardia6	8	0	
+ligne_sud1053		cité_ennour	9	0	
+ligne_sud1053		echebbi	10	0	
+ligne_sud1053	20:29:00	ben_arous	11	0	20:29:00
+ligne_sud1054	20:25:00	barcelone_sud	1	0	20:25:00
+ligne_sud1054		bab_alioua	2	0	
+ligne_sud1054		manachou	3	0	
+ligne_sud1054		13_aout	4	0	
+ligne_sud1054	20:35:00	mohamed_ali	5	0	20:35:00
+ligne_sud1054		kabbaria	6	0	
+ligne_sud1054		ibn_sina	7	0	
+ligne_sud1054		ouardia6	8	0	
+ligne_sud1054		cité_ennour	9	0	
+ligne_sud1054		echebbi	10	0	
+ligne_sud1054	20:47:00	ben_arous	11	0	20:47:00
+ligne_sud1055	21:20:00	barcelone_sud	1	0	21:20:00
+ligne_sud1055		bab_alioua	2	0	
+ligne_sud1055		manachou	3	0	
+ligne_sud1055		13_aout	4	0	
+ligne_sud1055	21:30:00	mohamed_ali	5	0	21:30:00
+ligne_sud1055		kabbaria	6	0	
+ligne_sud1055		ibn_sina	7	0	
+ligne_sud1055		ouardia6	8	0	
+ligne_sud1055		cité_ennour	9	0	
+ligne_sud1055		echebbi	10	0	
+ligne_sud1055	21:42:00	ben_arous	11	0	21:42:00
+ligne_sud1056	22:10:00	barcelone_sud	1	0	22:10:00
+ligne_sud1056		bab_alioua	2	0	
+ligne_sud1056		manachou	3	0	
+ligne_sud1056		13_aout	4	0	
+ligne_sud1056	22:20:00	mohamed_ali	5	0	22:20:00
+ligne_sud1056		kabbaria	6	0	
+ligne_sud1056		ibn_sina	7	0	
+ligne_sud1056		ouardia6	8	0	
+ligne_sud1056		cité_ennour	9	0	
+ligne_sud1056		echebbi	10	0	
+ligne_sud1056	20:32:00	ben_arous	11	0	20:32:00
+ligne_sud1057	23:08:00	barcelone_sud	1	0	23:08:00
+ligne_sud1057		bab_alioua	2	0	
+ligne_sud1057		manachou	3	0	
+ligne_sud1057		13_aout	4	0	
+ligne_sud1057	23:18:00	mohamed_ali	5	0	23:18:00
+ligne_sud1057		kabbaria	6	0	
+ligne_sud1057		ibn_sina	7	0	
+ligne_sud1057		ouardia6	8	0	
+ligne_sud1057		cité_ennour	9	0	
+ligne_sud1057		echebbi	10	0	
+ligne_sud1057	23:30:00	ben_arous	11	0	23:30:00
+ligne_sud1058	5:00:00	ben_arous	1	0	5:00:00
+ligne_sud1058		"echebbi_retour	"	2	0	
+ligne_sud1058		"ennour_retour	"	3	0	
+ligne_sud1058		"ouardia6_retour	"	4	0	
+ligne_sud1058		"kabbaria_retour	"	5	0	
+ligne_sud1058		ibnsina_retour	6	0	
+ligne_sud1058	5:12:00	med ali_retour	7	0	5:12:00
+ligne_sud1058		13aout_retour	8	0	
+ligne_sud1058		manachou_retour	9	0	
+ligne_sud1058		babalioua_retour	10	0	
+ligne_sud1058	5:22:00	barcelone_sud	11	0	5:22:00
+ligne_sud1059	5:30:00	ben_arous	1	0	5:30:00
+ligne_sud1059		"echebbi_retour	"	2	0	
+ligne_sud1059		"ennour_retour	"	3	0	
+ligne_sud1059		"ouardia6_retour	"	4	0	
+ligne_sud1059		"kabbaria_retour	"	5	0	
+ligne_sud1059		ibnsina_retour	6	0	
+ligne_sud1059	5:42:00	med ali_retour	7	0	5:42:00
+ligne_sud1059		13aout_retour	8	0	
+ligne_sud1059		manachou_retour	9	0	
+ligne_sud1059		babalioua_retour	10	0	
+ligne_sud1059	5:52:00	barcelone_sud	11	0	5:52:00
+ligne_sud1060	5:45:00	ben_arous	1	0	5:45:00
+ligne_sud1060		"echebbi_retour	"	2	0	
+ligne_sud1060		"ennour_retour	"	3	0	
+ligne_sud1060		"ouardia6_retour	"	4	0	
+ligne_sud1060		"kabbaria_retour	"	5	0	
+ligne_sud1060		ibnsina_retour	6	0	
+ligne_sud1060	5:57:00	med ali_retour	7	0	5:57:00
+ligne_sud1060		13aout_retour	8	0	
+ligne_sud1060		manachou_retour	9	0	
+ligne_sud1060		babalioua_retour	10	0	
+ligne_sud1060	6:07:00	barcelone_sud	11	0	6:07:00
+ligne_sud1061	6:00:00	ben_arous	1	0	6:00:00
+ligne_sud1061		"echebbi_retour	"	2	0	
+ligne_sud1061		"ennour_retour	"	3	0	
+ligne_sud1061		"ouardia6_retour	"	4	0	
+ligne_sud1061		"kabbaria_retour	"	5	0	
+ligne_sud1061		ibnsina_retour	6	0	
+ligne_sud1061	6:12:00	med ali_retour	7	0	6:12:00
+ligne_sud1061		13aout_retour	8	0	
+ligne_sud1061		manachou_retour	9	0	
+ligne_sud1061		babalioua_retour	10	0	
+ligne_sud1061	6:22:00	barcelone_sud	11	0	6:22:00
+ligne_sud1062	6:15:00	ben_arous	1	0	6:15:00
+ligne_sud1062		"echebbi_retour	"	2	0	
+ligne_sud1062		"ennour_retour	"	3	0	
+ligne_sud1062		"ouardia6_retour	"	4	0	
+ligne_sud1062		"kabbaria_retour	"	5	0	
+ligne_sud1062		ibnsina_retour	6	0	
+ligne_sud1062	6:27:00	med ali_retour	7	0	6:27:00
+ligne_sud1062		13aout_retour	8	0	
+ligne_sud1062		manachou_retour	9	0	
+ligne_sud1062		babalioua_retour	10	0	
+ligne_sud1062	6:37:00	barcelone_sud	11	0	6:37:00
+ligne_sud1063	6:30:00	ben_arous	1	0	6:30:00
+ligne_sud1063		"echebbi_retour	"	2	0	
+ligne_sud1063		"ennour_retour	"	3	0	
+ligne_sud1063		"ouardia6_retour	"	4	0	
+ligne_sud1063		"kabbaria_retour	"	5	0	
+ligne_sud1063		ibnsina_retour	6	0	
+ligne_sud1063	6:42:00	med ali_retour	7	0	6:42:00
+ligne_sud1063		13aout_retour	8	0	
+ligne_sud1063		manachou_retour	9	0	
+ligne_sud1063		babalioua_retour	10	0	
+ligne_sud1063	6:52:00	barcelone_sud	11	0	6:52:00
+ligne_sud1064	6:45:00	ben_arous	1	0	6:45:00
+ligne_sud1064		"echebbi_retour	"	2	0	
+ligne_sud1064		"ennour_retour	"	3	0	
+ligne_sud1064		"ouardia6_retour	"	4	0	
+ligne_sud1064		"kabbaria_retour	"	5	0	
+ligne_sud1064		ibnsina_retour	6	0	
+ligne_sud1064	6:57:00	med ali_retour	7	0	6:57:00
+ligne_sud1064		13aout_retour	8	0	
+ligne_sud1064		manachou_retour	9	0	
+ligne_sud1064		babalioua_retour	10	0	
+ligne_sud1064	7:07:00	barcelone_sud	11	0	7:07:00
+ligne_sud1065	7:00:00	ben_arous	1	0	7:00:00
+ligne_sud1065		"echebbi_retour	"	2	0	
+ligne_sud1065		"ennour_retour	"	3	0	
+ligne_sud1065		"ouardia6_retour	"	4	0	
+ligne_sud1065		"kabbaria_retour	"	5	0	
+ligne_sud1065		ibnsina_retour	6	0	
+ligne_sud1065	7:12:00	med ali_retour	7	0	7:12:00
+ligne_sud1065		13aout_retour	8	0	
+ligne_sud1065		manachou_retour	9	0	
+ligne_sud1065		babalioua_retour	10	0	
+ligne_sud1065	7:22:00	barcelone_sud	11	0	7:22:00
+ligne_sud1066	7:15:00	ben_arous	1	0	7:15:00
+ligne_sud1066		"echebbi_retour	"	2	0	
+ligne_sud1066		"ennour_retour	"	3	0	
+ligne_sud1066		"ouardia6_retour	"	4	0	
+ligne_sud1066		"kabbaria_retour	"	5	0	
+ligne_sud1066		ibnsina_retour	6	0	
+ligne_sud1066	7:27:00	med ali_retour	7	0	7:27:00
+ligne_sud1066		13aout_retour	8	0	
+ligne_sud1066		manachou_retour	9	0	
+ligne_sud1066		babalioua_retour	10	0	
+ligne_sud1066	7:37:00	barcelone_sud	11	0	7:37:00
+ligne_sud1067	7:30:00	ben_arous	1	0	7:30:00
+ligne_sud1067		"echebbi_retour	"	2	0	
+ligne_sud1067		"ennour_retour	"	3	0	
+ligne_sud1067		"ouardia6_retour	"	4	0	
+ligne_sud1067		"kabbaria_retour	"	5	0	
+ligne_sud1067		ibnsina_retour	6	0	
+ligne_sud1067	7:42:00	med ali_retour	7	0	7:42:00
+ligne_sud1067		13aout_retour	8	0	
+ligne_sud1067		manachou_retour	9	0	
+ligne_sud1067		babalioua_retour	10	0	
+ligne_sud1067	7:52:00	barcelone_sud	11	0	7:52:00
+ligne_sud1068	7:45:00	ben_arous	1	0	7:45:00
+ligne_sud1068		"echebbi_retour	"	2	0	
+ligne_sud1068		"ennour_retour	"	3	0	
+ligne_sud1068		"ouardia6_retour	"	4	0	
+ligne_sud1068		"kabbaria_retour	"	5	0	
+ligne_sud1068		ibnsina_retour	6	0	
+ligne_sud1068	7:57:00	med ali_retour	7	0	7:57:00
+ligne_sud1068		13aout_retour	8	0	
+ligne_sud1068		manachou_retour	9	0	
+ligne_sud1068		babalioua_retour	10	0	
+ligne_sud1068	8:07:00	barcelone_sud	11	0	8:07:00
+ligne_sud1069	8:00:00	ben_arous	1	0	8:00:00
+ligne_sud1069		"echebbi_retour	"	2	0	
+ligne_sud1069		"ennour_retour	"	3	0	
+ligne_sud1069		"ouardia6_retour	"	4	0	
+ligne_sud1069		"kabbaria_retour	"	5	0	
+ligne_sud1069		ibnsina_retour	6	0	
+ligne_sud1069	8:12:00	med ali_retour	7	0	8:12:00
+ligne_sud1069		13aout_retour	8	0	
+ligne_sud1069		manachou_retour	9	0	
+ligne_sud1069		babalioua_retour	10	0	
+ligne_sud1069	8:22:00	barcelone_sud	11	0	8:22:00
+ligne_sud1070	8:15:00	ben_arous	1	0	8:15:00
+ligne_sud1070		"echebbi_retour	"	2	0	
+ligne_sud1070		"ennour_retour	"	3	0	
+ligne_sud1070		"ouardia6_retour	"	4	0	
+ligne_sud1070		"kabbaria_retour	"	5	0	
+ligne_sud1070		ibnsina_retour	6	0	
+ligne_sud1070	8:27:00	med ali_retour	7	0	8:27:00
+ligne_sud1070		13aout_retour	8	0	
+ligne_sud1070		manachou_retour	9	0	
+ligne_sud1070		babalioua_retour	10	0	
+ligne_sud1070	8:37:00	barcelone_sud	11	0	8:37:00
+ligne_sud1071	8:30:00	ben_arous	1	0	8:30:00
+ligne_sud1071		"echebbi_retour	"	2	0	
+ligne_sud1071		"ennour_retour	"	3	0	
+ligne_sud1071		"ouardia6_retour	"	4	0	
+ligne_sud1071		"kabbaria_retour	"	5	0	
+ligne_sud1071		ibnsina_retour	6	0	
+ligne_sud1071	8:42:00	med ali_retour	7	0	8:42:00
+ligne_sud1071		13aout_retour	8	0	
+ligne_sud1071		manachou_retour	9	0	
+ligne_sud1071		babalioua_retour	10	0	
+ligne_sud1071	8:52:00	barcelone_sud	11	0	8:52:00
+ligne_sud1072	8:45:00	ben_arous	1	0	8:45:00
+ligne_sud1072		"echebbi_retour	"	2	0	
+ligne_sud1072		"ennour_retour	"	3	0	
+ligne_sud1072		"ouardia6_retour	"	4	0	
+ligne_sud1072		"kabbaria_retour	"	5	0	
+ligne_sud1072		ibnsina_retour	6	0	
+ligne_sud1072	8:57:00	med ali_retour	7	0	8:57:00
+ligne_sud1072		13aout_retour	8	0	
+ligne_sud1072		manachou_retour	9	0	
+ligne_sud1072		babalioua_retour	10	0	
+ligne_sud1072	9:07:00	barcelone_sud	11	0	9:07:00
+ligne_sud1073	9:00:00	ben_arous	1	0	9:00:00
+ligne_sud1073		"echebbi_retour	"	2	0	
+ligne_sud1073		"ennour_retour	"	3	0	
+ligne_sud1073		"ouardia6_retour	"	4	0	
+ligne_sud1073		"kabbaria_retour	"	5	0	
+ligne_sud1073		ibnsina_retour	6	0	
+ligne_sud1073	9:12:00	med ali_retour	7	0	9:12:00
+ligne_sud1073		13aout_retour	8	0	
+ligne_sud1073		manachou_retour	9	0	
+ligne_sud1073		babalioua_retour	10	0	
+ligne_sud1073	9:22:00	barcelone_sud	11	0	9:22:00
+ligne_sud1074	9:15:00	ben_arous	1	0	9:15:00
+ligne_sud1074		"echebbi_retour	"	2	0	
+ligne_sud1074		"ennour_retour	"	3	0	
+ligne_sud1074		"ouardia6_retour	"	4	0	
+ligne_sud1074		"kabbaria_retour	"	5	0	
+ligne_sud1074		ibnsina_retour	6	0	
+ligne_sud1074	9:27:00	med ali_retour	7	0	9:27:00
+ligne_sud1074		13aout_retour	8	0	
+ligne_sud1074		manachou_retour	9	0	
+ligne_sud1074		babalioua_retour	10	0	
+ligne_sud1074	9:37:00	barcelone_sud	11	0	9:37:00
+ligne_sud1075	9:30:00	ben_arous	1	0	9:30:00
+ligne_sud1075		"echebbi_retour	"	2	0	
+ligne_sud1075		"ennour_retour	"	3	0	
+ligne_sud1075		"ouardia6_retour	"	4	0	
+ligne_sud1075		"kabbaria_retour	"	5	0	
+ligne_sud1075		ibnsina_retour	6	0	
+ligne_sud1075	9:42:00	med ali_retour	7	0	9:42:00
+ligne_sud1075		13aout_retour	8	0	
+ligne_sud1075		manachou_retour	9	0	
+ligne_sud1075		babalioua_retour	10	0	
+ligne_sud1075	9:52:00	barcelone_sud	11	0	9:52:00
+ligne_sud1076	9:45:00	ben_arous	1	0	9:45:00
+ligne_sud1076		"echebbi_retour	"	2	0	
+ligne_sud1076		"ennour_retour	"	3	0	
+ligne_sud1076		"ouardia6_retour	"	4	0	
+ligne_sud1076		"kabbaria_retour	"	5	0	
+ligne_sud1076		ibnsina_retour	6	0	
+ligne_sud1076	9:57:00	med ali_retour	7	0	9:57:00
+ligne_sud1076		13aout_retour	8	0	
+ligne_sud1076		manachou_retour	9	0	
+ligne_sud1076		babalioua_retour	10	0	
+ligne_sud1076	10:07:00	barcelone_sud	11	0	10:07:00
+ligne_sud1077	10:00:00	ben_arous	1	0	10:00:00
+ligne_sud1077		"echebbi_retour	"	2	0	
+ligne_sud1077		"ennour_retour	"	3	0	
+ligne_sud1077		"ouardia6_retour	"	4	0	
+ligne_sud1077		"kabbaria_retour	"	5	0	
+ligne_sud1077		ibnsina_retour	6	0	
+ligne_sud1077	10:12:00	med ali_retour	7	0	10:12:00
+ligne_sud1077		13aout_retour	8	0	
+ligne_sud1077		manachou_retour	9	0	
+ligne_sud1077		babalioua_retour	10	0	
+ligne_sud1077	10:22:00	barcelone_sud	11	0	10:22:00
+ligne_sud1078	10:15:00	ben_arous	1	0	10:15:00
+ligne_sud1078		"echebbi_retour	"	2	0	
+ligne_sud1078		"ennour_retour	"	3	0	
+ligne_sud1078		"ouardia6_retour	"	4	0	
+ligne_sud1078		"kabbaria_retour	"	5	0	
+ligne_sud1078		ibnsina_retour	6	0	
+ligne_sud1078	10:27:00	med ali_retour	7	0	10:27:00
+ligne_sud1078		13aout_retour	8	0	
+ligne_sud1078		manachou_retour	9	0	
+ligne_sud1078		babalioua_retour	10	0	
+ligne_sud1078	10:37:00	barcelone_sud	11	0	10:37:00
+ligne_sud1079	10:30:00	ben_arous	1	0	10:30:00
+ligne_sud1079		"echebbi_retour	"	2	0	
+ligne_sud1079		"ennour_retour	"	3	0	
+ligne_sud1079		"ouardia6_retour	"	4	0	
+ligne_sud1079		"kabbaria_retour	"	5	0	
+ligne_sud1079		ibnsina_retour	6	0	
+ligne_sud1079	10:42:00	med ali_retour	7	0	10:42:00
+ligne_sud1079		13aout_retour	8	0	
+ligne_sud1079		manachou_retour	9	0	
+ligne_sud1079		babalioua_retour	10	0	
+ligne_sud1079	10:52:00	barcelone_sud	11	0	10:52:00
+ligne_sud1080	10:45:00	ben_arous	1	0	10:45:00
+ligne_sud1080		"echebbi_retour	"	2	0	
+ligne_sud1080		"ennour_retour	"	3	0	
+ligne_sud1080		"ouardia6_retour	"	4	0	
+ligne_sud1080		"kabbaria_retour	"	5	0	
+ligne_sud1080		ibnsina_retour	6	0	
+ligne_sud1080	10:57:00	med ali_retour	7	0	10:57:00
+ligne_sud1080		13aout_retour	8	0	
+ligne_sud1080		manachou_retour	9	0	
+ligne_sud1080		babalioua_retour	10	0	
+ligne_sud1080	11:07:00	barcelone_sud	11	0	11:07:00
+ligne_sud1081	11:00:00	ben_arous	1	0	11:00:00
+ligne_sud1081		"echebbi_retour	"	2	0	
+ligne_sud1081		"ennour_retour	"	3	0	
+ligne_sud1081		"ouardia6_retour	"	4	0	
+ligne_sud1081		"kabbaria_retour	"	5	0	
+ligne_sud1081		ibnsina_retour	6	0	
+ligne_sud1081	11:12:00	med ali_retour	7	0	11:12:00
+ligne_sud1081		13aout_retour	8	0	
+ligne_sud1081		manachou_retour	9	0	
+ligne_sud1081		babalioua_retour	10	0	
+ligne_sud1081	11:22:00	barcelone_sud	11	0	11:22:00
+ligne_sud1082	11:15:00	ben_arous	1	0	11:15:00
+ligne_sud1082		"echebbi_retour	"	2	0	
+ligne_sud1082		"ennour_retour	"	3	0	
+ligne_sud1082		"ouardia6_retour	"	4	0	
+ligne_sud1082		"kabbaria_retour	"	5	0	
+ligne_sud1082		ibnsina_retour	6	0	
+ligne_sud1082	11:27:00	med ali_retour	7	0	11:27:00
+ligne_sud1082		13aout_retour	8	0	
+ligne_sud1082		manachou_retour	9	0	
+ligne_sud1082		babalioua_retour	10	0	
+ligne_sud1082	11:37:00	barcelone_sud	11	0	11:37:00
+ligne_sud1083	11:30:00	ben_arous	1	0	11:30:00
+ligne_sud1083		"echebbi_retour	"	2	0	
+ligne_sud1083		"ennour_retour	"	3	0	
+ligne_sud1083		"ouardia6_retour	"	4	0	
+ligne_sud1083		"kabbaria_retour	"	5	0	
+ligne_sud1083		ibnsina_retour	6	0	
+ligne_sud1083	11:42:00	med ali_retour	7	0	11:42:00
+ligne_sud1083		13aout_retour	8	0	
+ligne_sud1083		manachou_retour	9	0	
+ligne_sud1083		babalioua_retour	10	0	
+ligne_sud1083	11:52:00	barcelone_sud	11	0	11:52:00
+ligne_sud1084	11:45:00	ben_arous	1	0	11:45:00
+ligne_sud1084		"echebbi_retour	"	2	0	
+ligne_sud1084		"ennour_retour	"	3	0	
+ligne_sud1084		"ouardia6_retour	"	4	0	
+ligne_sud1084		"kabbaria_retour	"	5	0	
+ligne_sud1084		ibnsina_retour	6	0	
+ligne_sud1084	11:57:00	med ali_retour	7	0	11:57:00
+ligne_sud1084		13aout_retour	8	0	
+ligne_sud1084		manachou_retour	9	0	
+ligne_sud1084		babalioua_retour	10	0	
+ligne_sud1084	12:07:00	barcelone_sud	11	0	12:07:00
+ligne_sud1085	12:00:00	ben_arous	1	0	12:00:00
+ligne_sud1085		"echebbi_retour	"	2	0	
+ligne_sud1085		"ennour_retour	"	3	0	
+ligne_sud1085		"ouardia6_retour	"	4	0	
+ligne_sud1085		"kabbaria_retour	"	5	0	
+ligne_sud1085		ibnsina_retour	6	0	
+ligne_sud1085	12:12:00	med ali_retour	7	0	12:12:00
+ligne_sud1085		13aout_retour	8	0	
+ligne_sud1085		manachou_retour	9	0	
+ligne_sud1085		babalioua_retour	10	0	
+ligne_sud1085	12:22:00	barcelone_sud	11	0	12:22:00
+ligne_sud1086	12:15:00	ben_arous	1	0	12:15:00
+ligne_sud1086		"echebbi_retour	"	2	0	
+ligne_sud1086		"ennour_retour	"	3	0	
+ligne_sud1086		"ouardia6_retour	"	4	0	
+ligne_sud1086		"kabbaria_retour	"	5	0	
+ligne_sud1086		ibnsina_retour	6	0	
+ligne_sud1086	12:27:00	med ali_retour	7	0	12:27:00
+ligne_sud1086		13aout_retour	8	0	
+ligne_sud1086		manachou_retour	9	0	
+ligne_sud1086		babalioua_retour	10	0	
+ligne_sud1086	12:37:00	barcelone_sud	11	0	12:37:00
+ligne_sud1087	12:30:00	ben_arous	1	0	12:30:00
+ligne_sud1087		"echebbi_retour	"	2	0	
+ligne_sud1087		"ennour_retour	"	3	0	
+ligne_sud1087		"ouardia6_retour	"	4	0	
+ligne_sud1087		"kabbaria_retour	"	5	0	
+ligne_sud1087		ibnsina_retour	6	0	
+ligne_sud1087	12:42:00	med ali_retour	7	0	12:42:00
+ligne_sud1087		13aout_retour	8	0	
+ligne_sud1087		manachou_retour	9	0	
+ligne_sud1087		babalioua_retour	10	0	
+ligne_sud1087	12:52:00	barcelone_sud	11	0	12:52:00
+ligne_sud1088	12:45:00	ben_arous	1	0	12:45:00
+ligne_sud1088		"echebbi_retour	"	2	0	
+ligne_sud1088		"ennour_retour	"	3	0	
+ligne_sud1088		"ouardia6_retour	"	4	0	
+ligne_sud1088		"kabbaria_retour	"	5	0	
+ligne_sud1088		ibnsina_retour	6	0	
+ligne_sud1088	12:57:00	med ali_retour	7	0	12:57:00
+ligne_sud1088		13aout_retour	8	0	
+ligne_sud1088		manachou_retour	9	0	
+ligne_sud1088		babalioua_retour	10	0	
+ligne_sud1088	13:07:00	barcelone_sud	11	0	13:07:00
+ligne_sud1090	13:15:00	ben_arous	1	0	13:15:00
+ligne_sud1090		"echebbi_retour	"	2	0	
+ligne_sud1090		"ennour_retour	"	3	0	
+ligne_sud1090		"ouardia6_retour	"	4	0	
+ligne_sud1090		"kabbaria_retour	"	5	0	
+ligne_sud1090		ibnsina_retour	6	0	
+ligne_sud1090	13:27:00	med ali_retour	7	0	13:27:00
+ligne_sud1090		13aout_retour	8	0	
+ligne_sud1090		manachou_retour	9	0	
+ligne_sud1090		babalioua_retour	10	0	
+ligne_sud1090	13:37:00	barcelone_sud	11	0	13:37:00
+ligneTGM	3:30:00	tunis_marine	1	0	3:30:00
+ligneTGM		le bac	2	0	
+ligneTGM	4:40:00	la goulette	3	0	4:40:00
+ligneTGM		goulette_neuve	4	0	
+ligneTGM		goulette_casino	5	0	
+ligneTGM		khiareddine	6	0	
+ligneTGM		l'aéroport	7	0	
+ligneTGM	4:47:00	le kram	8	0	4:47:00
+ligneTGM		carthage_salambo	9	0	
+ligneTGM		carthage_byrsa	10	0	
+ligneTGM		carthage_dermech	11	0	
+ligneTGM		carthage_hannibal	12	0	
+ligneTGM	4:55:00	carthage_présidence	13	0	4:55:00
+ligneTGM		carthage_amilcar	14	0	
+ligneTGM		sidi_bousaid	15	0	
+ligneTGM		sidi_dhrif	16	0	
+ligneTGM		corniche	17	0	
+ligneTGM	4:05:00	marsa_plage	18	0	4:05:00
+ligneTGM001	4:18:00	tunis_marine	1	0	4:18:00
+ligneTGM001		le bac	2	0	
+ligneTGM001	4:28:00	la goulette	3	0	4:28:00
+ligneTGM001		goulette_neuve	4	0	
+ligneTGM001		goulette_casino	5	0	
+ligneTGM001		khiareddine	6	0	
+ligneTGM001		l'aéroport	7	0	
+ligneTGM001	4:35:00	le kram	8	0	4:35:00
+ligneTGM001		carthage_salambo	9	0	
+ligneTGM001		carthage_byrsa	10	0	
+ligneTGM001		carthage_dermech	11	0	
+ligneTGM001		carthage_hannibal	12	0	
+ligneTGM001	4:43:00	carthage_présidence	13	0	4:43:00
+ligneTGM001		carthage_amilcar	14	0	
+ligneTGM001		sidi_bousaid	15	0	
+ligneTGM001		sidi_dhrif	16	0	
+ligneTGM001		corniche	17	0	
+ligneTGM001	4:53:00	marsa_plage	18	0	4:53:00
+ligneTGM002	5:00:00	tunis_marine	1	0	5:00:00
+ligneTGM002		le bac	2	0	
+ligneTGM002	5:10:00	la goulette	3	0	5:10:00
+ligneTGM002		goulette_neuve	4	0	
+ligneTGM002		goulette_casino	5	0	
+ligneTGM002		khiareddine	6	0	
+ligneTGM002		l'aéroport	7	0	
+ligneTGM002	5:17:00	le kram	8	0	5:17:00
+ligneTGM002		carthage_salambo	9	0	
+ligneTGM002		carthage_byrsa	10	0	
+ligneTGM002		carthage_dermech	11	0	
+ligneTGM002		carthage_hannibal	12	0	
+ligneTGM002	5:25:00	carthage_présidence	13	0	5:25:00
+ligneTGM002		carthage_amilcar	14	0	
+ligneTGM002		sidi_bousaid	15	0	
+ligneTGM002		sidi_dhrif	16	0	
+ligneTGM002		corniche	17	0	
+ligneTGM002	5:35:00	marsa_plage	18	0	5:35:00
+ligneTGM003	5:24:00	tunis_marine	1	0	5:24:00
+ligneTGM003		le bac	2	0	
+ligneTGM003	5:34:00	la goulette	3	0	5:34:00
+ligneTGM003		goulette_neuve	4	0	
+ligneTGM003		goulette_casino	5	0	
+ligneTGM003		khiareddine	6	0	
+ligneTGM003		l'aéroport	7	0	
+ligneTGM003	5:41:00	le kram	8	0	5:41:00
+ligneTGM003		carthage_salambo	9	0	
+ligneTGM003		carthage_byrsa	10	0	
+ligneTGM003		carthage_dermech	11	0	
+ligneTGM003		carthage_hannibal	12	0	
+ligneTGM003	5:49:00	carthage_présidence	13	0	5:49:00
+ligneTGM003		carthage_amilcar	14	0	
+ligneTGM003		sidi_bousaid	15	0	
+ligneTGM003		sidi_dhrif	16	0	
+ligneTGM003		corniche	17	0	
+ligneTGM003	5:59:00	marsa_plage	18	0	5:59:00
+ligneTGM004	5:42:00	tunis_marine	1	0	5:42:00
+ligneTGM004		le bac	2	0	
+ligneTGM004	5:52:00	la goulette	3	0	5:52:00
+ligneTGM004		goulette_neuve	4	0	
+ligneTGM004		goulette_casino	5	0	
+ligneTGM004		khiareddine	6	0	
+ligneTGM004		l'aéroport	7	0	
+ligneTGM004	5:59:00	le kram	8	0	5:59:00
+ligneTGM004		carthage_salambo	9	0	
+ligneTGM004		carthage_byrsa	10	0	
+ligneTGM004		carthage_dermech	11	0	
+ligneTGM004		carthage_hannibal	12	0	
+ligneTGM004	6:07:00	carthage_présidence	13	0	6:07:00
+ligneTGM004		carthage_amilcar	14	0	
+ligneTGM004		sidi_bousaid	15	0	
+ligneTGM004		sidi_dhrif	16	0	
+ligneTGM004		corniche	17	0	
+ligneTGM004	6:17:00	marsa_plage	18	0	6:17:00
+ligneTGM005	6:00:00	tunis_marine	1	0	6:00:00
+ligneTGM005		le bac	2	0	
+ligneTGM005	6:10:00	la goulette	3	0	6:10:00
+ligneTGM005		goulette_neuve	4	0	
+ligneTGM005		goulette_casino	5	0	
+ligneTGM005		khiareddine	6	0	
+ligneTGM005		l'aéroport	7	0	
+ligneTGM005	6:17:00	le kram	8	0	6:17:00
+ligneTGM005		carthage_salambo	9	0	
+ligneTGM005		carthage_byrsa	10	0	
+ligneTGM005		carthage_dermech	11	0	
+ligneTGM005		carthage_hannibal	12	0	
+ligneTGM005	6:25:00	carthage_présidence	13	0	6:25:00
+ligneTGM005		carthage_amilcar	14	0	
+ligneTGM005		sidi_bousaid	15	0	
+ligneTGM005		sidi_dhrif	16	0	
+ligneTGM005		corniche	17	0	
+ligneTGM005	6:35:00	marsa_plage	18	0	6:35:00
+ligneTGM006	6:15:00	tunis_marine	1	0	6:15:00
+ligneTGM006		le bac	2	0	
+ligneTGM006	6:25:00	la goulette	3	0	6:25:00
+ligneTGM006		goulette_neuve	4	0	
+ligneTGM006		goulette_casino	5	0	
+ligneTGM006		khiareddine	6	0	
+ligneTGM006		l'aéroport	7	0	
+ligneTGM006	6:32:00	le kram	8	0	6:32:00
+ligneTGM006		carthage_salambo	9	0	
+ligneTGM006		carthage_byrsa	10	0	
+ligneTGM006		carthage_dermech	11	0	
+ligneTGM006		carthage_hannibal	12	0	
+ligneTGM006	6:40:00	carthage_présidence	13	0	6:40:00
+ligneTGM006		carthage_amilcar	14	0	
+ligneTGM006		sidi_bousaid	15	0	
+ligneTGM006		sidi_dhrif	16	0	
+ligneTGM006		corniche	17	0	
+ligneTGM006	6:50:00	marsa_plage	18	0	6:50:00
+ligneTGM007	6:30:00	tunis_marine	1	0	6:30:00
+ligneTGM007		le bac	2	0	
+ligneTGM007	6:40:00	la goulette	3	0	6:40:00
+ligneTGM007		goulette_neuve	4	0	
+ligneTGM007		goulette_casino	5	0	
+ligneTGM007		khiareddine	6	0	
+ligneTGM007		l'aéroport	7	0	
+ligneTGM007	6:47:00	le kram	8	0	6:47:00
+ligneTGM007		carthage_salambo	9	0	
+ligneTGM007		carthage_byrsa	10	0	
+ligneTGM007		carthage_dermech	11	0	
+ligneTGM007		carthage_hannibal	12	0	
+ligneTGM007	6:55:00	carthage_présidence	13	0	6:55:00
+ligneTGM007		carthage_amilcar	14	0	
+ligneTGM007		sidi_bousaid	15	0	
+ligneTGM007		sidi_dhrif	16	0	
+ligneTGM007		corniche	17	0	
+ligneTGM007	7:05:00	marsa_plage	18	0	7:05:00
+ligneTGM008	6:45:00	tunis_marine	1	0	6:45:00
+ligneTGM008		le bac	2	0	
+ligneTGM008	6:55:00	la goulette	3	0	6:55:00
+ligneTGM008		goulette_neuve	4	0	
+ligneTGM008		goulette_casino	5	0	
+ligneTGM008		khiareddine	6	0	
+ligneTGM008		l'aéroport	7	0	
+ligneTGM008	7:02:00	le kram	8	0	7:02:00
+ligneTGM008		carthage_salambo	9	0	
+ligneTGM008		carthage_byrsa	10	0	
+ligneTGM008		carthage_dermech	11	0	
+ligneTGM008		carthage_hannibal	12	0	
+ligneTGM008	7:10:00	carthage_présidence	13	0	7:10:00
+ligneTGM008		carthage_amilcar	14	0	
+ligneTGM008		sidi_bousaid	15	0	
+ligneTGM008		sidi_dhrif	16	0	
+ligneTGM008		corniche	17	0	
+ligneTGM008	7:20:00	marsa_plage	18	0	7:20:00
+ligneTGM009	7:00:00	tunis_marine	1	0	7:00:00
+ligneTGM009		le bac	2	0	
+ligneTGM009	7:10:00	la goulette	3	0	7:10:00
+ligneTGM009		goulette_neuve	4	0	
+ligneTGM009		goulette_casino	5	0	
+ligneTGM009		khiareddine	6	0	
+ligneTGM009		l'aéroport	7	0	
+ligneTGM009	7:17:00	le kram	8	0	7:17:00
+ligneTGM009		carthage_salambo	9	0	
+ligneTGM009		carthage_byrsa	10	0	
+ligneTGM009		carthage_dermech	11	0	
+ligneTGM009		carthage_hannibal	12	0	
+ligneTGM009	7:25:00	carthage_présidence	13	0	7:25:00
+ligneTGM009		carthage_amilcar	14	0	
+ligneTGM009		sidi_bousaid	15	0	
+ligneTGM009		sidi_dhrif	16	0	
+ligneTGM009		corniche	17	0	
+ligneTGM009	7:35:00	marsa_plage	18	0	7:35:00
+ligneTGM010	7:12:00	tunis_marine	1	0	7:12:00
+ligneTGM010		le bac	2	0	
+ligneTGM010	7:22:00	la goulette	3	0	7:22:00
+ligneTGM010		goulette_neuve	4	0	
+ligneTGM010		goulette_casino	5	0	
+ligneTGM010		khiareddine	6	0	
+ligneTGM010		l'aéroport	7	0	
+ligneTGM010	7:29:00	le kram	8	0	7:29:00
+ligneTGM010		carthage_salambo	9	0	
+ligneTGM010		carthage_byrsa	10	0	
+ligneTGM010		carthage_dermech	11	0	
+ligneTGM010		carthage_hannibal	12	0	
+ligneTGM010	7:37:00	carthage_présidence	13	0	7:37:00
+ligneTGM010		carthage_amilcar	14	0	
+ligneTGM010		sidi_bousaid	15	0	
+ligneTGM010		sidi_dhrif	16	0	
+ligneTGM010		corniche	17	0	
+ligneTGM010	7:47:00	marsa_plage	18	0	7:47:00
+ligneTGM011	7:24:00	tunis_marine	1	0	7:24:00
+ligneTGM011		le bac	2	0	
+ligneTGM011	7:34:00	la goulette	3	0	7:34:00
+ligneTGM011		goulette_neuve	4	0	
+ligneTGM011		goulette_casino	5	0	
+ligneTGM011		khiareddine	6	0	
+ligneTGM011		l'aéroport	7	0	
+ligneTGM011	7:41:00	le kram	8	0	7:41:00
+ligneTGM011		carthage_salambo	9	0	
+ligneTGM011		carthage_byrsa	10	0	
+ligneTGM011		carthage_dermech	11	0	
+ligneTGM011		carthage_hannibal	12	0	
+ligneTGM011	7:49:00	carthage_présidence	13	0	7:49:00
+ligneTGM011		carthage_amilcar	14	0	
+ligneTGM011		sidi_bousaid	15	0	
+ligneTGM011		sidi_dhrif	16	0	
+ligneTGM011		corniche	17	0	
+ligneTGM011	7:59:00	marsa_plage	18	0	7:59:00
+ligneTGM012	7:36:00	tunis_marine	1	0	7:36:00
+ligneTGM012		le bac	2	0	
+ligneTGM012	7:46:00	la goulette	3	0	7:46:00
+ligneTGM012		goulette_neuve	4	0	
+ligneTGM012		goulette_casino	5	0	
+ligneTGM012		khiareddine	6	0	
+ligneTGM012		l'aéroport	7	0	
+ligneTGM012	7:53:00	le kram	8	0	7:53:00
+ligneTGM012		carthage_salambo	9	0	
+ligneTGM012		carthage_byrsa	10	0	
+ligneTGM012		carthage_dermech	11	0	
+ligneTGM012		carthage_hannibal	12	0	
+ligneTGM012	8:01:00	carthage_présidence	13	0	8:01:00
+ligneTGM012		carthage_amilcar	14	0	
+ligneTGM012		sidi_bousaid	15	0	
+ligneTGM012		sidi_dhrif	16	0	
+ligneTGM012		corniche	17	0	
+ligneTGM012	8:11:00	marsa_plage	18	0	8:11:00
+ligneTGM013	7:48:00	tunis_marine	1	0	7:48:00
+ligneTGM013		le bac	2	0	
+ligneTGM013	7:58:00	la goulette	3	0	7:58:00
+ligneTGM013		goulette_neuve	4	0	
+ligneTGM013		goulette_casino	5	0	
+ligneTGM013		khiareddine	6	0	
+ligneTGM013		l'aéroport	7	0	
+ligneTGM013	8:05:00	le kram	8	0	8:05:00
+ligneTGM013		carthage_salambo	9	0	
+ligneTGM013		carthage_byrsa	10	0	
+ligneTGM013		carthage_dermech	11	0	
+ligneTGM013		carthage_hannibal	12	0	
+ligneTGM013	8:13:00	carthage_présidence	13	0	8:13:00
+ligneTGM013		carthage_amilcar	14	0	
+ligneTGM013		sidi_bousaid	15	0	
+ligneTGM013		sidi_dhrif	16	0	
+ligneTGM013		corniche	17	0	
+ligneTGM013	8:23:00	marsa_plage	18	0	8:23:00
+ligne_sud1091	13:30:00	ben_arous	1	0	13:30:00
+ligne_sud1091		"echebbi_retour	"	2	0	
+ligne_sud1091		"ennour_retour	"	3	0	
+ligne_sud1091		"ouardia6_retour	"	4	0	
+ligne_sud1091		"kabbaria_retour	"	5	0	
+ligne_sud1091		ibnsina_retour	6	0	
+ligne_sud1091	13:42:00	med ali_retour	7	0	13:42:00
+ligne_sud1091		13aout_retour	8	0	
+ligne_sud1091		manachou_retour	9	0	
+ligne_sud1091		babalioua_retour	10	0	
+ligne_sud1091	13:52:00	barcelone_sud	11	0	13:52:00
+ligne_sud1092	13:45:00	ben_arous	1	0	13:45:00
+ligne_sud1092		"echebbi_retour	"	2	0	
+ligne_sud1092		"ennour_retour	"	3	0	
+ligne_sud1092		"ouardia6_retour	"	4	0	
+ligne_sud1092		"kabbaria_retour	"	5	0	
+ligne_sud1092		ibnsina_retour	6	0	
+ligne_sud1092	13:57:00	med ali_retour	7	0	13:57:00
+ligne_sud1092		13aout_retour	8	0	
+ligne_sud1092		manachou_retour	9	0	
+ligne_sud1092		babalioua_retour	10	0	
+ligne_sud1092	14:07:00	barcelone_sud	11	0	14:07:00
+ligne_sud1093	14:00:00	ben_arous	1	0	14:00:00
+ligne_sud1093		"echebbi_retour	"	2	0	
+ligne_sud1093		"ennour_retour	"	3	0	
+ligne_sud1093		"ouardia6_retour	"	4	0	
+ligne_sud1093		"kabbaria_retour	"	5	0	
+ligne_sud1093		ibnsina_retour	6	0	
+ligne_sud1093	14:12:00	med ali_retour	7	0	14:12:00
+ligne_sud1093		13aout_retour	8	0	
+ligne_sud1093		manachou_retour	9	0	
+ligne_sud1093		babalioua_retour	10	0	
+ligne_sud1093	14:22:00	barcelone_sud	11	0	14:22:00
+ligne_sud1094	14:15:00	ben_arous	1	0	14:15:00
+ligne_sud1094		"echebbi_retour	"	2	0	
+ligne_sud1094		"ennour_retour	"	3	0	
+ligne_sud1094		"ouardia6_retour	"	4	0	
+ligne_sud1094		"kabbaria_retour	"	5	0	
+ligne_sud1094		ibnsina_retour	6	0	
+ligne_sud1094	14:27:00	med ali_retour	7	0	14:27:00
+ligne_sud1094		13aout_retour	8	0	
+ligne_sud1094		manachou_retour	9	0	
+ligne_sud1094		babalioua_retour	10	0	
+ligne_sud1094	14:37:00	barcelone_sud	11	0	14:37:00
+ligne_sud1095	14:30:00	ben_arous	1	0	14:30:00
+ligne_sud1095		"echebbi_retour	"	2	0	
+ligne_sud1095		"ennour_retour	"	3	0	
+ligne_sud1095		"ouardia6_retour	"	4	0	
+ligne_sud1095		"kabbaria_retour	"	5	0	
+ligne_sud1095		ibnsina_retour	6	0	
+ligne_sud1095	14:42:00	med ali_retour	7	0	14:42:00
+ligne_sud1095		13aout_retour	8	0	
+ligne_sud1095		manachou_retour	9	0	
+ligne_sud1095		babalioua_retour	10	0	
+ligne_sud1095	14:52:00	barcelone_sud	11	0	14:52:00
+ligne_sud1096	14:45:00	ben_arous	1	0	14:45:00
+ligne_sud1096		"echebbi_retour	"	2	0	
+ligne_sud1096		"ennour_retour	"	3	0	
+ligne_sud1096		"ouardia6_retour	"	4	0	
+ligne_sud1096		"kabbaria_retour	"	5	0	
+ligne_sud1096		ibnsina_retour	6	0	
+ligne_sud1096	14:57:00	med ali_retour	7	0	14:57:00
+ligne_sud1096		13aout_retour	8	0	
+ligne_sud1096		manachou_retour	9	0	
+ligne_sud1096		babalioua_retour	10	0	
+ligne_sud1096	15:07:00	barcelone_sud	11	0	15:07:00
+ligne_sud1097	15:00:00	ben_arous	1	0	15:00:00
+ligne_sud1097		"echebbi_retour	"	2	0	
+ligne_sud1097		"ennour_retour	"	3	0	
+ligne_sud1097		"ouardia6_retour	"	4	0	
+ligne_sud1097		"kabbaria_retour	"	5	0	
+ligne_sud1097		ibnsina_retour	6	0	
+ligne_sud1097	15:12:00	med ali_retour	7	0	15:12:00
+ligne_sud1097		13aout_retour	8	0	
+ligne_sud1097		manachou_retour	9	0	
+ligne_sud1097		babalioua_retour	10	0	
+ligne_sud1097	15:22:00	barcelone_sud	11	0	15:22:00
+ligne_sud1098	15:15:00	ben_arous	1	0	15:15:00
+ligne_sud1098		"echebbi_retour	"	2	0	
+ligne_sud1098		"ennour_retour	"	3	0	
+ligne_sud1098		"ouardia6_retour	"	4	0	
+ligne_sud1098		"kabbaria_retour	"	5	0	
+ligne_sud1098		ibnsina_retour	6	0	
+ligne_sud1098	15:27:00	med ali_retour	7	0	15:27:00
+ligne_sud1098		13aout_retour	8	0	
+ligne_sud1098		manachou_retour	9	0	
+ligne_sud1098		babalioua_retour	10	0	
+ligne_sud1098	15:37:00	barcelone_sud	11	0	15:37:00
+ligne_sud1099	15:30:00	ben_arous	1	0	15:30:00
+ligne_sud1099		"echebbi_retour	"	2	0	
+ligne_sud1099		"ennour_retour	"	3	0	
+ligne_sud1099		"ouardia6_retour	"	4	0	
+ligne_sud1099		"kabbaria_retour	"	5	0	
+ligne_sud1099		ibnsina_retour	6	0	
+ligne_sud1099	15:42:00	med ali_retour	7	0	15:42:00
+ligne_sud1099		13aout_retour	8	0	
+ligne_sud1099		manachou_retour	9	0	
+ligne_sud1099		babalioua_retour	10	0	
+ligne_sud1099	15:52:00	barcelone_sud	11	0	15:52:00
+ligne_sud1100	15:45:00	ben_arous	1	0	15:45:00
+ligne_sud1100		"echebbi_retour	"	2	0	
+ligne_sud1100		"ennour_retour	"	3	0	
+ligne_sud1100		"ouardia6_retour	"	4	0	
+ligne_sud1100		"kabbaria_retour	"	5	0	
+ligne_sud1100		ibnsina_retour	6	0	
+ligne_sud1100	15:57:00	med ali_retour	7	0	15:57:00
+ligne_sud1100		13aout_retour	8	0	
+ligne_sud1100		manachou_retour	9	0	
+ligne_sud1100		babalioua_retour	10	0	
+ligne_sud1100	16:07:00	barcelone_sud	11	0	16:07:00
+ligne_sud1101	16:00:00	ben_arous	1	0	16:00:00
+ligne_sud1101		"echebbi_retour	"	2	0	
+ligne_sud1101		"ennour_retour	"	3	0	
+ligne_sud1101		"ouardia6_retour	"	4	0	
+ligne_sud1101		"kabbaria_retour	"	5	0	
+ligne_sud1101		ibnsina_retour	6	0	
+ligne_sud1101	16:12:00	med ali_retour	7	0	16:12:00
+ligne_sud1101		13aout_retour	8	0	
+ligne_sud1101		manachou_retour	9	0	
+ligne_sud1101		babalioua_retour	10	0	
+ligne_sud1101	16:22:00	barcelone_sud	11	0	16:22:00
+ligne_sud1102	16:15:00	ben_arous	1	0	16:15:00
+ligne_sud1102		"echebbi_retour	"	2	0	
+ligne_sud1102		"ennour_retour	"	3	0	
+ligne_sud1102		"ouardia6_retour	"	4	0	
+ligne_sud1102		"kabbaria_retour	"	5	0	
+ligne_sud1102		ibnsina_retour	6	0	
+ligne_sud1102	16:27:00	med ali_retour	7	0	16:27:00
+ligne_sud1102		13aout_retour	8	0	
+ligne_sud1102		manachou_retour	9	0	
+ligne_sud1102		babalioua_retour	10	0	
+ligne_sud1102	16:37:00	barcelone_sud	11	0	16:37:00
+ligne_sud1103	16:30:00	ben_arous	1	0	16:30:00
+ligne_sud1103		"echebbi_retour	"	2	0	
+ligne_sud1103		"ennour_retour	"	3	0	
+ligne_sud1103		"ouardia6_retour	"	4	0	
+ligne_sud1103		"kabbaria_retour	"	5	0	
+ligne_sud1103		ibnsina_retour	6	0	
+ligne_sud1103	16:42:00	med ali_retour	7	0	16:42:00
+ligne_sud1103		13aout_retour	8	0	
+ligne_sud1103		manachou_retour	9	0	
+ligne_sud1103		babalioua_retour	10	0	
+ligne_sud1103	16:52:00	barcelone_sud	11	0	16:52:00
+ligne_sud1104	16:45:00	ben_arous	1	0	16:45:00
+ligne_sud1104		"echebbi_retour	"	2	0	
+ligne_sud1104		"ennour_retour	"	3	0	
+ligne_sud1104		"ouardia6_retour	"	4	0	
+ligne_sud1104		"kabbaria_retour	"	5	0	
+ligne_sud1104		ibnsina_retour	6	0	
+ligne_sud1104	16:57:00	med ali_retour	7	0	16:57:00
+ligne_sud1104		13aout_retour	8	0	
+ligne_sud1104		manachou_retour	9	0	
+ligne_sud1104		babalioua_retour	10	0	
+ligne_sud1104	17:07:00	barcelone_sud	11	0	17:07:00
+ligne_sud1105	17:00:00	ben_arous	1	0	17:00:00
+ligne_sud1105		"echebbi_retour	"	2	0	
+ligne_sud1105		"ennour_retour	"	3	0	
+ligne_sud1105		"ouardia6_retour	"	4	0	
+ligne_sud1105		"kabbaria_retour	"	5	0	
+ligne_sud1105		ibnsina_retour	6	0	
+ligne_sud1105	17:12:00	med ali_retour	7	0	17:12:00
+ligne_sud1105		13aout_retour	8	0	
+ligne_sud1105		manachou_retour	9	0	
+ligne_sud1105		babalioua_retour	10	0	
+ligne_sud1105	17:22:00	barcelone_sud	11	0	17:22:00
+ligne_sud1106	17:15:00	ben_arous	1	0	17:15:00
+ligne_sud1106		"echebbi_retour	"	2	0	
+ligne_sud1106		"ennour_retour	"	3	0	
+ligne_sud1106		"ouardia6_retour	"	4	0	
+ligne_sud1106		"kabbaria_retour	"	5	0	
+ligne_sud1106		ibnsina_retour	6	0	
+ligne_sud1106	17:27:00	med ali_retour	7	0	17:27:00
+ligne_sud1106		13aout_retour	8	0	
+ligne_sud1106		manachou_retour	9	0	
+ligne_sud1106		babalioua_retour	10	0	
+ligne_sud1106	17:37:00	barcelone_sud	11	0	17:37:00
+ligne_sud1107	17:30:00	ben_arous	1	0	17:30:00
+ligne_sud1107		"echebbi_retour	"	2	0	
+ligne_sud1107		"ennour_retour	"	3	0	
+ligne_sud1107		"ouardia6_retour	"	4	0	
+ligne_sud1107		"kabbaria_retour	"	5	0	
+ligne_sud1107		ibnsina_retour	6	0	
+ligne_sud1107	17:42:00	med ali_retour	7	0	17:42:00
+ligne_sud1107		13aout_retour	8	0	
+ligne_sud1107		manachou_retour	9	0	
+ligne_sud1107		babalioua_retour	10	0	
+ligne_sud1107	17:52:00	barcelone_sud	11	0	17:52:00
+ligne_sud1108	17:45:00	ben_arous	1	0	17:45:00
+ligne_sud1108		"echebbi_retour	"	2	0	
+ligne_sud1108		"ennour_retour	"	3	0	
+ligne_sud1108		"ouardia6_retour	"	4	0	
+ligne_sud1108		"kabbaria_retour	"	5	0	
+ligne_sud1108		ibnsina_retour	6	0	
+ligne_sud1108	17:57:00	med ali_retour	7	0	17:57:00
+ligne_sud1108		13aout_retour	8	0	
+ligne_sud1108		manachou_retour	9	0	
+ligne_sud1108		babalioua_retour	10	0	
+ligne_sud1108	18:07:00	barcelone_sud	11	0	18:07:00
+ligne_sud1109	18:00:00	ben_arous	1	0	18:00:00
+ligne_sud1109		"echebbi_retour	"	2	0	
+ligne_sud1109		"ennour_retour	"	3	0	
+ligne_sud1109		"ouardia6_retour	"	4	0	
+ligne_sud1109		"kabbaria_retour	"	5	0	
+ligne_sud1109		ibnsina_retour	6	0	
+ligne_sud1109	18:12:00	med ali_retour	7	0	18:12:00
+ligne_sud1109		13aout_retour	8	0	
+ligne_sud1109		manachou_retour	9	0	
+ligne_sud1109		babalioua_retour	10	0	
+ligne_sud1109	18:22:00	barcelone_sud	11	0	18:22:00
+ligne_sud1110	18:15:00	ben_arous	1	0	18:15:00
+ligne_sud1110		"echebbi_retour	"	2	0	
+ligne_sud1110		"ennour_retour	"	3	0	
+ligne_sud1110		"ouardia6_retour	"	4	0	
+ligne_sud1110		"kabbaria_retour	"	5	0	
+ligne_sud1110		ibnsina_retour	6	0	
+ligne_sud1110	18:27:00	med ali_retour	7	0	18:27:00
+ligne_sud1110		13aout_retour	8	0	
+ligne_sud1110		manachou_retour	9	0	
+ligne_sud1110		babalioua_retour	10	0	
+ligne_sud1110	18:37:00	barcelone_sud	11	0	18:37:00
+ligne_sud1111	18:30:00	ben_arous	1	0	18:30:00
+ligne_sud1111		"echebbi_retour	"	2	0	
+ligne_sud1111		"ennour_retour	"	3	0	
+ligne_sud1111		"ouardia6_retour	"	4	0	
+ligne_sud1111		"kabbaria_retour	"	5	0	
+ligne_sud1111		ibnsina_retour	6	0	
+ligne_sud1111	18:42:00	med ali_retour	7	0	18:42:00
+ligne_sud1111		13aout_retour	8	0	
+ligne_sud1111		manachou_retour	9	0	
+ligne_sud1111		babalioua_retour	10	0	
+ligne_sud1111	18:52:00	barcelone_sud	11	0	18:52:00
+ligne_sud1112	19:00:00	ben_arous	1	0	19:00:00
+ligne_sud1112		"echebbi_retour	"	2	0	
+ligne_sud1112		"ennour_retour	"	3	0	
+ligne_sud1112		"ouardia6_retour	"	4	0	
+ligne_sud1112		"kabbaria_retour	"	5	0	
+ligne_sud1112		ibnsina_retour	6	0	
+ligne_sud1112	19:12:00	med ali_retour	7	0	19:12:00
+ligne_sud1112		13aout_retour	8	0	
+ligne_sud1112		manachou_retour	9	0	
+ligne_sud1112		babalioua_retour	10	0	
+ligne_sud1112	19:22:00	barcelone_sud	11	0	19:22:00
+ligne_sud1113	19:30:00	ben_arous	1	0	19:30:00
+ligne_sud1113		"echebbi_retour	"	2	0	
+ligne_sud1113		"ennour_retour	"	3	0	
+ligne_sud1113		"ouardia6_retour	"	4	0	
+ligne_sud1113		"kabbaria_retour	"	5	0	
+ligne_sud1113		ibnsina_retour	6	0	
+ligne_sud1113	19:42:00	med ali_retour	7	0	19:42:00
+ligne_sud1113		13aout_retour	8	0	
+ligne_sud1113		manachou_retour	9	0	
+ligne_sud1113		babalioua_retour	10	0	
+ligne_sud1113	19:52:00	barcelone_sud	11	0	19:52:00
+ligne_sud1114	20:00:00	ben_arous	1	0	20:00:00
+ligne_sud1114		"echebbi_retour	"	2	0	
+ligne_sud1114		"ennour_retour	"	3	0	
+ligne_sud1114		"ouardia6_retour	"	4	0	
+ligne_sud1114		"kabbaria_retour	"	5	0	
+ligne_sud1114		ibnsina_retour	6	0	
+ligne_sud1114	20:12:00	med ali_retour	7	0	20:12:00
+ligne_sud1114		13aout_retour	8	0	
+ligne_sud1114		manachou_retour	9	0	
+ligne_sud1114		babalioua_retour	10	0	
+ligne_sud1114	20:22:00	barcelone_sud	11	0	20:22:00
+ligne_sud1115	20:52:00	ben_arous	1	0	20:52:00
+ligne_sud1115		"echebbi_retour	"	2	0	
+ligne_sud1115		"ennour_retour	"	3	0	
+ligne_sud1115		"ouardia6_retour	"	4	0	
+ligne_sud1115		"kabbaria_retour	"	5	0	
+ligne_sud1115		ibnsina_retour	6	0	
+ligne_sud1115	21:04:00	med ali_retour	7	0	21:04:00
+ligne_sud1115		13aout_retour	8	0	
+ligne_sud1115		manachou_retour	9	0	
+ligne_sud1115		babalioua_retour	10	0	
+ligne_sud1115	21:14:00	barcelone_sud	11	0	21:14:00
+ligne_sud1116	21:45:00	ben_arous	1	0	21:45:00
+ligne_sud1116		"echebbi_retour	"	2	0	
+ligne_sud1116		"ennour_retour	"	3	0	
+ligne_sud1116		"ouardia6_retour	"	4	0	
+ligne_sud1116		"kabbaria_retour	"	5	0	
+ligne_sud1116		ibnsina_retour	6	0	
+ligne_sud1116	21:57:00	med ali_retour	7	0	21:57:00
+ligne_sud1116		13aout_retour	8	0	
+ligne_sud1116		manachou_retour	9	0	
+ligne_sud1116		babalioua_retour	10	0	
+ligne_sud1116	22:07:00	barcelone_sud	11	0	22:07:00
+ligne_sud1117	22:40:00	ben_arous	1	0	22:40:00
+ligne_sud1117		"echebbi_retour	"	2	0	
+ligne_sud1117		"ennour_retour	"	3	0	
+ligne_sud1117		"ouardia6_retour	"	4	0	
+ligne_sud1117		"kabbaria_retour	"	5	0	
+ligne_sud1117		ibnsina_retour	6	0	
+ligne_sud1117	22:52:00	med ali_retour	7	0	22:52:00
+ligne_sud1117		13aout_retour	8	0	
+ligne_sud1117		manachou_retour	9	0	
+ligne_sud1117		babalioua_retour	10	0	
+ligne_sud1117	23:02:00	barcelone_sud	11	0	23:02:00
+ligne1005	18:22:00	ben_arous	1	0	18:22:00
+ligne1005		"echebbi_retour	"	2	0	
+ligne1005		"ennour_retour	"	3	0	
+ligne1005		"ouardia6_retour	"	4	0	
+ligne1005		ibnsina_retour	5	0	
+ligne1005		"kabbaria_retour	"	6	0	
+ligne1005	18:34:00	med ali_retour	7	0	18:34:00
+ligne1005		13aout_retour	8	0	
+ligne1005		manachou_retour	9	0	
+ligne1005		babalioua_retour	10	0	
+ligne1005	18:44:00	barcelone_sud	11	0	18:44:00
+ligne1005		hached	12	0	
+ligne1005	18:50:00	marine	13	0	18:50:00
+ligne1006	18:45:00	ben_arous	1	0	18:45:00
+ligne1006		"echebbi_retour	"	2	0	
+ligne1006		"ennour_retour	"	3	0	
+ligne1006		"ouardia6_retour	"	4	0	
+ligne1006		ibnsina_retour	5	0	
+ligne1006		"kabbaria_retour	"	6	0	
+ligne1006	18:57:00	med ali_retour	7	0	18:57:00
+ligne1006		13aout_retour	8	0	
+ligne1006		manachou_retour	9	0	
+ligne1006		babalioua_retour	10	0	
+ligne1006	19:07:00	barcelone_sud	11	0	19:07:00
+ligne1006		hached	12	0	
+ligne1006	19:13:00	marine	13	0	19:13:00
+ligne1007	19:15:00	ben_arous	1	0	19:15:00
+ligne1007		"echebbi_retour	"	2	0	
+ligne1007		"ennour_retour	"	3	0	
+ligne1007		"ouardia6_retour	"	4	0	
+ligne1007		ibnsina_retour	5	0	
+ligne1007		"kabbaria_retour	"	6	0	
+ligne1007	19:27:00	med ali_retour	7	0	19:27:00
+ligne1007		13aout_retour	8	0	
+ligne1007		manachou_retour	9	0	
+ligne1007		babalioua_retour	10	0	
+ligne1007	19:37:00	barcelone_sud	11	0	19:37:00
+ligne1007		hached	12	0	
+ligne1007	19:43:00	marine	13	0	19:43:00
+ligne1008	19:22:00	ben_arous	1	0	19:22:00
+ligne1008		"echebbi_retour	"	2	0	
+ligne1008		"ennour_retour	"	3	0	
+ligne1008		"ouardia6_retour	"	4	0	
+ligne1008		ibnsina_retour	5	0	
+ligne1008		"kabbaria_retour	"	6	0	
+ligne1008	19:34:00	med ali_retour	7	0	19:34:00
+ligne1008		13aout_retour	8	0	
+ligne1008		manachou_retour	9	0	
+ligne1008		babalioua_retour	10	0	
+ligne1008	19:44:00	barcelone_sud	11	0	19:44:00
+ligne1008		hached	12	0	
+ligne1008	19:50:00	marine	13	0	19:50:00
+ligne1009	20:37:00	ben_arous	1	0	20:37:00
+ligne1009		"echebbi_retour	"	2	0	
+ligne1009		"ennour_retour	"	3	0	
+ligne1009		"ouardia6_retour	"	4	0	
+ligne1009		ibnsina_retour	5	0	
+ligne1009		"kabbaria_retour	"	6	0	
+ligne1009	20:49:00	med ali_retour	7	0	20:49:00
+ligne1009		13aout_retour	8	0	
+ligne1009		manachou_retour	9	0	
+ligne1009		babalioua_retour	10	0	
+ligne1009	20:59:00	barcelone_sud	11	0	20:59:00
+ligne1009		hached	12	0	
+ligne1009	21:05:00	marine	13	0	21:05:00
+ligne1010	23:33:00	ben_arous	1	0	23:33:00
+ligne1010		"echebbi_retour	"	2	0	
+ligne1010		"ennour_retour	"	3	0	
+ligne1010		"ouardia6_retour	"	4	0	
+ligne1010		ibnsina_retour	5	0	
+ligne1010		"kabbaria_retour	"	6	0	
+ligne1010	23:45:00	med ali_retour	7	0	23:45:00
+ligne1010		13aout_retour	8	0	
+ligne1010		manachou_retour	9	0	
+ligne1010		babalioua_retour	10	0	
+ligne1010	23:55:00	barcelone_sud	11	0	23:55:00
+ligne1010		hached	12	0	
+ligne1010	0:01:00	marine	13	0	0:01:00
+ligneTGM014	8:00:00	tunis_marine	1	0	8:00:00
+ligneTGM014		le bac	2	0	
+ligneTGM014	8:10:00	la goulette	3	0	8:10:00
+ligneTGM014		goulette_neuve	4	0	
+ligneTGM014		goulette_casino	5	0	
+ligneTGM014		khiareddine	6	0	
+ligneTGM014		l'aéroport	7	0	
+ligneTGM014	8:17:00	le kram	8	0	8:17:00
+ligneTGM014		carthage_salambo	9	0	
+ligneTGM014		carthage_byrsa	10	0	
+ligneTGM014		carthage_dermech	11	0	
+ligneTGM014		carthage_hannibal	12	0	
+ligneTGM014	8:25:00	carthage_présidence	13	0	8:25:00
+ligneTGM014		carthage_amilcar	14	0	
+ligneTGM014		sidi_bousaid	15	0	
+ligneTGM014		sidi_dhrif	16	0	
+ligneTGM014		corniche	17	0	
+ligneTGM014	8:35:00	marsa_plage	18	0	8:35:00
+ligneTGM015	8:15:00	tunis_marine	1	0	8:15:00
+ligneTGM015		le bac	2	0	
+ligneTGM015	8:25:00	la goulette	3	0	8:25:00
+ligneTGM015		goulette_neuve	4	0	
+ligneTGM015		goulette_casino	5	0	
+ligneTGM015		khiareddine	6	0	
+ligneTGM015		l'aéroport	7	0	
+ligneTGM015	8:32:00	le kram	8	0	8:32:00
+ligneTGM015		carthage_salambo	9	0	
+ligneTGM015		carthage_byrsa	10	0	
+ligneTGM015		carthage_dermech	11	0	
+ligneTGM015		carthage_hannibal	12	0	
+ligneTGM015	8:40:00	carthage_présidence	13	0	8:40:00
+ligneTGM015		carthage_amilcar	14	0	
+ligneTGM015		sidi_bousaid	15	0	
+ligneTGM015		sidi_dhrif	16	0	
+ligneTGM015		corniche	17	0	
+ligneTGM015	8:50:00	marsa_plage	18	0	8:50:00
+ligneTGM016	8:30:00	tunis_marine	1	0	8:30:00
+ligneTGM016		le bac	2	0	
+ligneTGM016	8:40:00	la goulette	3	0	8:40:00
+ligneTGM016		goulette_neuve	4	0	
+ligneTGM016		goulette_casino	5	0	
+ligneTGM016		khiareddine	6	0	
+ligneTGM016		l'aéroport	7	0	
+ligneTGM016	8:47:00	le kram	8	0	8:47:00
+ligneTGM016		carthage_salambo	9	0	
+ligneTGM016		carthage_byrsa	10	0	
+ligneTGM016		carthage_dermech	11	0	
+ligneTGM016		carthage_hannibal	12	0	
+ligneTGM016	8:55:00	carthage_présidence	13	0	8:55:00
+ligneTGM016		carthage_amilcar	14	0	
+ligneTGM016		sidi_bousaid	15	0	
+ligneTGM016		sidi_dhrif	16	0	
+ligneTGM016		corniche	17	0	
+ligneTGM016	9:05:00	marsa_plage	18	0	9:05:00
+ligneTGM017	8:45:00	tunis_marine	1	0	8:45:00
+ligneTGM017		le bac	2	0	
+ligneTGM017	8:55:00	la goulette	3	0	8:55:00
+ligneTGM017		goulette_neuve	4	0	
+ligneTGM017		goulette_casino	5	0	
+ligneTGM017		khiareddine	6	0	
+ligneTGM017		l'aéroport	7	0	
+ligneTGM017	9:02:00	le kram	8	0	9:02:00
+ligneTGM017		carthage_salambo	9	0	
+ligneTGM017		carthage_byrsa	10	0	
+ligneTGM017		carthage_dermech	11	0	
+ligneTGM017		carthage_hannibal	12	0	
+ligneTGM017	9:10:00	carthage_présidence	13	0	9:10:00
+ligneTGM017		carthage_amilcar	14	0	
+ligneTGM017		sidi_bousaid	15	0	
+ligneTGM017		sidi_dhrif	16	0	
+ligneTGM017		corniche	17	0	
+ligneTGM017	9:20:00	marsa_plage	18	0	9:20:00
+ligneTGM018	9:00:00	tunis_marine	1	0	9:00:00
+ligneTGM018		le bac	2	0	
+ligneTGM018	9:10:00	la goulette	3	0	9:10:00
+ligneTGM018		goulette_neuve	4	0	
+ligneTGM018		goulette_casino	5	0	
+ligneTGM018		khiareddine	6	0	
+ligneTGM018		l'aéroport	7	0	
+ligneTGM018	9:17:00	le kram	8	0	9:17:00
+ligneTGM018		carthage_salambo	9	0	
+ligneTGM018		carthage_byrsa	10	0	
+ligneTGM018		carthage_dermech	11	0	
+ligneTGM018		carthage_hannibal	12	0	
+ligneTGM018	9:25:00	carthage_présidence	13	0	9:25:00
+ligneTGM018		carthage_amilcar	14	0	
+ligneTGM018		sidi_bousaid	15	0	
+ligneTGM018		sidi_dhrif	16	0	
+ligneTGM018		corniche	17	0	
+ligneTGM018	9:35:00	marsa_plage	18	0	9:35:00
+ligneTGM019	9:15:00	tunis_marine	1	0	9:15:00
+ligneTGM019		le bac	2	0	
+ligneTGM019	9:25:00	la goulette	3	0	9:25:00
+ligneTGM019		goulette_neuve	4	0	
+ligneTGM019		goulette_casino	5	0	
+ligneTGM019		khiareddine	6	0	
+ligneTGM019		l'aéroport	7	0	
+ligneTGM019	9:32:00	le kram	8	0	9:32:00
+ligneTGM019		carthage_salambo	9	0	
+ligneTGM019		carthage_byrsa	10	0	
+ligneTGM019		carthage_dermech	11	0	
+ligneTGM019		carthage_hannibal	12	0	
+ligneTGM019	9:40:00	carthage_présidence	13	0	9:40:00
+ligneTGM019		carthage_amilcar	14	0	
+ligneTGM019		sidi_bousaid	15	0	
+ligneTGM019		sidi_dhrif	16	0	
+ligneTGM019		corniche	17	0	
+ligneTGM019	9:50:00	marsa_plage	18	0	9:50:00
+ligneTGM020	9:30:00	tunis_marine	1	0	9:30:00
+ligneTGM020		le bac	2	0	
+ligneTGM020	9:40:00	la goulette	3	0	9:40:00
+ligneTGM020		goulette_neuve	4	0	
+ligneTGM020		goulette_casino	5	0	
+ligneTGM020		khiareddine	6	0	
+ligneTGM020		l'aéroport	7	0	
+ligneTGM020		le kram	8	0	9:47:00
+ligneTGM020		carthage_salambo	9	0	
+ligneTGM020		carthage_byrsa	10	0	
+ligneTGM020		carthage_dermech	11	0	
+ligneTGM020		carthage_hannibal	12	0	
+ligneTGM020	9:55:00	carthage_présidence	13	0	9:55:00
+ligneTGM020		carthage_amilcar	14	0	
+ligneTGM020		sidi_bousaid	15	0	
+ligneTGM020		sidi_dhrif	16	0	
+ligneTGM020		corniche	17	0	
+ligneTGM020	10:05:00	marsa_plage	18	0	10:05:00
+ligneTGM021	9:45:00	tunis_marine	1	0	9:45:00
+ligneTGM021		le bac	2	0	
+ligneTGM021	9:55:00	la goulette	3	0	9:55:00
+ligneTGM021		goulette_neuve	4	0	
+ligneTGM021		goulette_casino	5	0	
+ligneTGM021		khiareddine	6	0	
+ligneTGM021		l'aéroport	7	0	
+ligneTGM021	10:02:00	le kram	8	0	10:02:00
+ligneTGM021		carthage_salambo	9	0	
+ligneTGM021		carthage_byrsa	10	0	
+ligneTGM021		carthage_dermech	11	0	
+ligneTGM021		carthage_hannibal	12	0	
+ligneTGM021	10:10:00	carthage_présidence	13	0	10:10:00
+ligneTGM021		carthage_amilcar	14	0	
+ligneTGM021		sidi_bousaid	15	0	
+ligneTGM021		sidi_dhrif	16	0	
+ligneTGM021		corniche	17	0	
+ligneTGM021	10:20:00	marsa_plage	18	0	10:20:00
+ligneTGM022	10:00:00	tunis_marine	1	0	10:00:00
+ligneTGM022		le bac	2	0	
+ligneTGM022	10:10:00	la goulette	3	0	10:10:00
+ligneTGM022		goulette_neuve	4	0	
+ligneTGM022		goulette_casino	5	0	
+ligneTGM022		khiareddine	6	0	
+ligneTGM022		l'aéroport	7	0	
+ligneTGM022	10:17:00	le kram	8	0	10:17:00
+ligneTGM022		carthage_salambo	9	0	
+ligneTGM022		carthage_byrsa	10	0	
+ligneTGM022		carthage_dermech	11	0	
+ligneTGM022		carthage_hannibal	12	0	
+ligneTGM022	10:25:00	carthage_présidence	13	0	10:25:00
+ligneTGM022		carthage_amilcar	14	0	
+ligneTGM022		sidi_bousaid	15	0	
+ligneTGM022		sidi_dhrif	16	0	
+ligneTGM022		corniche	17	0	
+ligneTGM022	10:35:00	marsa_plage	18	0	10:35:00
+ligneTGM023	10:15:00	tunis_marine	1	0	10:15:00
+ligneTGM023		le bac	2	0	
+ligneTGM023	10:25:00	la goulette	3	0	10:25:00
+ligneTGM023		goulette_neuve	4	0	
+ligneTGM023		goulette_casino	5	0	
+ligneTGM023		khiareddine	6	0	
+ligneTGM023		l'aéroport	7	0	
+ligneTGM023	10:32:00	le kram	8	0	10:32:00
+ligneTGM023		carthage_salambo	9	0	
+ligneTGM023		carthage_byrsa	10	0	
+ligneTGM023		carthage_dermech	11	0	
+ligneTGM023		carthage_hannibal	12	0	
+ligneTGM023	10:40:00	carthage_présidence	13	0	10:40:00
+ligneTGM023		carthage_amilcar	14	0	
+ligneTGM023		sidi_bousaid	15	0	
+ligneTGM023		sidi_dhrif	16	0	
+ligneTGM023		corniche	17	0	
+ligneTGM023	10:50:00	marsa_plage	18	0	10:50:00
+ligneTGM024	10:30:00	tunis_marine	1	0	10:30:00
+ligneTGM024		le bac	2	0	
+ligneTGM024	10:40:00	la goulette	3	0	10:40:00
+ligneTGM024		goulette_neuve	4	0	
+ligneTGM024		goulette_casino	5	0	
+ligneTGM024		khiareddine	6	0	
+ligneTGM024		l'aéroport	7	0	
+ligneTGM024	10:47:00	le kram	8	0	10:47:00
+ligneTGM024		carthage_salambo	9	0	
+ligneTGM024		carthage_byrsa	10	0	
+ligneTGM024		carthage_dermech	11	0	
+ligneTGM024		carthage_hannibal	12	0	
+ligneTGM024	10:55:00	carthage_présidence	13	0	10:55:00
+ligneTGM024		carthage_amilcar	14	0	
+ligneTGM024		sidi_bousaid	15	0	
+ligneTGM024		sidi_dhrif	16	0	
+ligneTGM024		corniche	17	0	
+ligneTGM024	11:05:00	marsa_plage	18	0	11:05:00
+ligneTGM025	10:45:00	tunis_marine	1	0	10:45:00
+ligneTGM025		le bac	2	0	
+ligneTGM025	10:55:00	la goulette	3	0	10:55:00
+ligneTGM025		goulette_neuve	4	0	
+ligneTGM025		goulette_casino	5	0	
+ligneTGM025		khiareddine	6	0	
+ligneTGM025		l'aéroport	7	0	
+ligneTGM025	11:02:00	le kram	8	0	11:02:00
+ligneTGM025		carthage_salambo	9	0	
+ligneTGM025		carthage_byrsa	10	0	
+ligneTGM025		carthage_dermech	11	0	
+ligneTGM025		carthage_hannibal	12	0	
+ligneTGM025	11:10:00	carthage_présidence	13	0	11:10:00
+ligneTGM025		carthage_amilcar	14	0	
+ligneTGM025		sidi_bousaid	15	0	
+ligneTGM025		sidi_dhrif	16	0	
+ligneTGM025		corniche	17	0	
+ligneTGM025	11:20:00	marsa_plage	18	0	11:20:00
+ligneTGM026	11:00:00	tunis_marine	1	0	11:00:00
+ligneTGM026		le bac	2	0	
+ligneTGM026	11:10:00	la goulette	3	0	11:10:00
+ligneTGM026		goulette_neuve	4	0	
+ligneTGM026		goulette_casino	5	0	
+ligneTGM026		khiareddine	6	0	
+ligneTGM026		l'aéroport	7	0	
+ligneTGM026	11:17:00	le kram	8	0	11:17:00
+ligneTGM026		carthage_salambo	9	0	
+ligneTGM026		carthage_byrsa	10	0	
+ligneTGM026		carthage_dermech	11	0	
+ligneTGM026		carthage_hannibal	12	0	
+ligneTGM026	11:25:00	carthage_présidence	13	0	11:25:00
+ligneTGM026		carthage_amilcar	14	0	
+ligneTGM026		sidi_bousaid	15	0	
+ligneTGM026		sidi_dhrif	16	0	
+ligneTGM026		corniche	17	0	
+ligneTGM026	11:35:00	marsa_plage	18	0	11:35:00
+ligneTGM027	11:15:00	tunis_marine	1	0	11:15:00
+ligneTGM027		le bac	2	0	
+ligneTGM027	11:25:00	la goulette	3	0	11:25:00
+ligneTGM027		goulette_neuve	4	0	
+ligneTGM027		goulette_casino	5	0	
+ligneTGM027		khiareddine	6	0	
+ligneTGM027		l'aéroport	7	0	
+ligneTGM027	11:32:00	le kram	8	0	11:32:00
+ligneTGM027		carthage_salambo	9	0	
+ligneTGM027		carthage_byrsa	10	0	
+ligneTGM027		carthage_dermech	11	0	
+ligneTGM027		carthage_hannibal	12	0	
+ligneTGM027	11:40:00	carthage_présidence	13	0	11:40:00
+ligneTGM027		carthage_amilcar	14	0	
+ligneTGM027		sidi_bousaid	15	0	
+ligneTGM027		sidi_dhrif	16	0	
+ligneTGM027		corniche	17	0	
+ligneTGM027	11:50:00	marsa_plage	18	0	11:50:00
+ligneTGM028	11:30:00	tunis_marine	1	0	11:30:00
+ligneTGM028		le bac	2	0	
+ligneTGM028	11:40:00	la goulette	3	0	11:40:00
+ligneTGM028		goulette_neuve	4	0	
+ligneTGM028		goulette_casino	5	0	
+ligneTGM028		khiareddine	6	0	
+ligneTGM028		l'aéroport	7	0	
+ligneTGM028	11:47:00	le kram	8	0	11:47:00
+ligneTGM028		carthage_salambo	9	0	
+ligneTGM028		carthage_byrsa	10	0	
+ligneTGM028		carthage_dermech	11	0	
+ligneTGM028		carthage_hannibal	12	0	
+ligneTGM028	11:55:00	carthage_présidence	13	0	11:55:00
+ligneTGM028		carthage_amilcar	14	0	
+ligneTGM028		sidi_bousaid	15	0	
+ligneTGM028		sidi_dhrif	16	0	
+ligneTGM028		corniche	17	0	
+ligneTGM028	12:05:00	marsa_plage	18	0	12:05:00
+ligneTGM029	11:45:00	tunis_marine	1	0	11:45:00
+ligneTGM029		le bac	2	0	
+ligneTGM029	11:55:00	la goulette	3	0	11:55:00
+ligneTGM029		goulette_neuve	4	0	
+ligneTGM029		goulette_casino	5	0	
+ligneTGM029		khiareddine	6	0	
+ligneTGM029		l'aéroport	7	0	
+ligneTGM029	12:02:00	le kram	8	0	12:02:00
+ligneTGM029		carthage_salambo	9	0	
+ligneTGM029		carthage_byrsa	10	0	
+ligneTGM029		carthage_dermech	11	0	
+ligneTGM029		carthage_hannibal	12	0	
+ligneTGM029	12:10:00	carthage_présidence	13	0	12:10:00
+ligneTGM029		carthage_amilcar	14	0	
+ligneTGM029		sidi_bousaid	15	0	
+ligneTGM029		sidi_dhrif	16	0	
+ligneTGM029		corniche	17	0	
+ligneTGM029	12:20:00	marsa_plage	18	0	12:20:00
+ligneTGM030	12:00:00	tunis_marine	1	0	12:00:00
+ligneTGM030		le bac	2	0	
+ligneTGM030	12:10:00	la goulette	3	0	12:10:00
+ligneTGM030		goulette_neuve	4	0	
+ligneTGM030		goulette_casino	5	0	
+ligneTGM030		khiareddine	6	0	
+ligneTGM030		l'aéroport	7	0	
+ligneTGM030	12:17:00	le kram	8	0	12:17:00
+ligneTGM030		carthage_salambo	9	0	
+ligneTGM030		carthage_byrsa	10	0	
+ligneTGM030		carthage_dermech	11	0	
+ligneTGM030		carthage_hannibal	12	0	
+ligneTGM030	12:25:00	carthage_présidence	13	0	12:25:00
+ligneTGM030		carthage_amilcar	14	0	
+ligneTGM030		sidi_bousaid	15	0	
+ligneTGM030		sidi_dhrif	16	0	
+ligneTGM030		corniche	17	0	
+ligneTGM030	12:35:00	marsa_plage	18	0	12:35:00
+ligneTGM031	12:12:00	tunis_marine	1	0	12:12:00
+ligneTGM031		le bac	2	0	
+ligneTGM031	12:22:00	la goulette	3	0	12:22:00
+ligneTGM031		goulette_neuve	4	0	
+ligneTGM031		goulette_casino	5	0	
+ligneTGM031		khiareddine	6	0	
+ligneTGM031		l'aéroport	7	0	
+ligneTGM031	12:29:00	le kram	8	0	12:29:00
+ligneTGM031		carthage_salambo	9	0	
+ligneTGM031		carthage_byrsa	10	0	
+ligneTGM031		carthage_dermech	11	0	
+ligneTGM031		carthage_hannibal	12	0	
+ligneTGM031	12:37:00	carthage_présidence	13	0	12:37:00
+ligneTGM031		carthage_amilcar	14	0	
+ligneTGM031		sidi_bousaid	15	0	
+ligneTGM031		sidi_dhrif	16	0	
+ligneTGM031		corniche	17	0	
+ligneTGM031	12:47:00	marsa_plage	18	0	12:47:00
+ligneTGM032	12:24:00	tunis_marine	1	0	12:24:00
+ligneTGM032		le bac	2	0	
+ligneTGM032	12:34:00	la goulette	3	0	12:34:00
+ligneTGM032		goulette_neuve	4	0	
+ligneTGM032		goulette_casino	5	0	
+ligneTGM032		khiareddine	6	0	
+ligneTGM032		l'aéroport	7	0	
+ligneTGM032	12:41:00	le kram	8	0	12:41:00
+ligneTGM032		carthage_salambo	9	0	
+ligneTGM032		carthage_byrsa	10	0	
+ligneTGM032		carthage_dermech	11	0	
+ligneTGM032		carthage_hannibal	12	0	
+ligneTGM032	12:49:00	carthage_présidence	13	0	12:49:00
+ligneTGM032		carthage_amilcar	14	0	
+ligneTGM032		sidi_bousaid	15	0	
+ligneTGM032		sidi_dhrif	16	0	
+ligneTGM032		corniche	17	0	
+ligneTGM032	12:59:00	marsa_plage	18	0	12:59:00
+ligneTGM033	12:36:00	tunis_marine	1	0	12:36:00
+ligneTGM033		le bac	2	0	
+ligneTGM033	12:46:00	la goulette	3	0	12:46:00
+ligneTGM033		goulette_neuve	4	0	
+ligneTGM033		goulette_casino	5	0	
+ligneTGM033		khiareddine	6	0	
+ligneTGM033		l'aéroport	7	0	
+ligneTGM033	12:53:00	le kram	8	0	12:53:00
+ligneTGM033		carthage_salambo	9	0	
+ligneTGM033		carthage_byrsa	10	0	
+ligneTGM033		carthage_dermech	11	0	
+ligneTGM033		carthage_hannibal	12	0	
+ligneTGM033	13:01:00	carthage_présidence	13	0	13:01:00
+ligneTGM033		carthage_amilcar	14	0	
+ligneTGM033		sidi_bousaid	15	0	
+ligneTGM033		sidi_dhrif	16	0	
+ligneTGM033		corniche	17	0	
+ligneTGM033	13:11:00	marsa_plage	18	0	13:11:00
+ligneTGM034	12:48:00	tunis_marine	1	0	12:48:00
+ligneTGM034		le bac	2	0	
+ligneTGM034	12:58:00	la goulette	3	0	12:58:00
+ligneTGM034		goulette_neuve	4	0	
+ligneTGM034		goulette_casino	5	0	
+ligneTGM034		khiareddine	6	0	
+ligneTGM034		l'aéroport	7	0	
+ligneTGM034	13:05:00	le kram	8	0	13:05:00
+ligneTGM034		carthage_salambo	9	0	
+ligneTGM034		carthage_byrsa	10	0	
+ligneTGM034		carthage_dermech	11	0	
+ligneTGM034		carthage_hannibal	12	0	
+ligneTGM034	13:13:00	carthage_présidence	13	0	13:13:00
+ligneTGM034		carthage_amilcar	14	0	
+ligneTGM034		sidi_bousaid	15	0	
+ligneTGM034		sidi_dhrif	16	0	
+ligneTGM034		corniche	17	0	
+ligneTGM034	13:23:00	marsa_plage	18	0	13:23:00
+ligneTGM035	13:00:00	tunis_marine	1	0	13:00:00
+ligneTGM035		le bac	2	0	
+ligneTGM035	13:10:00	la goulette	3	0	13:10:00
+ligneTGM035		goulette_neuve	4	0	
+ligneTGM035		goulette_casino	5	0	
+ligneTGM035		khiareddine	6	0	
+ligneTGM035		l'aéroport	7	0	
+ligneTGM035	13:17:00	le kram	8	0	13:17:00
+ligneTGM035		carthage_salambo	9	0	
+ligneTGM035		carthage_byrsa	10	0	
+ligneTGM035		carthage_dermech	11	0	
+ligneTGM035		carthage_hannibal	12	0	
+ligneTGM035	13:25:00	carthage_présidence	13	0	13:25:00
+ligneTGM035		carthage_amilcar	14	0	
+ligneTGM035		sidi_bousaid	15	0	
+ligneTGM035		sidi_dhrif	16	0	
+ligneTGM035		corniche	17	0	
+ligneTGM035	13:35:00	marsa_plage	18	0	13:35:00
+ligneTGM036	13:12:00	tunis_marine	1	0	13:12:00
+ligneTGM036		le bac	2	0	
+ligneTGM036	13:22:00	la goulette	3	0	13:22:00
+ligneTGM036		goulette_neuve	4	0	
+ligneTGM036		goulette_casino	5	0	
+ligneTGM036		khiareddine	6	0	
+ligneTGM036		l'aéroport	7	0	
+ligneTGM036	13:29:00	le kram	8	0	13:29:00
+ligneTGM036		carthage_salambo	9	0	
+ligneTGM036		carthage_byrsa	10	0	
+ligneTGM036		carthage_dermech	11	0	
+ligneTGM036		carthage_hannibal	12	0	
+ligneTGM036	13:37:00	carthage_présidence	13	0	13:37:00
+ligneTGM036		carthage_amilcar	14	0	
+ligneTGM036		sidi_bousaid	15	0	
+ligneTGM036		sidi_dhrif	16	0	
+ligneTGM036		corniche	17	0	
+ligneTGM036	13:47:00	marsa_plage	18	0	13:47:00
+ligneTGM037	13:24:00	tunis_marine	1	0	13:24:00
+ligneTGM037		le bac	2	0	
+ligneTGM037	13:34:00	la goulette	3	0	13:34:00
+ligneTGM037		goulette_neuve	4	0	
+ligneTGM037		goulette_casino	5	0	
+ligneTGM037		khiareddine	6	0	
+ligneTGM037		l'aéroport	7	0	
+ligneTGM037	13:41:00	le kram	8	0	13:41:00
+ligneTGM037		carthage_salambo	9	0	
+ligneTGM037		carthage_byrsa	10	0	
+ligneTGM037		carthage_dermech	11	0	
+ligneTGM037		carthage_hannibal	12	0	
+ligneTGM037	13:49:00	carthage_présidence	13	0	13:49:00
+ligneTGM037		carthage_amilcar	14	0	
+ligneTGM037		sidi_bousaid	15	0	
+ligneTGM037		sidi_dhrif	16	0	
+ligneTGM037		corniche	17	0	
+ligneTGM037	13:59:00	marsa_plage	18	0	13:59:00
+ligneTGM038	13:36:00	tunis_marine	1	0	13:36:00
+ligneTGM038		le bac	2	0	
+ligneTGM038	13:46:00	la goulette	3	0	13:46:00
+ligneTGM038		goulette_neuve	4	0	
+ligneTGM038		goulette_casino	5	0	
+ligneTGM038		khiareddine	6	0	
+ligneTGM038		l'aéroport	7	0	
+ligneTGM038	13:53:00	le kram	8	0	13:53:00
+ligneTGM038		carthage_salambo	9	0	
+ligneTGM038		carthage_byrsa	10	0	
+ligneTGM038		carthage_dermech	11	0	
+ligneTGM038		carthage_hannibal	12	0	
+ligneTGM038	14:01:00	carthage_présidence	13	0	14:01:00
+ligneTGM038		carthage_amilcar	14	0	
+ligneTGM038		sidi_bousaid	15	0	
+ligneTGM038		sidi_dhrif	16	0	
+ligneTGM038		corniche	17	0	
+ligneTGM038	14:11:00	marsa_plage	18	0	14:11:00
+ligneTGM039	13:48:00	tunis_marine	1	0	13:48:00
+ligneTGM039		le bac	2	0	
+ligneTGM039	13:58:00	la goulette	3	0	13:58:00
+ligneTGM039		goulette_neuve	4	0	
+ligneTGM039		goulette_casino	5	0	
+ligneTGM039		khiareddine	6	0	
+ligneTGM039		l'aéroport	7	0	
+ligneTGM039	14:05:00	le kram	8	0	14:05:00
+ligneTGM039		carthage_salambo	9	0	
+ligneTGM039		carthage_byrsa	10	0	
+ligneTGM039		carthage_dermech	11	0	
+ligneTGM039		carthage_hannibal	12	0	
+ligneTGM039	14:13:00	carthage_présidence	13	0	14:13:00
+ligneTGM039		carthage_amilcar	14	0	
+ligneTGM039		sidi_bousaid	15	0	
+ligneTGM039		sidi_dhrif	16	0	
+ligneTGM039		corniche	17	0	
+ligneTGM039	14:23:00	marsa_plage	18	0	14:23:00
+ligneTGM040	14:00:00	tunis_marine	1	0	14:00:00
+ligneTGM040		le bac	2	0	
+ligneTGM040	14:10:00	la goulette	3	0	14:10:00
+ligneTGM040		goulette_neuve	4	0	
+ligneTGM040		goulette_casino	5	0	
+ligneTGM040		khiareddine	6	0	
+ligneTGM040		l'aéroport	7	0	
+ligneTGM040	14:17:00	le kram	8	0	14:17:00
+ligneTGM040		carthage_salambo	9	0	
+ligneTGM040		carthage_byrsa	10	0	
+ligneTGM040		carthage_dermech	11	0	
+ligneTGM040		carthage_hannibal	12	0	
+ligneTGM040	14:25:00	carthage_présidence	13	0	14:25:00
+ligneTGM040		carthage_amilcar	14	0	
+ligneTGM040		sidi_bousaid	15	0	
+ligneTGM040		sidi_dhrif	16	0	
+ligneTGM040		corniche	17	0	
+ligneTGM040	14:35:00	marsa_plage	18	0	14:35:00
+ligneTGM041	14:15:00	tunis_marine	1	0	14:15:00
+ligneTGM041		le bac	2	0	
+ligneTGM041	14:25:00	la goulette	3	0	14:25:00
+ligneTGM041		goulette_neuve	4	0	
+ligneTGM041		goulette_casino	5	0	
+ligneTGM041		khiareddine	6	0	
+ligneTGM041		l'aéroport	7	0	
+ligneTGM041	14:32:00	le kram	8	0	14:32:00
+ligneTGM041		carthage_salambo	9	0	
+ligneTGM041		carthage_byrsa	10	0	
+ligneTGM041		carthage_dermech	11	0	
+ligneTGM041		carthage_hannibal	12	0	
+ligneTGM041	14:40:00	carthage_présidence	13	0	14:40:00
+ligneTGM041		carthage_amilcar	14	0	
+ligneTGM041		sidi_bousaid	15	0	
+ligneTGM041		sidi_dhrif	16	0	
+ligneTGM041		corniche	17	0	
+ligneTGM041	14:50:00	marsa_plage	18	0	14:50:00
+ligneTGM042	14:30:00	tunis_marine	1	0	14:30:00
+ligneTGM042		le bac	2	0	
+ligneTGM042	14:40:00	la goulette	3	0	14:40:00
+ligneTGM042		goulette_neuve	4	0	
+ligneTGM042		goulette_casino	5	0	
+ligneTGM042		khiareddine	6	0	
+ligneTGM042		l'aéroport	7	0	
+ligneTGM042	14:47:00	le kram	8	0	14:47:00
+ligneTGM042		carthage_salambo	9	0	
+ligneTGM042		carthage_byrsa	10	0	
+ligneTGM042		carthage_dermech	11	0	
+ligneTGM042		carthage_hannibal	12	0	
+ligneTGM042	14:55:00	carthage_présidence	13	0	14:55:00
+ligneTGM042		carthage_amilcar	14	0	
+ligneTGM042		sidi_bousaid	15	0	
+ligneTGM042		sidi_dhrif	16	0	
+ligneTGM042		corniche	17	0	
+ligneTGM042	15:05:00	marsa_plage	18	0	15:05:00
+ligneTGM043	14:45:00	tunis_marine	1	0	14:45:00
+ligneTGM043		le bac	2	0	
+ligneTGM043	14:55:00	la goulette	3	0	14:55:00
+ligneTGM043		goulette_neuve	4	0	
+ligneTGM043		goulette_casino	5	0	
+ligneTGM043		khiareddine	6	0	
+ligneTGM043		l'aéroport	7	0	
+ligneTGM043	15:02:00	le kram	8	0	15:02:00
+ligneTGM043		carthage_salambo	9	0	
+ligneTGM043		carthage_byrsa	10	0	
+ligneTGM043		carthage_dermech	11	0	
+ligneTGM043		carthage_hannibal	12	0	
+ligneTGM043	15:10:00	carthage_présidence	13	0	15:10:00
+ligneTGM043		carthage_amilcar	14	0	
+ligneTGM043		sidi_bousaid	15	0	
+ligneTGM043		sidi_dhrif	16	0	
+ligneTGM043		corniche	17	0	
+ligneTGM043	15:20:00	marsa_plage	18	0	15:20:00
+ligneTGM044	15:00:00	tunis_marine	1	0	15:00:00
+ligneTGM044		le bac	2	0	
+ligneTGM044	15:10:00	la goulette	3	0	15:10:00
+ligneTGM044		goulette_neuve	4	0	
+ligneTGM044		goulette_casino	5	0	
+ligneTGM044		khiareddine	6	0	
+ligneTGM044		l'aéroport	7	0	
+ligneTGM044	15:17:00	le kram	8	0	15:17:00
+ligneTGM044		carthage_salambo	9	0	
+ligneTGM044		carthage_byrsa	10	0	
+ligneTGM044		carthage_dermech	11	0	
+ligneTGM044		carthage_hannibal	12	0	
+ligneTGM044	15:25:00	carthage_présidence	13	0	15:25:00
+ligneTGM044		carthage_amilcar	14	0	
+ligneTGM044		sidi_bousaid	15	0	
+ligneTGM044		sidi_dhrif	16	0	
+ligneTGM044		corniche	17	0	
+ligneTGM044	15:35:00	marsa_plage	18	0	15:35:00
+ligneTGM045	15:15:00	tunis_marine	1	0	15:15:00
+ligneTGM045		le bac	2	0	
+ligneTGM045	15:25:00	la goulette	3	0	15:25:00
+ligneTGM045		goulette_neuve	4	0	
+ligneTGM045		goulette_casino	5	0	
+ligneTGM045		khiareddine	6	0	
+ligneTGM045		l'aéroport	7	0	
+ligneTGM045	15:32:00	le kram	8	0	15:32:00
+ligneTGM045		carthage_salambo	9	0	
+ligneTGM045		carthage_byrsa	10	0	
+ligneTGM045		carthage_dermech	11	0	
+ligneTGM045		carthage_hannibal	12	0	
+ligneTGM045	15:40:00	carthage_présidence	13	0	15:40:00
+ligneTGM045		carthage_amilcar	14	0	
+ligneTGM045		sidi_bousaid	15	0	
+ligneTGM045		sidi_dhrif	16	0	
+ligneTGM045		corniche	17	0	
+ligneTGM045	15:50:00	marsa_plage	18	0	15:50:00
+ligneTGM046	15:30:00	tunis_marine	1	0	15:30:00
+ligneTGM046		le bac	2	0	
+ligneTGM046	15:40:00	la goulette	3	0	15:40:00
+ligneTGM046		goulette_neuve	4	0	
+ligneTGM046		goulette_casino	5	0	
+ligneTGM046		khiareddine	6	0	
+ligneTGM046		l'aéroport	7	0	
+ligneTGM046	15:47:00	le kram	8	0	15:47:00
+ligneTGM046		carthage_salambo	9	0	
+ligneTGM046		carthage_byrsa	10	0	
+ligneTGM046		carthage_dermech	11	0	
+ligneTGM046		carthage_hannibal	12	0	
+ligneTGM046	15:55:00	carthage_présidence	13	0	15:55:00
+ligneTGM046		carthage_amilcar	14	0	
+ligneTGM046		sidi_bousaid	15	0	
+ligneTGM046		sidi_dhrif	16	0	
+ligneTGM046		corniche	17	0	
+ligneTGM046	16:05:00	marsa_plage	18	0	16:05:00
+ligneTGM047	15:45:00	tunis_marine	1	0	15:45:00
+ligneTGM047		le bac	2	0	
+ligneTGM047	15:55:00	la goulette	3	0	15:55:00
+ligneTGM047		goulette_neuve	4	0	
+ligneTGM047		goulette_casino	5	0	
+ligneTGM047		khiareddine	6	0	
+ligneTGM047		l'aéroport	7	0	
+ligneTGM047	16:02:00	le kram	8	0	16:02:00
+ligneTGM047		carthage_salambo	9	0	
+ligneTGM047		carthage_byrsa	10	0	
+ligneTGM047		carthage_dermech	11	0	
+ligneTGM047		carthage_hannibal	12	0	
+ligneTGM047	16:10:00	carthage_présidence	13	0	16:10:00
+ligneTGM047		carthage_amilcar	14	0	
+ligneTGM047		sidi_bousaid	15	0	
+ligneTGM047		sidi_dhrif	16	0	
+ligneTGM047		corniche	17	0	
+ligneTGM047	16:20:00	marsa_plage	18	0	16:20:00
+ligneTGM048	16:00:00	tunis_marine	1	0	16:00:00
+ligneTGM048		le bac	2	0	
+ligneTGM048	16:10:00	la goulette	3	0	16:10:00
+ligneTGM048		goulette_neuve	4	0	
+ligneTGM048		goulette_casino	5	0	
+ligneTGM048		khiareddine	6	0	
+ligneTGM048		l'aéroport	7	0	
+ligneTGM048	16:17:00	le kram	8	0	16:17:00
+ligneTGM048		carthage_salambo	9	0	
+ligneTGM048		carthage_byrsa	10	0	
+ligneTGM048		carthage_dermech	11	0	
+ligneTGM048		carthage_hannibal	12	0	
+ligneTGM048	16:25:00	carthage_présidence	13	0	16:25:00
+ligneTGM048		carthage_amilcar	14	0	
+ligneTGM048		sidi_bousaid	15	0	
+ligneTGM048		sidi_dhrif	16	0	
+ligneTGM048		corniche	17	0	
+ligneTGM048	16:35:00	marsa_plage	18	0	16:35:00
+ligneTGM049	16:15:00	tunis_marine	1	0	16:15:00
+ligneTGM049		le bac	2	0	
+ligneTGM049	16:25:00	la goulette	3	0	16:25:00
+ligneTGM049		goulette_neuve	4	0	
+ligneTGM049		goulette_casino	5	0	
+ligneTGM049		khiareddine	6	0	
+ligneTGM049		l'aéroport	7	0	
+ligneTGM049	16:32:00	le kram	8	0	16:32:00
+ligneTGM049		carthage_salambo	9	0	
+ligneTGM049		carthage_byrsa	10	0	
+ligneTGM049		carthage_dermech	11	0	
+ligneTGM049		carthage_hannibal	12	0	
+ligneTGM049	16:40:00	carthage_présidence	13	0	16:40:00
+ligneTGM049		carthage_amilcar	14	0	
+ligneTGM049		sidi_bousaid	15	0	
+ligneTGM049		sidi_dhrif	16	0	
+ligneTGM049		corniche	17	0	
+ligneTGM049	16:50:00	marsa_plage	18	0	16:50:00
+ligneTGM050	16:30:00	tunis_marine	1	0	16:30:00
+ligneTGM050		le bac	2	0	
+ligneTGM050	16:40:00	la goulette	3	0	16:40:00
+ligneTGM050		goulette_neuve	4	0	
+ligneTGM050		goulette_casino	5	0	
+ligneTGM050		khiareddine	6	0	
+ligneTGM050		l'aéroport	7	0	
+ligneTGM050	16:47:00	le kram	8	0	16:47:00
+ligneTGM050		carthage_salambo	9	0	
+ligneTGM050		carthage_byrsa	10	0	
+ligneTGM050		carthage_dermech	11	0	
+ligneTGM050		carthage_hannibal	12	0	
+ligneTGM050	16:55:00	carthage_présidence	13	0	16:55:00
+ligneTGM050		carthage_amilcar	14	0	
+ligneTGM050		sidi_bousaid	15	0	
+ligneTGM050		sidi_dhrif	16	0	
+ligneTGM050		corniche	17	0	
+ligneTGM050	17:05:00	marsa_plage	18	0	17:05:00
+ligneTGM051	16:45:00	tunis_marine	1	0	16:45:00
+ligneTGM051		le bac	2	0	
+ligneTGM051	16:55:00	la goulette	3	0	16:55:00
+ligneTGM051		goulette_neuve	4	0	
+ligneTGM051		goulette_casino	5	0	
+ligneTGM051		khiareddine	6	0	
+ligneTGM051		l'aéroport	7	0	
+ligneTGM051	17:02:00	le kram	8	0	17:02:00
+ligneTGM051		carthage_salambo	9	0	
+ligneTGM051		carthage_byrsa	10	0	
+ligneTGM051		carthage_dermech	11	0	
+ligneTGM051		carthage_hannibal	12	0	
+ligneTGM051	17:10:00	carthage_présidence	13	0	17:10:00
+ligneTGM051		carthage_amilcar	14	0	
+ligneTGM051		sidi_bousaid	15	0	
+ligneTGM051		sidi_dhrif	16	0	
+ligneTGM051		corniche	17	0	
+ligneTGM051	17:20:00	marsa_plage	18	0	17:20:00
+ligneTGM052	17:00:00	tunis_marine	1	0	17:00:00
+ligneTGM052		le bac	2	0	
+ligneTGM052	17:10:00	la goulette	3	0	17:10:00
+ligneTGM052		goulette_neuve	4	0	
+ligneTGM052		goulette_casino	5	0	
+ligneTGM052		khiareddine	6	0	
+ligneTGM052		l'aéroport	7	0	
+ligneTGM052	17:17:00	le kram	8	0	17:17:00
+ligneTGM052		carthage_salambo	9	0	
+ligneTGM052		carthage_byrsa	10	0	
+ligneTGM052		carthage_dermech	11	0	
+ligneTGM052		carthage_hannibal	12	0	
+ligneTGM052	17:25:00	carthage_présidence	13	0	17:25:00
+ligneTGM052		carthage_amilcar	14	0	
+ligneTGM052		sidi_bousaid	15	0	
+ligneTGM052		sidi_dhrif	16	0	
+ligneTGM052		corniche	17	0	
+ligneTGM052	17:35:00	marsa_plage	18	0	17:35:00
+ligneTGM053	17:12:00	tunis_marine	1	0	17:12:00
+ligneTGM053		le bac	2	0	
+ligneTGM053	17:22:00	la goulette	3	0	17:22:00
+ligneTGM053		goulette_neuve	4	0	
+ligneTGM053		goulette_casino	5	0	
+ligneTGM053		khiareddine	6	0	
+ligneTGM053		l'aéroport	7	0	
+ligneTGM053	17:29:00	le kram	8	0	17:29:00
+ligneTGM053		carthage_salambo	9	0	
+ligneTGM053		carthage_byrsa	10	0	
+ligneTGM053		carthage_dermech	11	0	
+ligneTGM053		carthage_hannibal	12	0	
+ligneTGM053	17:37:00	carthage_présidence	13	0	17:37:00
+ligneTGM053		carthage_amilcar	14	0	
+ligneTGM053		sidi_bousaid	15	0	
+ligneTGM053		sidi_dhrif	16	0	
+ligneTGM053		corniche	17	0	
+ligneTGM053	17:47:00	marsa_plage	18	0	17:47:00
+ligneTGM054	17:24:00	tunis_marine	1	0	17:24:00
+ligneTGM054		le bac	2	0	
+ligneTGM054	17:34:00	la goulette	3	0	17:34:00
+ligneTGM054		goulette_neuve	4	0	
+ligneTGM054		goulette_casino	5	0	
+ligneTGM054		khiareddine	6	0	
+ligneTGM054		l'aéroport	7	0	
+ligneTGM054	17:41:00	le kram	8	0	17:41:00
+ligneTGM054		carthage_salambo	9	0	
+ligneTGM054		carthage_byrsa	10	0	
+ligneTGM054		carthage_dermech	11	0	
+ligneTGM054		carthage_hannibal	12	0	
+ligneTGM054	17:49:00	carthage_présidence	13	0	17:49:00
+ligneTGM054		carthage_amilcar	14	0	
+ligneTGM054		sidi_bousaid	15	0	
+ligneTGM054		sidi_dhrif	16	0	
+ligneTGM054		corniche	17	0	
+ligneTGM054	17:59:00	marsa_plage	18	0	17:59:00
+ligneTGM055	17:36:00	tunis_marine	1	0	17:36:00
+ligneTGM055		le bac	2	0	
+ligneTGM055	17:46:00	la goulette	3	0	17:46:00
+ligneTGM055		goulette_neuve	4	0	
+ligneTGM055		goulette_casino	5	0	
+ligneTGM055		khiareddine	6	0	
+ligneTGM055		l'aéroport	7	0	
+ligneTGM055	17:53:00	le kram	8	0	17:53:00
+ligneTGM055		carthage_salambo	9	0	
+ligneTGM055		carthage_byrsa	10	0	
+ligneTGM055		carthage_dermech	11	0	
+ligneTGM055		carthage_hannibal	12	0	
+ligneTGM055	18:01:00	carthage_présidence	13	0	18:01:00
+ligneTGM055		carthage_amilcar	14	0	
+ligneTGM055		sidi_bousaid	15	0	
+ligneTGM055		sidi_dhrif	16	0	
+ligneTGM055		corniche	17	0	
+ligneTGM055	18:11:00	marsa_plage	18	0	18:11:00
+ligneTGM056	17:48:00	tunis_marine	1	0	17:48:00
+ligneTGM056		le bac	2	0	
+ligneTGM056	17:58:00	la goulette	3	0	17:58:00
+ligneTGM056		goulette_neuve	4	0	
+ligneTGM056		goulette_casino	5	0	
+ligneTGM056		khiareddine	6	0	
+ligneTGM056		l'aéroport	7	0	
+ligneTGM056	18:05:00	le kram	8	0	18:05:00
+ligneTGM056		carthage_salambo	9	0	
+ligneTGM056		carthage_byrsa	10	0	
+ligneTGM056		carthage_dermech	11	0	
+ligneTGM056		carthage_hannibal	12	0	
+ligneTGM056	18:13:00	carthage_présidence	13	0	18:13:00
+ligneTGM056		carthage_amilcar	14	0	
+ligneTGM056		sidi_bousaid	15	0	
+ligneTGM056		sidi_dhrif	16	0	
+ligneTGM056		corniche	17	0	
+ligneTGM056	18:23:00	marsa_plage	18	0	18:23:00
+ligneTGM057	18:00:00	tunis_marine	1	0	18:00:00
+ligneTGM057		le bac	2	0	
+ligneTGM057	18:10:00	la goulette	3	0	18:10:00
+ligneTGM057		goulette_neuve	4	0	
+ligneTGM057		goulette_casino	5	0	
+ligneTGM057		khiareddine	6	0	
+ligneTGM057		l'aéroport	7	0	
+ligneTGM057	18:17:00	le kram	8	0	18:17:00
+ligneTGM057		carthage_salambo	9	0	
+ligneTGM057		carthage_byrsa	10	0	
+ligneTGM057		carthage_dermech	11	0	
+ligneTGM057		carthage_hannibal	12	0	
+ligneTGM057	18:25:00	carthage_présidence	13	0	18:25:00
+ligneTGM057		carthage_amilcar	14	0	
+ligneTGM057		sidi_bousaid	15	0	
+ligneTGM057		sidi_dhrif	16	0	
+ligneTGM057		corniche	17	0	
+ligneTGM057	18:35:00	marsa_plage	18	0	18:35:00
+ligneTGM058	18:15:00	tunis_marine	1	0	18:15:00
+ligneTGM058		le bac	2	0	
+ligneTGM058	18:25:00	la goulette	3	0	18:25:00
+ligneTGM058		goulette_neuve	4	0	
+ligneTGM058		goulette_casino	5	0	
+ligneTGM058		khiareddine	6	0	
+ligneTGM058		l'aéroport	7	0	
+ligneTGM058	18:32:00	le kram	8	0	18:32:00
+ligneTGM058		carthage_salambo	9	0	
+ligneTGM058		carthage_byrsa	10	0	
+ligneTGM058		carthage_dermech	11	0	
+ligneTGM058		carthage_hannibal	12	0	
+ligneTGM058	18:40:00	carthage_présidence	13	0	18:40:00
+ligneTGM058		carthage_amilcar	14	0	
+ligneTGM058		sidi_bousaid	15	0	
+ligneTGM058		sidi_dhrif	16	0	
+ligneTGM058		corniche	17	0	
+ligneTGM058	18:50:00	marsa_plage	18	0	18:50:00
+ligneTGM059	18:30:00	tunis_marine	1	0	18:30:00
+ligneTGM059		le bac	2	0	
+ligneTGM059	18:40:00	la goulette	3	0	18:40:00
+ligneTGM059		goulette_neuve	4	0	
+ligneTGM059		goulette_casino	5	0	
+ligneTGM059		khiareddine	6	0	
+ligneTGM059		l'aéroport	7	0	
+ligneTGM059	18:47:00	le kram	8	0	18:47:00
+ligneTGM059		carthage_salambo	9	0	
+ligneTGM059		carthage_byrsa	10	0	
+ligneTGM059		carthage_dermech	11	0	
+ligneTGM059		carthage_hannibal	12	0	
+ligneTGM059	18:55:00	carthage_présidence	13	0	18:55:00
+ligneTGM059		carthage_amilcar	14	0	
+ligneTGM059		sidi_bousaid	15	0	
+ligneTGM059		sidi_dhrif	16	0	
+ligneTGM059		corniche	17	0	
+ligneTGM059	19:05:00	marsa_plage	18	0	19:05:00
+ligneTGM060	18:45:00	tunis_marine	1	0	18:45:00
+ligneTGM060		le bac	2	0	
+ligneTGM060	18:55:00	la goulette	3	0	18:55:00
+ligneTGM060		goulette_neuve	4	0	
+ligneTGM060		goulette_casino	5	0	
+ligneTGM060		khiareddine	6	0	
+ligneTGM060		l'aéroport	7	0	
+ligneTGM060	19:02:00	le kram	8	0	19:02:00
+ligneTGM060		carthage_salambo	9	0	
+ligneTGM060		carthage_byrsa	10	0	
+ligneTGM060		carthage_dermech	11	0	
+ligneTGM060		carthage_hannibal	12	0	
+ligneTGM060	19:10:00	carthage_présidence	13	0	19:10:00
+ligneTGM060		carthage_amilcar	14	0	
+ligneTGM060		sidi_bousaid	15	0	
+ligneTGM060		sidi_dhrif	16	0	
+ligneTGM060		corniche	17	0	
+ligneTGM060	19:20:00	marsa_plage	18	0	19:20:00
+ligneTGM061	19:00:00	tunis_marine	1	0	19:00:00
+ligneTGM061		le bac	2	0	
+ligneTGM061	19:10:00	la goulette	3	0	19:10:00
+ligneTGM061		goulette_neuve	4	0	
+ligneTGM061		goulette_casino	5	0	
+ligneTGM061		khiareddine	6	0	
+ligneTGM061		l'aéroport	7	0	
+ligneTGM061	19:17:00	le kram	8	0	19:17:00
+ligneTGM061		carthage_salambo	9	0	
+ligneTGM061		carthage_byrsa	10	0	
+ligneTGM061		carthage_dermech	11	0	
+ligneTGM061		carthage_hannibal	12	0	
+ligneTGM061	19:25:00	carthage_présidence	13	0	19:25:00
+ligneTGM061		carthage_amilcar	14	0	
+ligneTGM061		sidi_bousaid	15	0	
+ligneTGM061		sidi_dhrif	16	0	
+ligneTGM061		corniche	17	0	
+ligneTGM061	19:35:00	marsa_plage	18	0	19:35:00
+ligneTGM062	19:30:00	tunis_marine	1	0	19:30:00
+ligneTGM062		le bac	2	0	
+ligneTGM062	19:40:00	la goulette	3	0	19:40:00
+ligneTGM062		goulette_neuve	4	0	
+ligneTGM062		goulette_casino	5	0	
+ligneTGM062		khiareddine	6	0	
+ligneTGM062		l'aéroport	7	0	
+ligneTGM062	19:47:00	le kram	8	0	19:47:00
+ligneTGM062		carthage_salambo	9	0	
+ligneTGM062		carthage_byrsa	10	0	
+ligneTGM062		carthage_dermech	11	0	
+ligneTGM062		carthage_hannibal	12	0	
+ligneTGM062	19:55:00	carthage_présidence	13	0	19:55:00
+ligneTGM062		carthage_amilcar	14	0	
+ligneTGM062		sidi_bousaid	15	0	
+ligneTGM062		sidi_dhrif	16	0	
+ligneTGM062		corniche	17	0	
+ligneTGM062	20:05:00	marsa_plage	18	0	20:05:00
+ligneTGM063	20:00:00	tunis_marine	1	0	20:00:00
+ligneTGM063		le bac	2	0	
+ligneTGM063	20:10:00	la goulette	3	0	20:10:00
+ligneTGM063		goulette_neuve	4	0	
+ligneTGM063		goulette_casino	5	0	
+ligneTGM063		khiareddine	6	0	
+ligneTGM063		l'aéroport	7	0	
+ligneTGM063	20:17:00	le kram	8	0	20:17:00
+ligneTGM063		carthage_salambo	9	0	
+ligneTGM063		carthage_byrsa	10	0	
+ligneTGM063		carthage_dermech	11	0	
+ligneTGM063		carthage_hannibal	12	0	
+ligneTGM063	20:25:00	carthage_présidence	13	0	20:25:00
+ligneTGM063		carthage_amilcar	14	0	
+ligneTGM063		sidi_bousaid	15	0	
+ligneTGM063		sidi_dhrif	16	0	
+ligneTGM063		corniche	17	0	
+ligneTGM063	20:35:00	marsa_plage	18	0	20:35:00
+ligneTGM064	20:45:00	tunis_marine	1	0	20:45:00
+ligneTGM064		le bac	2	0	
+ligneTGM064	20:55:00	la goulette	3	0	20:55:00
+ligneTGM064		goulette_neuve	4	0	
+ligneTGM064		goulette_casino	5	0	
+ligneTGM064		khiareddine	6	0	
+ligneTGM064		l'aéroport	7	0	
+ligneTGM064	21:02:00	le kram	8	0	21:02:00
+ligneTGM064		carthage_salambo	9	0	
+ligneTGM064		carthage_byrsa	10	0	
+ligneTGM064		carthage_dermech	11	0	
+ligneTGM064		carthage_hannibal	12	0	
+ligneTGM064	21:10:00	carthage_présidence	13	0	21:10:00
+ligneTGM064		carthage_amilcar	14	0	
+ligneTGM064		sidi_bousaid	15	0	
+ligneTGM064		sidi_dhrif	16	0	
+ligneTGM064		corniche	17	0	
+ligneTGM064	21:20:00	marsa_plage	18	0	21:20:00
+ligneTGM065	21:40:00	tunis_marine	1	0	21:40:00
+ligneTGM065		le bac	2	0	
+ligneTGM065	21:50:00	la goulette	3	0	21:50:00
+ligneTGM065		goulette_neuve	4	0	
+ligneTGM065		goulette_casino	5	0	
+ligneTGM065		khiareddine	6	0	
+ligneTGM065		l'aéroport	7	0	
+ligneTGM065	21:57:00	le kram	8	0	21:57:00
+ligneTGM065		carthage_salambo	9	0	
+ligneTGM065		carthage_byrsa	10	0	
+ligneTGM065		carthage_dermech	11	0	
+ligneTGM065		carthage_hannibal	12	0	
+ligneTGM065	22:05:00	carthage_présidence	13	0	22:05:00
+ligneTGM065		carthage_amilcar	14	0	
+ligneTGM065		sidi_bousaid	15	0	
+ligneTGM065		sidi_dhrif	16	0	
+ligneTGM065		corniche	17	0	
+ligneTGM065	22:15:00	marsa_plage	18	0	22:15:00
+ligneTGM066	0:00:00	tunis_marine	1	0	23:00:00
+ligneTGM066		le bac	2	0	
+ligneTGM066	23:10:00	la goulette	3	0	23:10:00
+ligneTGM066		goulette_neuve	4	0	
+ligneTGM066		goulette_casino	5	0	
+ligneTGM066		khiareddine	6	0	
+ligneTGM066		l'aéroport	7	0	
+ligneTGM066	23:17:00	le kram	8	0	23:17:00
+ligneTGM066		carthage_salambo	9	0	
+ligneTGM066		carthage_byrsa	10	0	
+ligneTGM066		carthage_dermech	11	0	
+ligneTGM066		carthage_hannibal	12	0	
+ligneTGM066	23:25:00	carthage_présidence	13	0	23:25:00
+ligneTGM066		carthage_amilcar	14	0	
+ligneTGM066		sidi_bousaid	15	0	
+ligneTGM066		sidi_dhrif	16	0	
+ligneTGM066		corniche	17	0	
+ligneTGM066	23:35:00	marsa_plage	18	0	23:35:00
+ligneTGM067	4:15:00	marsa_plage	1	0	4:15:00
+ligneTGM067		corniche	2	0	
+ligneTGM067		sidi_dhrif	3	0	
+ligneTGM067		sidi_bousaid	4	0	
+ligneTGM067		carthage_amilcar	5	0	
+ligneTGM067	4:25:00	carthage_présidence	6	0	4:25:00
+ligneTGM067		carthage_hannibal	7	0	
+ligneTGM067		carthage_dermech	8	0	
+ligneTGM067		carthage_byrsa	9	0	
+ligneTGM067		carthage_salambo	10	0	
+ligneTGM067	4:33:00	le kram	11	0	4:33:00
+ligneTGM067		l'aéroport	12	0	
+ligneTGM067		khiareddine	13	0	
+ligneTGM067		goulette_casino	14	0	
+ligneTGM067		goulette_neuve	15	0	
+ligneTGM067	4:40:00	la goulette	16	0	4:40:00
+ligneTGM067		le bac	17	0	
+ligneTGM067	4:50:00	tunis_marine	18	0	4:50:00
+ligneTGM068	5:00:00	marsa_plage	1	0	5:00:00
+ligneTGM068		corniche	2	0	
+ligneTGM068		sidi_dhrif	3	0	
+ligneTGM068		sidi_bousaid	4	0	
+ligneTGM068		carthage_amilcar	5	0	
+ligneTGM068	5:10:00	carthage_présidence	6	0	5:10:00
+ligneTGM068		carthage_hannibal	7	0	
+ligneTGM068		carthage_dermech	8	0	
+ligneTGM068		carthage_byrsa	9	0	
+ligneTGM068		carthage_salambo	10	0	
+ligneTGM068	5:18:00	le kram	11	0	5:18:00
+ligneTGM068		l'aéroport	12	0	
+ligneTGM068		khiareddine	13	0	
+ligneTGM068		goulette_casino	14	0	
+ligneTGM068		goulette_neuve	15	0	
+ligneTGM068	5:25:00	la goulette	16	0	5:25:00
+ligneTGM068		le bac	17	0	
+ligneTGM068	5:35:00	tunis_marine	18	0	5:35:00
+ligneTGM069	5:45:00	marsa_plage	1	0	5:45:00
+ligneTGM069		corniche	2	0	
+ligneTGM069		sidi_dhrif	3	0	
+ligneTGM069		sidi_bousaid	4	0	
+ligneTGM069		carthage_amilcar	5	0	
+ligneTGM069	5:55:00	carthage_présidence	6	0	5:55:00
+ligneTGM069		carthage_hannibal	7	0	
+ligneTGM069		carthage_dermech	8	0	
+ligneTGM069		carthage_byrsa	9	0	
+ligneTGM069		carthage_salambo	10	0	
+ligneTGM069	6:03:00	le kram	11	0	6:03:00
+ligneTGM069		l'aéroport	12	0	
+ligneTGM069		khiareddine	13	0	
+ligneTGM069		goulette_casino	14	0	
+ligneTGM069		goulette_neuve	15	0	
+ligneTGM069	6:10:00	la goulette	16	0	6:10:00
+ligneTGM069		le bac	17	0	
+ligneTGM069	6:20:00	tunis_marine	18	0	6:20:00
+ligneTGM070	6:05:00	marsa_plage	1	0	6:05:00
+ligneTGM070		corniche	2	0	
+ligneTGM070		sidi_dhrif	3	0	
+ligneTGM070		sidi_bousaid	4	0	
+ligneTGM070		carthage_amilcar	5	0	
+ligneTGM070	6:15:00	carthage_présidence	6	0	6:15:00
+ligneTGM070		carthage_hannibal	7	0	
+ligneTGM070		carthage_dermech	8	0	
+ligneTGM070		carthage_byrsa	9	0	
+ligneTGM070		carthage_salambo	10	0	
+ligneTGM070	6:23:00	le kram	11	0	6:23:00
+ligneTGM070		l'aéroport	12	0	
+ligneTGM070		khiareddine	13	0	
+ligneTGM070		goulette_casino	14	0	
+ligneTGM070		goulette_neuve	15	0	
+ligneTGM070	6:30:00	la goulette	16	0	6:30:00
+ligneTGM070		le bac	17	0	
+ligneTGM070	6:40:00	tunis_marine	18	0	6:40:00
+ligneTGM071	6:27:00	marsa_plage	1	0	6:27:00
+ligneTGM071		corniche	2	0	
+ligneTGM071		sidi_dhrif	3	0	
+ligneTGM071		sidi_bousaid	4	0	
+ligneTGM071		carthage_amilcar	5	0	
+ligneTGM071	6:37:00	carthage_présidence	6	0	6:37:00
+ligneTGM071		carthage_hannibal	7	0	
+ligneTGM071		carthage_dermech	8	0	
+ligneTGM071		carthage_byrsa	9	0	
+ligneTGM071		carthage_salambo	10	0	
+ligneTGM071	6:45:00	le kram	11	0	6:45:00
+ligneTGM071		l'aéroport	12	0	
+ligneTGM071		khiareddine	13	0	
+ligneTGM071		goulette_casino	14	0	
+ligneTGM071		goulette_neuve	15	0	
+ligneTGM071	6:52:00	la goulette	16	0	6:52:00
+ligneTGM071		le bac	17	0	
+ligneTGM071	7:02:00	tunis_marine	18	0	7:02:00
+ligneTGM072	6:45:00	marsa_plage	1	0	6:45:00
+ligneTGM072		corniche	2	0	
+ligneTGM072		sidi_dhrif	3	0	
+ligneTGM072		sidi_bousaid	4	0	
+ligneTGM072		carthage_amilcar	5	0	
+ligneTGM072	6:55:00	carthage_présidence	6	0	6:55:00
+ligneTGM072		carthage_hannibal	7	0	
+ligneTGM072		carthage_dermech	8	0	
+ligneTGM072		carthage_byrsa	9	0	
+ligneTGM072		carthage_salambo	10	0	
+ligneTGM072	7:03:00	le kram	11	0	7:03:00
+ligneTGM072		l'aéroport	12	0	
+ligneTGM072		khiareddine	13	0	
+ligneTGM072		goulette_casino	14	0	
+ligneTGM072		goulette_neuve	15	0	
+ligneTGM072	7:10:00	la goulette	16	0	7:10:00
+ligneTGM072		le bac	17	0	
+ligneTGM072	7:20:00	tunis_marine	18	0	7:20:00
+ligneTGM073	7:00:00	marsa_plage	1	0	7:00:00
+ligneTGM073		corniche	2	0	
+ligneTGM073		sidi_dhrif	3	0	
+ligneTGM073		sidi_bousaid	4	0	
+ligneTGM073		carthage_amilcar	5	0	
+ligneTGM073	7:10:00	carthage_présidence	6	0	7:10:00
+ligneTGM073		carthage_hannibal	7	0	
+ligneTGM073		carthage_dermech	8	0	
+ligneTGM073		carthage_byrsa	9	0	
+ligneTGM073		carthage_salambo	10	0	
+ligneTGM073	7:18:00	le kram	11	0	7:18:00
+ligneTGM073		l'aéroport	12	0	
+ligneTGM073		khiareddine	13	0	
+ligneTGM073		goulette_casino	14	0	
+ligneTGM073		goulette_neuve	15	0	
+ligneTGM073	7:25:00	la goulette	16	0	7:25:00
+ligneTGM073		le bac	17	0	
+ligneTGM073	7:35:00	tunis_marine	18	0	7:35:00
+ligneTGM074	7:15:00	marsa_plage	1	0	7:15:00
+ligneTGM074		corniche	2	0	
+ligneTGM074		sidi_dhrif	3	0	
+ligneTGM074		sidi_bousaid	4	0	
+ligneTGM074		carthage_amilcar	5	0	
+ligneTGM074	7:25:00	carthage_présidence	6	0	725:00:00
+ligneTGM074		carthage_hannibal	7	0	
+ligneTGM074		carthage_dermech	8	0	
+ligneTGM074		carthage_byrsa	9	0	
+ligneTGM074		carthage_salambo	10	0	
+ligneTGM074	7:33:00	le kram	11	0	7:33:00
+ligneTGM074		l'aéroport	12	0	
+ligneTGM074		khiareddine	13	0	
+ligneTGM074		goulette_casino	14	0	
+ligneTGM074		goulette_neuve	15	0	
+ligneTGM074	7:40:00	la goulette	16	0	7:40:00
+ligneTGM074		le bac	17	0	
+ligneTGM074	7:50:00	tunis_marine	18	0	7:50:00
+ligneTGM075	7:30:00	marsa_plage	1	0	7:30:00
+ligneTGM075		corniche	2	0	
+ligneTGM075		sidi_dhrif	3	0	
+ligneTGM075		sidi_bousaid	4	0	
+ligneTGM075		carthage_amilcar	5	0	
+ligneTGM075	7:40:00	carthage_présidence	6	0	7:40:00
+ligneTGM075		carthage_hannibal	7	0	
+ligneTGM075		carthage_dermech	8	0	
+ligneTGM075		carthage_byrsa	9	0	
+ligneTGM075		carthage_salambo	10	0	
+ligneTGM075	7:48:00	le kram	11	0	7:48:00
+ligneTGM075		l'aéroport	12	0	
+ligneTGM075		khiareddine	13	0	
+ligneTGM075		goulette_casino	14	0	
+ligneTGM075		goulette_neuve	15	0	
+ligneTGM075	7:55:00	la goulette	16	0	7:55:00
+ligneTGM075		le bac	17	0	
+ligneTGM075	8:05:00	tunis_marine	18	0	8:05:00
+ligneTGM076	7:45:00	marsa_plage	1	0	7:45:00
+ligneTGM076		corniche	2	0	
+ligneTGM076		sidi_dhrif	3	0	
+ligneTGM076		sidi_bousaid	4	0	
+ligneTGM076		carthage_amilcar	5	0	
+ligneTGM076	7:55:00	carthage_présidence	6	0	7:55:00
+ligneTGM076		carthage_hannibal	7	0	
+ligneTGM076		carthage_dermech	8	0	
+ligneTGM076		carthage_byrsa	9	0	
+ligneTGM076		carthage_salambo	10	0	
+ligneTGM076	8:03:00	le kram	11	0	8:03:00
+ligneTGM076		l'aéroport	12	0	
+ligneTGM076		khiareddine	13	0	
+ligneTGM076		goulette_casino	14	0	
+ligneTGM076		goulette_neuve	15	0	
+ligneTGM076	8:10:00	la goulette	16	0	8:10:00
+ligneTGM076		le bac	17	0	
+ligneTGM076	8:20:00	tunis_marine	18	0	8:20:00
+ligneTGM077	7:57:00	marsa_plage	1	0	7:57:00
+ligneTGM077		corniche	2	0	
+ligneTGM077		sidi_dhrif	3	0	
+ligneTGM077		sidi_bousaid	4	0	
+ligneTGM077		carthage_amilcar	5	0	
+ligneTGM077	8:07:00	carthage_présidence	6	0	8:07:00
+ligneTGM077		carthage_hannibal	7	0	
+ligneTGM077		carthage_dermech	8	0	
+ligneTGM077		carthage_byrsa	9	0	
+ligneTGM077		carthage_salambo	10	0	
+ligneTGM077	8:15:00	le kram	11	0	8:15:00
+ligneTGM077		l'aéroport	12	0	
+ligneTGM077		khiareddine	13	0	
+ligneTGM077		goulette_casino	14	0	
+ligneTGM077		goulette_neuve	15	0	
+ligneTGM077	8:22:00	la goulette	16	0	8:22:00
+ligneTGM077		le bac	17	0	
+ligneTGM077	8:32:00	tunis_marine	18	0	8:32:00
+ligneTGM078	8:09:00	marsa_plage	1	0	8:09:00
+ligneTGM078		corniche	2	0	
+ligneTGM078		sidi_dhrif	3	0	
+ligneTGM078		sidi_bousaid	4	0	
+ligneTGM078		carthage_amilcar	5	0	
+ligneTGM078	8:19:00	carthage_présidence	6	0	8:19:00
+ligneTGM078		carthage_hannibal	7	0	
+ligneTGM078		carthage_dermech	8	0	
+ligneTGM078		carthage_byrsa	9	0	
+ligneTGM078		carthage_salambo	10	0	
+ligneTGM078	8:27:00	le kram	11	0	8:27:00
+ligneTGM078		l'aéroport	12	0	
+ligneTGM078		khiareddine	13	0	
+ligneTGM078		goulette_casino	14	0	
+ligneTGM078		goulette_neuve	15	0	
+ligneTGM078	8:34:00	la goulette	16	0	8:34:00
+ligneTGM078		le bac	17	0	
+ligneTGM078	8:44:00	tunis_marine	18	0	8:44:00
+ligneTGM079	8:21:00	marsa_plage	1	0	8:21:00
+ligneTGM079		corniche	2	0	
+ligneTGM079		sidi_dhrif	3	0	
+ligneTGM079		sidi_bousaid	4	0	
+ligneTGM079		carthage_amilcar	5	0	
+ligneTGM079	8:31:00	carthage_présidence	6	0	8:31:00
+ligneTGM079		carthage_hannibal	7	0	
+ligneTGM079		carthage_dermech	8	0	
+ligneTGM079		carthage_byrsa	9	0	
+ligneTGM079		carthage_salambo	10	0	
+ligneTGM079	8:39:00	le kram	11	0	8:39:00
+ligneTGM079		l'aéroport	12	0	
+ligneTGM079		khiareddine	13	0	
+ligneTGM079		goulette_casino	14	0	
+ligneTGM079		goulette_neuve	15	0	
+ligneTGM079	8:46:00	la goulette	16	0	8:46:00
+ligneTGM079		le bac	17	0	
+ligneTGM079	8:56:00	tunis_marine	18	0	8:56:00
+ligneTGM080	8:33:00	marsa_plage	1	0	8:33:00
+ligneTGM080		corniche	2	0	
+ligneTGM080		sidi_dhrif	3	0	
+ligneTGM080		sidi_bousaid	4	0	
+ligneTGM080		carthage_amilcar	5	0	
+ligneTGM080	8:43:00	carthage_présidence	6	0	8:43:00
+ligneTGM080		carthage_hannibal	7	0	
+ligneTGM080		carthage_dermech	8	0	
+ligneTGM080		carthage_byrsa	9	0	
+ligneTGM080		carthage_salambo	10	0	
+ligneTGM080	8:51:00	le kram	11	0	8:51:00
+ligneTGM080		l'aéroport	12	0	
+ligneTGM080		khiareddine	13	0	
+ligneTGM080		goulette_casino	14	0	
+ligneTGM080		goulette_neuve	15	0	
+ligneTGM080	8:58:00	la goulette	16	0	8:58:00
+ligneTGM080		le bac	17	0	
+ligneTGM080	9:08:00	tunis_marine	18	0	9:08:00
+ligneTGM081	8:45:00	marsa_plage	1	0	8:45:00
+ligneTGM081		corniche	2	0	
+ligneTGM081		sidi_dhrif	3	0	
+ligneTGM081		sidi_bousaid	4	0	
+ligneTGM081		carthage_amilcar	5	0	
+ligneTGM081	8:55:00	carthage_présidence	6	0	8:55:00
+ligneTGM081		carthage_hannibal	7	0	
+ligneTGM081		carthage_dermech	8	0	
+ligneTGM081		carthage_byrsa	9	0	
+ligneTGM081		carthage_salambo	10	0	
+ligneTGM081	9:03:00	le kram	11	0	9:03:00
+ligneTGM081		l'aéroport	12	0	
+ligneTGM081		khiareddine	13	0	
+ligneTGM081		goulette_casino	14	0	
+ligneTGM081		goulette_neuve	15	0	
+ligneTGM081	9:10:00	la goulette	16	0	9:10:00
+ligneTGM081		le bac	17	0	
+ligneTGM081	9:20:00	tunis_marine	18	0	9:20:00
+ligneTGM082	9:00:00	marsa_plage	1	0	9:00:00
+ligneTGM082		corniche	2	0	
+ligneTGM082		sidi_dhrif	3	0	
+ligneTGM082		sidi_bousaid	4	0	
+ligneTGM082		carthage_amilcar	5	0	
+ligneTGM082	9:10:00	carthage_présidence	6	0	9:10:00
+ligneTGM082		carthage_hannibal	7	0	
+ligneTGM082		carthage_dermech	8	0	
+ligneTGM082		carthage_byrsa	9	0	
+ligneTGM082		carthage_salambo	10	0	
+ligneTGM082	9:18:00	le kram	11	0	9:18:00
+ligneTGM082		l'aéroport	12	0	
+ligneTGM082		khiareddine	13	0	
+ligneTGM082		goulette_casino	14	0	
+ligneTGM082		goulette_neuve	15	0	
+ligneTGM082	9:25:00	la goulette	16	0	9:25:00
+ligneTGM082		le bac	17	0	
+ligneTGM082	9:35:00	tunis_marine	18	0	9:35:00
+ligneTGM083	9:15:00	marsa_plage	1	0	9:15:00
+ligneTGM083		corniche	2	0	
+ligneTGM083		sidi_dhrif	3	0	
+ligneTGM083		sidi_bousaid	4	0	
+ligneTGM083		carthage_amilcar	5	0	
+ligneTGM083	9:25:00	carthage_présidence	6	0	9:25:00
+ligneTGM083		carthage_hannibal	7	0	
+ligneTGM083		carthage_dermech	8	0	
+ligneTGM083		carthage_byrsa	9	0	
+ligneTGM083		carthage_salambo	10	0	
+ligneTGM083	9:33:00	le kram	11	0	9:33:00
+ligneTGM083		l'aéroport	12	0	
+ligneTGM083		khiareddine	13	0	
+ligneTGM083		goulette_casino	14	0	
+ligneTGM083		goulette_neuve	15	0	
+ligneTGM083	9:40:00	la goulette	16	0	9:40:00
+ligneTGM083		le bac	17	0	
+ligneTGM083	9:50:00	tunis_marine	18	0	9:50:00
+ligneTGM084	9:30:00	marsa_plage	1	0	9:30:00
+ligneTGM084		corniche	2	0	
+ligneTGM084		sidi_dhrif	3	0	
+ligneTGM084		sidi_bousaid	4	0	
+ligneTGM084		carthage_amilcar	5	0	
+ligneTGM084	9:40:00	carthage_présidence	6	0	9:40:00
+ligneTGM084		carthage_hannibal	7	0	
+ligneTGM084		carthage_dermech	8	0	
+ligneTGM084		carthage_byrsa	9	0	
+ligneTGM084		carthage_salambo	10	0	
+ligneTGM084	9:48:00	le kram	11	0	9:48:00
+ligneTGM084		l'aéroport	12	0	
+ligneTGM084		khiareddine	13	0	
+ligneTGM084		goulette_casino	14	0	
+ligneTGM084		goulette_neuve	15	0	
+ligneTGM084	9:55:00	la goulette	16	0	9:55:00
+ligneTGM084		le bac	17	0	
+ligneTGM084	10:05:00	tunis_marine	18	0	10:05:00
+ligneTGM085	9:45:00	marsa_plage	1	0	9:45:00
+ligneTGM085		corniche	2	0	
+ligneTGM085		sidi_dhrif	3	0	
+ligneTGM085		sidi_bousaid	4	0	
+ligneTGM085		carthage_amilcar	5	0	
+ligneTGM085	9:55:00	carthage_présidence	6	0	9:55:00
+ligneTGM085		carthage_hannibal	7	0	
+ligneTGM085		carthage_dermech	8	0	
+ligneTGM085		carthage_byrsa	9	0	
+ligneTGM085		carthage_salambo	10	0	
+ligneTGM085	10:03:00	le kram	11	0	10:03:00
+ligneTGM085		l'aéroport	12	0	
+ligneTGM085		khiareddine	13	0	
+ligneTGM085		goulette_casino	14	0	
+ligneTGM085		goulette_neuve	15	0	
+ligneTGM085	10:10:00	la goulette	16	0	10:10:00
+ligneTGM085		le bac	17	0	
+ligneTGM085	10:20:00	tunis_marine	18	0	10:20:00
+ligneTGM086	10:00:00	marsa_plage	1	0	10:00:00
+ligneTGM086		corniche	2	0	
+ligneTGM086		sidi_dhrif	3	0	
+ligneTGM086		sidi_bousaid	4	0	
+ligneTGM086		carthage_amilcar	5	0	
+ligneTGM086	10:10:00	carthage_présidence	6	0	10:10:00
+ligneTGM086		carthage_hannibal	7	0	
+ligneTGM086		carthage_dermech	8	0	
+ligneTGM086		carthage_byrsa	9	0	
+ligneTGM086		carthage_salambo	10	0	
+ligneTGM086	10:18:00	le kram	11	0	10:18:00
+ligneTGM086		l'aéroport	12	0	
+ligneTGM086		khiareddine	13	0	
+ligneTGM086		goulette_casino	14	0	
+ligneTGM086		goulette_neuve	15	0	
+ligneTGM086	10:25:00	la goulette	16	0	10:25:00
+ligneTGM086		le bac	17	0	
+ligneTGM086	10:35:00	tunis_marine	18	0	10:35:00
+ligneTGM087	10:15:00	marsa_plage	1	0	10:15:00
+ligneTGM087		corniche	2	0	
+ligneTGM087		sidi_dhrif	3	0	
+ligneTGM087		sidi_bousaid	4	0	
+ligneTGM087		carthage_amilcar	5	0	
+ligneTGM087	10:25:00	carthage_présidence	6	0	10:25:00
+ligneTGM087		carthage_hannibal	7	0	
+ligneTGM087		carthage_dermech	8	0	
+ligneTGM087		carthage_byrsa	9	0	
+ligneTGM087		carthage_salambo	10	0	
+ligneTGM087	10:33:00	le kram	11	0	10:33:00
+ligneTGM087		l'aéroport	12	0	
+ligneTGM087		khiareddine	13	0	
+ligneTGM087		goulette_casino	14	0	
+ligneTGM087		goulette_neuve	15	0	
+ligneTGM087	10:40:00	la goulette	16	0	10:40:00
+ligneTGM087		le bac	17	0	
+ligneTGM087	10:50:00	tunis_marine	18	0	10:50:00
+ligneTGM088	10:30:00	marsa_plage	1	0	10:30:00
+ligneTGM088		corniche	2	0	
+ligneTGM088		sidi_dhrif	3	0	
+ligneTGM088		sidi_bousaid	4	0	
+ligneTGM088		carthage_amilcar	5	0	
+ligneTGM088	10:40:00	carthage_présidence	6	0	10:40:00
+ligneTGM088		carthage_hannibal	7	0	
+ligneTGM088		carthage_dermech	8	0	
+ligneTGM088		carthage_byrsa	9	0	
+ligneTGM088		carthage_salambo	10	0	
+ligneTGM088	10:48:00	le kram	11	0	10:48:00
+ligneTGM088		l'aéroport	12	0	
+ligneTGM088		khiareddine	13	0	
+ligneTGM088		goulette_casino	14	0	
+ligneTGM088		goulette_neuve	15	0	
+ligneTGM088	10:55:00	la goulette	16	0	10:55:00
+ligneTGM088		le bac	17	0	
+ligneTGM088	11:05:00	tunis_marine	18	0	11:05:00
+ligneTGM089	10:45:00	marsa_plage	1	0	10:45:00
+ligneTGM089		corniche	2	0	
+ligneTGM089		sidi_dhrif	3	0	
+ligneTGM089		sidi_bousaid	4	0	
+ligneTGM089		carthage_amilcar	5	0	
+ligneTGM089	10:55:00	carthage_présidence	6	0	10:55:00
+ligneTGM089		carthage_hannibal	7	0	
+ligneTGM089		carthage_dermech	8	0	
+ligneTGM089		carthage_byrsa	9	0	
+ligneTGM089		carthage_salambo	10	0	
+ligneTGM089	11:03:00	le kram	11	0	11:03:00
+ligneTGM089		l'aéroport	12	0	
+ligneTGM089		khiareddine	13	0	
+ligneTGM089		goulette_casino	14	0	
+ligneTGM089		goulette_neuve	15	0	
+ligneTGM089	11:10:00	la goulette	16	0	11:10:00
+ligneTGM089		le bac	17	0	
+ligneTGM089	11:20:00	tunis_marine	18	0	11:20:00
+ligneTGM090	11:00:00	marsa_plage	1	0	11:00:00
+ligneTGM090		corniche	2	0	
+ligneTGM090		sidi_dhrif	3	0	
+ligneTGM090		sidi_bousaid	4	0	
+ligneTGM090		carthage_amilcar	5	0	
+ligneTGM090	11:10:00	carthage_présidence	6	0	11:10:00
+ligneTGM090		carthage_hannibal	7	0	
+ligneTGM090		carthage_dermech	8	0	
+ligneTGM090		carthage_byrsa	9	0	
+ligneTGM090		carthage_salambo	10	0	
+ligneTGM090	11:18:00	le kram	11	0	11:18:00
+ligneTGM090		l'aéroport	12	0	
+ligneTGM090		khiareddine	13	0	
+ligneTGM090		goulette_casino	14	0	
+ligneTGM090		goulette_neuve	15	0	
+ligneTGM090	11:25:00	la goulette	16	0	11:25:00
+ligneTGM090		le bac	17	0	
+ligneTGM090	11:35:00	tunis_marine	18	0	11:35:00
+ligneTGM091	11:15:00	marsa_plage	1	0	11:15:00
+ligneTGM091		corniche	2	0	
+ligneTGM091		sidi_dhrif	3	0	
+ligneTGM091		sidi_bousaid	4	0	
+ligneTGM091		carthage_amilcar	5	0	
+ligneTGM091	11:25:00	carthage_présidence	6	0	11:25:00
+ligneTGM091		carthage_hannibal	7	0	
+ligneTGM091		carthage_dermech	8	0	
+ligneTGM091		carthage_byrsa	9	0	
+ligneTGM091		carthage_salambo	10	0	
+ligneTGM091	11:33:00	le kram	11	0	11:33:00
+ligneTGM091		l'aéroport	12	0	
+ligneTGM091		khiareddine	13	0	
+ligneTGM091		goulette_casino	14	0	
+ligneTGM091		goulette_neuve	15	0	
+ligneTGM091	11:40:00	la goulette	16	0	11:40:00
+ligneTGM091		le bac	17	0	
+ligneTGM091	11:50:00	tunis_marine	18	0	11:50:00
+ligneTGM092	11:30:00	marsa_plage	1	0	11:30:00
+ligneTGM092		corniche	2	0	
+ligneTGM092		sidi_dhrif	3	0	
+ligneTGM092		sidi_bousaid	4	0	
+ligneTGM092		carthage_amilcar	5	0	
+ligneTGM092	11:40:00	carthage_présidence	6	0	11:40:00
+ligneTGM092		carthage_hannibal	7	0	
+ligneTGM092		carthage_dermech	8	0	
+ligneTGM092		carthage_byrsa	9	0	
+ligneTGM092		carthage_salambo	10	0	
+ligneTGM092	11:48:00	le kram	11	0	11:48:00
+ligneTGM092		l'aéroport	12	0	
+ligneTGM092		khiareddine	13	0	
+ligneTGM092		goulette_casino	14	0	
+ligneTGM092		goulette_neuve	15	0	
+ligneTGM092	11:55:00	la goulette	16	0	11:55:00
+ligneTGM092		le bac	17	0	
+ligneTGM092	12:05:00	tunis_marine	18	0	12:05:00
+ligneTGM093	11:45:00	marsa_plage	1	0	11:45:00
+ligneTGM093		corniche	2	0	
+ligneTGM093		sidi_dhrif	3	0	
+ligneTGM093		sidi_bousaid	4	0	
+ligneTGM093		carthage_amilcar	5	0	
+ligneTGM093	11:55:00	carthage_présidence	6	0	11:55:00
+ligneTGM093		carthage_hannibal	7	0	
+ligneTGM093		carthage_dermech	8	0	
+ligneTGM093		carthage_byrsa	9	0	
+ligneTGM093		carthage_salambo	10	0	
+ligneTGM093	12:03:00	le kram	11	0	12:03:00
+ligneTGM093		l'aéroport	12	0	
+ligneTGM093		khiareddine	13	0	
+ligneTGM093		goulette_casino	14	0	
+ligneTGM093		goulette_neuve	15	0	
+ligneTGM093	12:10:00	la goulette	16	0	12:10:00
+ligneTGM093		le bac	17	0	
+ligneTGM093	12:20:00	tunis_marine	18	0	12:20:00
+ligneTGM094	12:00:00	marsa_plage	1	0	12:00:00
+ligneTGM094		corniche	2	0	
+ligneTGM094		sidi_dhrif	3	0	
+ligneTGM094		sidi_bousaid	4	0	
+ligneTGM094		carthage_amilcar	5	0	
+ligneTGM094	12:10:00	carthage_présidence	6	0	12:10:00
+ligneTGM094		carthage_hannibal	7	0	
+ligneTGM094		carthage_dermech	8	0	
+ligneTGM094		carthage_byrsa	9	0	
+ligneTGM094		carthage_salambo	10	0	
+ligneTGM094	12:18:00	le kram	11	0	12:18:00
+ligneTGM094		l'aéroport	12	0	
+ligneTGM094		khiareddine	13	0	
+ligneTGM094		goulette_casino	14	0	
+ligneTGM094		goulette_neuve	15	0	
+ligneTGM094	12:25:00	la goulette	16	0	12:25:00
+ligneTGM094		le bac	17	0	
+ligneTGM094	12:35:00	tunis_marine	18	0	12:35:00
+ligneTGM095	12:15:00	marsa_plage	1	0	12:15:00
+ligneTGM095		corniche	2	0	
+ligneTGM095		sidi_dhrif	3	0	
+ligneTGM095		sidi_bousaid	4	0	
+ligneTGM095		carthage_amilcar	5	0	
+ligneTGM095	12:25:00	carthage_présidence	6	0	12:25:00
+ligneTGM095		carthage_hannibal	7	0	
+ligneTGM095		carthage_dermech	8	0	
+ligneTGM095		carthage_byrsa	9	0	
+ligneTGM095		carthage_salambo	10	0	
+ligneTGM095	12:33:00	le kram	11	0	12:33:00
+ligneTGM095		l'aéroport	12	0	
+ligneTGM095		khiareddine	13	0	
+ligneTGM095		goulette_casino	14	0	
+ligneTGM095		goulette_neuve	15	0	
+ligneTGM095	12:40:00	la goulette	16	0	12:40:00
+ligneTGM095		le bac	17	0	
+ligneTGM095	12:50:00	tunis_marine	18	0	12:50:00
+ligneTGM096	12:30:00	marsa_plage	1	0	12:30:00
+ligneTGM096		corniche	2	0	
+ligneTGM096		sidi_dhrif	3	0	
+ligneTGM096		sidi_bousaid	4	0	
+ligneTGM096		carthage_amilcar	5	0	
+ligneTGM096	12:40:00	carthage_présidence	6	0	12:40:00
+ligneTGM096		carthage_hannibal	7	0	
+ligneTGM096		carthage_dermech	8	0	
+ligneTGM096		carthage_byrsa	9	0	
+ligneTGM096		carthage_salambo	10	0	
+ligneTGM096	12:48:00	le kram	11	0	12:48:00
+ligneTGM096		l'aéroport	12	0	
+ligneTGM096		khiareddine	13	0	
+ligneTGM096		goulette_casino	14	0	
+ligneTGM096		goulette_neuve	15	0	
+ligneTGM096	12:55:00	la goulette	16	0	12:55:00
+ligneTGM096		le bac	17	0	
+ligneTGM096	13:05:00	tunis_marine	18	0	13:05:00
+ligneTGM097	12:45:00	marsa_plage	1	0	12:45:00
+ligneTGM097		corniche	2	0	
+ligneTGM097		sidi_dhrif	3	0	
+ligneTGM097		sidi_bousaid	4	0	
+ligneTGM097		carthage_amilcar	5	0	
+ligneTGM097	12:55:00	carthage_présidence	6	0	12:55:00
+ligneTGM097		carthage_hannibal	7	0	
+ligneTGM097		carthage_dermech	8	0	
+ligneTGM097		carthage_byrsa	9	0	
+ligneTGM097		carthage_salambo	10	0	
+ligneTGM097	13:03:00	le kram	11	0	13:03:00
+ligneTGM097		l'aéroport	12	0	
+ligneTGM097		khiareddine	13	0	
+ligneTGM097		goulette_casino	14	0	
+ligneTGM097		goulette_neuve	15	0	
+ligneTGM097	13:10:00	la goulette	16	0	13:10:00
+ligneTGM097		le bac	17	0	
+ligneTGM097	13:20:00	tunis_marine	18	0	13:20:00
+ligneTGM098	12:57:00	marsa_plage	1	0	12:57:00
+ligneTGM098		corniche	2	0	
+ligneTGM098		sidi_dhrif	3	0	
+ligneTGM098		sidi_bousaid	4	0	
+ligneTGM098		carthage_amilcar	5	0	
+ligneTGM098	13:07:00	carthage_présidence	6	0	13:07:00
+ligneTGM098		carthage_hannibal	7	0	
+ligneTGM098		carthage_dermech	8	0	
+ligneTGM098		carthage_byrsa	9	0	
+ligneTGM098		carthage_salambo	10	0	
+ligneTGM098	13:15:00	le kram	11	0	13:15:00
+ligneTGM098		l'aéroport	12	0	
+ligneTGM098		khiareddine	13	0	
+ligneTGM098		goulette_casino	14	0	
+ligneTGM098		goulette_neuve	15	0	
+ligneTGM098	13:22:00	la goulette	16	0	13:22:00
+ligneTGM098		le bac	17	0	
+ligneTGM098	13:32:00	tunis_marine	18	0	13:32:00
+ligneTGM099	13:09:00	marsa_plage	1	0	13:09:00
+ligneTGM099		corniche	2	0	
+ligneTGM099		sidi_dhrif	3	0	
+ligneTGM099		sidi_bousaid	4	0	
+ligneTGM099		carthage_amilcar	5	0	
+ligneTGM099	13:19:00	carthage_présidence	6	0	13:19:00
+ligneTGM099		carthage_hannibal	7	0	
+ligneTGM099		carthage_dermech	8	0	
+ligneTGM099		carthage_byrsa	9	0	
+ligneTGM099		carthage_salambo	10	0	
+ligneTGM099	13:27:00	le kram	11	0	13:27:00
+ligneTGM099		l'aéroport	12	0	
+ligneTGM099		khiareddine	13	0	
+ligneTGM099		goulette_casino	14	0	
+ligneTGM099		goulette_neuve	15	0	
+ligneTGM099	13:34:00	la goulette	16	0	13:34:00
+ligneTGM099		le bac	17	0	
+ligneTGM099	13:44:00	tunis_marine	18	0	13:44:00
+ligneTGM100	13:21:00	marsa_plage	1	0	13:21:00
+ligneTGM100		corniche	2	0	
+ligneTGM100		sidi_dhrif	3	0	
+ligneTGM100		sidi_bousaid	4	0	
+ligneTGM100		carthage_amilcar	5	0	
+ligneTGM100	13:31:00	carthage_présidence	6	0	13:31:00
+ligneTGM100		carthage_hannibal	7	0	
+ligneTGM100		carthage_dermech	8	0	
+ligneTGM100		carthage_byrsa	9	0	
+ligneTGM100		carthage_salambo	10	0	
+ligneTGM100	13:39:00	le kram	11	0	13:39:00
+ligneTGM100		l'aéroport	12	0	
+ligneTGM100		khiareddine	13	0	
+ligneTGM100		goulette_casino	14	0	
+ligneTGM100		goulette_neuve	15	0	
+ligneTGM100	13:46:00	la goulette	16	0	13:46:00
+ligneTGM100		le bac	17	0	
+ligneTGM100	13:56:00	tunis_marine	18	0	13:56:00
+ligneTGM101	13:33:00	marsa_plage	1	0	13:33:00
+ligneTGM101		corniche	2	0	
+ligneTGM101		sidi_dhrif	3	0	
+ligneTGM101		sidi_bousaid	4	0	
+ligneTGM101		carthage_amilcar	5	0	
+ligneTGM101	13:43:00	carthage_présidence	6	0	13:43:00
+ligneTGM101		carthage_hannibal	7	0	
+ligneTGM101		carthage_dermech	8	0	
+ligneTGM101		carthage_byrsa	9	0	
+ligneTGM101		carthage_salambo	10	0	
+ligneTGM101	13:51:00	le kram	11	0	13:51:00
+ligneTGM101		l'aéroport	12	0	
+ligneTGM101		khiareddine	13	0	
+ligneTGM101		goulette_casino	14	0	
+ligneTGM101		goulette_neuve	15	0	
+ligneTGM101	13:58:00	la goulette	16	0	13:58:00
+ligneTGM101		le bac	17	0	
+ligneTGM101	14:08:00	tunis_marine	18	0	14:08:00
+ligneTGM102	13:45:00	marsa_plage	1	0	13:45:00
+ligneTGM102		corniche	2	0	
+ligneTGM102		sidi_dhrif	3	0	
+ligneTGM102		sidi_bousaid	4	0	
+ligneTGM102		carthage_amilcar	5	0	
+ligneTGM102	13:55:00	carthage_présidence	6	0	13:55:00
+ligneTGM102		carthage_hannibal	7	0	
+ligneTGM102		carthage_dermech	8	0	
+ligneTGM102		carthage_byrsa	9	0	
+ligneTGM102		carthage_salambo	10	0	
+ligneTGM102	14:03:00	le kram	11	0	14:03:00
+ligneTGM102		l'aéroport	12	0	
+ligneTGM102		khiareddine	13	0	
+ligneTGM102		goulette_casino	14	0	
+ligneTGM102		goulette_neuve	15	0	
+ligneTGM102	14:10:00	la goulette	16	0	14:10:00
+ligneTGM102		le bac	17	0	
+ligneTGM102	14:20:00	tunis_marine	18	0	14:20:00
+ligneTGM103	13:57:00	marsa_plage	1	0	13:57:00
+ligneTGM103		corniche	2	0	
+ligneTGM103		sidi_dhrif	3	0	
+ligneTGM103		sidi_bousaid	4	0	
+ligneTGM103		carthage_amilcar	5	0	
+ligneTGM103	14:07:00	carthage_présidence	6	0	14:07:00
+ligneTGM103		carthage_hannibal	7	0	
+ligneTGM103		carthage_dermech	8	0	
+ligneTGM103		carthage_byrsa	9	0	
+ligneTGM103		carthage_salambo	10	0	
+ligneTGM103	14:15:00	le kram	11	0	14:15:00
+ligneTGM103		l'aéroport	12	0	
+ligneTGM103		khiareddine	13	0	
+ligneTGM103		goulette_casino	14	0	
+ligneTGM103		goulette_neuve	15	0	
+ligneTGM103	14:22:00	la goulette	16	0	14:22:00
+ligneTGM103		le bac	17	0	
+ligneTGM103	14:32:00	tunis_marine	18	0	14:32:00
+ligneTGM104	14:09:00	marsa_plage	1	0	14:09:00
+ligneTGM104		corniche	2	0	
+ligneTGM104		sidi_dhrif	3	0	
+ligneTGM104		sidi_bousaid	4	0	
+ligneTGM104		carthage_amilcar	5	0	
+ligneTGM104	14:19:00	carthage_présidence	6	0	14:19:00
+ligneTGM104		carthage_hannibal	7	0	
+ligneTGM104		carthage_dermech	8	0	
+ligneTGM104		carthage_byrsa	9	0	
+ligneTGM104		carthage_salambo	10	0	
+ligneTGM104	14:27:00	le kram	11	0	14:27:00
+ligneTGM104		l'aéroport	12	0	
+ligneTGM104		khiareddine	13	0	
+ligneTGM104		goulette_casino	14	0	
+ligneTGM104		goulette_neuve	15	0	
+ligneTGM104	14:34:00	la goulette	16	0	14:34:00
+ligneTGM104		le bac	17	0	
+ligneTGM104	14:44:00	tunis_marine	18	0	14:44:00
+ligneTGM105	14:21:00	marsa_plage	1	0	14:21:00
+ligneTGM105		corniche	2	0	
+ligneTGM105		sidi_dhrif	3	0	
+ligneTGM105		sidi_bousaid	4	0	
+ligneTGM105		carthage_amilcar	5	0	
+ligneTGM105	14:31:00	carthage_présidence	6	0	14:31:00
+ligneTGM105		carthage_hannibal	7	0	
+ligneTGM105		carthage_dermech	8	0	
+ligneTGM105		carthage_byrsa	9	0	
+ligneTGM105		carthage_salambo	10	0	
+ligneTGM105	14:39:00	le kram	11	0	14:39:00
+ligneTGM105		l'aéroport	12	0	
+ligneTGM105		khiareddine	13	0	
+ligneTGM105		goulette_casino	14	0	
+ligneTGM105		goulette_neuve	15	0	
+ligneTGM105	14:46:00	la goulette	16	0	14:46:00
+ligneTGM105		le bac	17	0	
+ligneTGM105	14:56:00	tunis_marine	18	0	14:56:00
+ligneTGM106	14:33:00	marsa_plage	1	0	14:33:00
+ligneTGM106		corniche	2	0	
+ligneTGM106		sidi_dhrif	3	0	
+ligneTGM106		sidi_bousaid	4	0	
+ligneTGM106		carthage_amilcar	5	0	
+ligneTGM106	14:43:00	carthage_présidence	6	0	14:43:00
+ligneTGM106		carthage_hannibal	7	0	
+ligneTGM106		carthage_dermech	8	0	
+ligneTGM106		carthage_byrsa	9	0	
+ligneTGM106		carthage_salambo	10	0	
+ligneTGM106	14:51:00	le kram	11	0	14:51:00
+ligneTGM106		l'aéroport	12	0	
+ligneTGM106		khiareddine	13	0	
+ligneTGM106		goulette_casino	14	0	
+ligneTGM106		goulette_neuve	15	0	
+ligneTGM106	14:58:00	la goulette	16	0	14:58:00
+ligneTGM106		le bac	17	0	
+ligneTGM106	15:08:00	tunis_marine	18	0	15:08:00
+ligneTGM107	14:45:00	marsa_plage	1	0	14:45:00
+ligneTGM107		corniche	2	0	
+ligneTGM107		sidi_dhrif	3	0	
+ligneTGM107		sidi_bousaid	4	0	
+ligneTGM107		carthage_amilcar	5	0	
+ligneTGM107	14:55:00	carthage_présidence	6	0	14:55:00
+ligneTGM107		carthage_hannibal	7	0	
+ligneTGM107		carthage_dermech	8	0	
+ligneTGM107		carthage_byrsa	9	0	
+ligneTGM107		carthage_salambo	10	0	
+ligneTGM107	15:03:00	le kram	11	0	15:03:00
+ligneTGM107		l'aéroport	12	0	
+ligneTGM107		khiareddine	13	0	
+ligneTGM107		goulette_casino	14	0	
+ligneTGM107		goulette_neuve	15	0	
+ligneTGM107	15:10:00	la goulette	16	0	15:10:00
+ligneTGM107		le bac	17	0	
+ligneTGM107	15:20:00	tunis_marine	18	0	15:20:00
+ligneTGM108	15:00:00	marsa_plage	1	0	15:00:00
+ligneTGM108		corniche	2	0	
+ligneTGM108		sidi_dhrif	3	0	
+ligneTGM108		sidi_bousaid	4	0	
+ligneTGM108		carthage_amilcar	5	0	
+ligneTGM108	15:10:00	carthage_présidence	6	0	15:10:00
+ligneTGM108		carthage_hannibal	7	0	
+ligneTGM108		carthage_dermech	8	0	
+ligneTGM108		carthage_byrsa	9	0	
+ligneTGM108		carthage_salambo	10	0	
+ligneTGM108	15:18:00	le kram	11	0	15:18:00
+ligneTGM108		l'aéroport	12	0	
+ligneTGM108		khiareddine	13	0	
+ligneTGM108		goulette_casino	14	0	
+ligneTGM108		goulette_neuve	15	0	
+ligneTGM108	15:25:00	la goulette	16	0	15:25:00
+ligneTGM108		le bac	17	0	
+ligneTGM108	15:35:00	tunis_marine	18	0	15:35:00
+ligneTGM109	15:15:00	marsa_plage	1	0	15:15:00
+ligneTGM109		corniche	2	0	
+ligneTGM109		sidi_dhrif	3	0	
+ligneTGM109		sidi_bousaid	4	0	
+ligneTGM109		carthage_amilcar	5	0	
+ligneTGM109	15:25:00	carthage_présidence	6	0	15:25:00
+ligneTGM109		carthage_hannibal	7	0	
+ligneTGM109		carthage_dermech	8	0	
+ligneTGM109		carthage_byrsa	9	0	
+ligneTGM109		carthage_salambo	10	0	
+ligneTGM109	15:33:00	le kram	11	0	15:33:00
+ligneTGM109		l'aéroport	12	0	
+ligneTGM109		khiareddine	13	0	
+ligneTGM109		goulette_casino	14	0	
+ligneTGM109		goulette_neuve	15	0	
+ligneTGM109	15:40:00	la goulette	16	0	15:40:00
+ligneTGM109		le bac	17	0	
+ligneTGM109	15:50:00	tunis_marine	18	0	15:50:00
+ligneTGM110	15:30:00	marsa_plage	1	0	15:30:00
+ligneTGM110		corniche	2	0	
+ligneTGM110		sidi_dhrif	3	0	
+ligneTGM110		sidi_bousaid	4	0	
+ligneTGM110		carthage_amilcar	5	0	
+ligneTGM110	15:40:00	carthage_présidence	6	0	15:40:00
+ligneTGM110		carthage_hannibal	7	0	
+ligneTGM110		carthage_dermech	8	0	
+ligneTGM110		carthage_byrsa	9	0	
+ligneTGM110		carthage_salambo	10	0	
+ligneTGM110	15:48:00	le kram	11	0	15:48:00
+ligneTGM110		l'aéroport	12	0	
+ligneTGM110		khiareddine	13	0	
+ligneTGM110		goulette_casino	14	0	
+ligneTGM110		goulette_neuve	15	0	
+ligneTGM110	15:55:00	la goulette	16	0	15:55:00
+ligneTGM110		le bac	17	0	
+ligneTGM110	16:05:00	tunis_marine	18	0	16:05:00
+ligneTGM111	15:45:00	marsa_plage	1	0	15:45:00
+ligneTGM111		corniche	2	0	
+ligneTGM111		sidi_dhrif	3	0	
+ligneTGM111		sidi_bousaid	4	0	
+ligneTGM111		carthage_amilcar	5	0	
+ligneTGM111	15:55:00	carthage_présidence	6	0	15:55:00
+ligneTGM111		carthage_hannibal	7	0	
+ligneTGM111		carthage_dermech	8	0	
+ligneTGM111		carthage_byrsa	9	0	
+ligneTGM111		carthage_salambo	10	0	
+ligneTGM111	16:03:00	le kram	11	0	16:03:00
+ligneTGM111		l'aéroport	12	0	
+ligneTGM111		khiareddine	13	0	
+ligneTGM111		goulette_casino	14	0	
+ligneTGM111		goulette_neuve	15	0	
+ligneTGM111	16:10:00	la goulette	16	0	16:10:00
+ligneTGM111		le bac	17	0	
+ligneTGM111	16:20:00	tunis_marine	18	0	16:20:00
+ligneTGM112	16:00:00	marsa_plage	1	0	16:00:00
+ligneTGM112		corniche	2	0	
+ligneTGM112		sidi_dhrif	3	0	
+ligneTGM112		sidi_bousaid	4	0	
+ligneTGM112		carthage_amilcar	5	0	
+ligneTGM112	16:10:00	carthage_présidence	6	0	16:10:00
+ligneTGM112		carthage_hannibal	7	0	
+ligneTGM112		carthage_dermech	8	0	
+ligneTGM112		carthage_byrsa	9	0	
+ligneTGM112		carthage_salambo	10	0	
+ligneTGM112	16:18:00	le kram	11	0	16:18:00
+ligneTGM112		l'aéroport	12	0	
+ligneTGM112		khiareddine	13	0	
+ligneTGM112		goulette_casino	14	0	
+ligneTGM112		goulette_neuve	15	0	
+ligneTGM112	16:25:00	la goulette	16	0	16:25:00
+ligneTGM112		le bac	17	0	
+ligneTGM112	16:35:00	tunis_marine	18	0	16:35:00
+ligneTGM113	16:15:00	marsa_plage	1	0	16:15:00
+ligneTGM113		corniche	2	0	
+ligneTGM113		sidi_dhrif	3	0	
+ligneTGM113		sidi_bousaid	4	0	
+ligneTGM113		carthage_amilcar	5	0	
+ligneTGM113	16:25:00	carthage_présidence	6	0	16:25:00
+ligneTGM113		carthage_hannibal	7	0	
+ligneTGM113		carthage_dermech	8	0	
+ligneTGM113		carthage_byrsa	9	0	
+ligneTGM113		carthage_salambo	10	0	
+ligneTGM113	16:33:00	le kram	11	0	16:33:00
+ligneTGM113		l'aéroport	12	0	
+ligneTGM113		khiareddine	13	0	
+ligneTGM113		goulette_casino	14	0	
+ligneTGM113		goulette_neuve	15	0	
+ligneTGM113	16:40:00	la goulette	16	0	16:40:00
+ligneTGM113		le bac	17	0	
+ligneTGM113	16:50:00	tunis_marine	18	0	16:50:00
+ligneTGM114	16:30:00	marsa_plage	1	0	16:30:00
+ligneTGM114		corniche	2	0	
+ligneTGM114		sidi_dhrif	3	0	
+ligneTGM114		sidi_bousaid	4	0	
+ligneTGM114		carthage_amilcar	5	0	
+ligneTGM114	16:40:00	carthage_présidence	6	0	16:40:00
+ligneTGM114		carthage_hannibal	7	0	
+ligneTGM114		carthage_dermech	8	0	
+ligneTGM114		carthage_byrsa	9	0	
+ligneTGM114		carthage_salambo	10	0	
+ligneTGM114	16:48:00	le kram	11	0	16:48:00
+ligneTGM114		l'aéroport	12	0	
+ligneTGM114		khiareddine	13	0	
+ligneTGM114		goulette_casino	14	0	
+ligneTGM114		goulette_neuve	15	0	
+ligneTGM114	16:55:00	la goulette	16	0	16:55:00
+ligneTGM114		le bac	17	0	
+ligneTGM114	17:05:00	tunis_marine	18	0	17:05:00
+ligneTGM115	16:45:00	marsa_plage	1	0	16:45:00
+ligneTGM115		corniche	2	0	
+ligneTGM115		sidi_dhrif	3	0	
+ligneTGM115		sidi_bousaid	4	0	
+ligneTGM115		carthage_amilcar	5	0	
+ligneTGM115	16:55:00	carthage_présidence	6	0	16:55:00
+ligneTGM115		carthage_hannibal	7	0	
+ligneTGM115		carthage_dermech	8	0	
+ligneTGM115		carthage_byrsa	9	0	
+ligneTGM115		carthage_salambo	10	0	
+ligneTGM115	17:03:00	le kram	11	0	17:03:00
+ligneTGM115		l'aéroport	12	0	
+ligneTGM115		khiareddine	13	0	
+ligneTGM115		goulette_casino	14	0	
+ligneTGM115		goulette_neuve	15	0	
+ligneTGM115	17:10:00	la goulette	16	0	17:10:00
+ligneTGM115		le bac	17	0	
+ligneTGM115	17:20:00	tunis_marine	18	0	17:20:00
+ligneTGM116	17:00:00	marsa_plage	1	0	17:00:00
+ligneTGM116		corniche	2	0	
+ligneTGM116		sidi_dhrif	3	0	
+ligneTGM116		sidi_bousaid	4	0	
+ligneTGM116		carthage_amilcar	5	0	
+ligneTGM116	17:10:00	carthage_présidence	6	0	17:10:00
+ligneTGM116		carthage_hannibal	7	0	
+ligneTGM116		carthage_dermech	8	0	
+ligneTGM116		carthage_byrsa	9	0	
+ligneTGM116		carthage_salambo	10	0	
+ligneTGM116	17:18:00	le kram	11	0	17:18:00
+ligneTGM116		l'aéroport	12	0	
+ligneTGM116		khiareddine	13	0	
+ligneTGM116		goulette_casino	14	0	
+ligneTGM116		goulette_neuve	15	0	
+ligneTGM116	17:25:00	la goulette	16	0	17:25:00
+ligneTGM116		le bac	17	0	
+ligneTGM116	17:35:00	tunis_marine	18	0	17:35:00
+ligneTGM117	17:15:00	marsa_plage	1	0	17:15:00
+ligneTGM117		corniche	2	0	
+ligneTGM117		sidi_dhrif	3	0	
+ligneTGM117		sidi_bousaid	4	0	
+ligneTGM117		carthage_amilcar	5	0	
+ligneTGM117	17:25:00	carthage_présidence	6	0	17:25:00
+ligneTGM117		carthage_hannibal	7	0	
+ligneTGM117		carthage_dermech	8	0	
+ligneTGM117		carthage_byrsa	9	0	
+ligneTGM117		carthage_salambo	10	0	
+ligneTGM117	17:33:00	le kram	11	0	17:33:00
+ligneTGM117		l'aéroport	12	0	
+ligneTGM117		khiareddine	13	0	
+ligneTGM117		goulette_casino	14	0	
+ligneTGM117		goulette_neuve	15	0	
+ligneTGM117	17:40:00	la goulette	16	0	17:40:00
+ligneTGM117		le bac	17	0	
+ligneTGM117	17:50:00	tunis_marine	18	0	17:50:00
+ligneTGM118	17:30:00	marsa_plage	1	0	17:30:00
+ligneTGM118		corniche	2	0	
+ligneTGM118		sidi_dhrif	3	0	
+ligneTGM118		sidi_bousaid	4	0	
+ligneTGM118		carthage_amilcar	5	0	
+ligneTGM118	17:40:00	carthage_présidence	6	0	17:40:00
+ligneTGM118		carthage_hannibal	7	0	
+ligneTGM118		carthage_dermech	8	0	
+ligneTGM118		carthage_byrsa	9	0	
+ligneTGM118		carthage_salambo	10	0	
+ligneTGM118	17:48:00	le kram	11	0	17:48:00
+ligneTGM118		l'aéroport	12	0	
+ligneTGM118		khiareddine	13	0	
+ligneTGM118		goulette_casino	14	0	
+ligneTGM118		goulette_neuve	15	0	
+ligneTGM118	17:55:00	la goulette	16	0	17:55:00
+ligneTGM118		le bac	17	0	
+ligneTGM118	18:05:00	tunis_marine	18	0	18:05:00
+ligneTGM119	17:45:00	marsa_plage	1	0	17:45:00
+ligneTGM119		corniche	2	0	
+ligneTGM119		sidi_dhrif	3	0	
+ligneTGM119		sidi_bousaid	4	0	
+ligneTGM119		carthage_amilcar	5	0	
+ligneTGM119	17:55:00	carthage_présidence	6	0	17:55:00
+ligneTGM119		carthage_hannibal	7	0	
+ligneTGM119		carthage_dermech	8	0	
+ligneTGM119		carthage_byrsa	9	0	
+ligneTGM119		carthage_salambo	10	0	
+ligneTGM119	18:03:00	le kram	11	0	18:03:00
+ligneTGM119		l'aéroport	12	0	
+ligneTGM119		khiareddine	13	0	
+ligneTGM119		goulette_casino	14	0	
+ligneTGM119		goulette_neuve	15	0	
+ligneTGM119	18:10:00	la goulette	16	0	18:10:00
+ligneTGM119		le bac	17	0	
+ligneTGM119	18:20:00	tunis_marine	18	0	18:20:00
+ligneTGM120	17:57:00	marsa_plage	1	0	17:57:00
+ligneTGM120		corniche	2	0	
+ligneTGM120		sidi_dhrif	3	0	
+ligneTGM120		sidi_bousaid	4	0	
+ligneTGM120		carthage_amilcar	5	0	
+ligneTGM120	18:07:00	carthage_présidence	6	0	18:07:00
+ligneTGM120		carthage_hannibal	7	0	
+ligneTGM120		carthage_dermech	8	0	
+ligneTGM120		carthage_byrsa	9	0	
+ligneTGM120		carthage_salambo	10	0	
+ligneTGM120	18:15:00	le kram	11	0	18:15:00
+ligneTGM120		l'aéroport	12	0	
+ligneTGM120		khiareddine	13	0	
+ligneTGM120		goulette_casino	14	0	
+ligneTGM120		goulette_neuve	15	0	
+ligneTGM120	18:22:00	la goulette	16	0	18:22:00
+ligneTGM120		le bac	17	0	
+ligneTGM120	18:32:00	tunis_marine	18	0	18:32:00
+ligneTGM121	18:09:00	marsa_plage	1	0	18:09:00
+ligneTGM121		corniche	2	0	
+ligneTGM121		sidi_dhrif	3	0	
+ligneTGM121		sidi_bousaid	4	0	
+ligneTGM121		carthage_amilcar	5	0	
+ligneTGM121	18:19:00	carthage_présidence	6	0	18:19:00
+ligneTGM121		carthage_hannibal	7	0	
+ligneTGM121		carthage_dermech	8	0	
+ligneTGM121		carthage_byrsa	9	0	
+ligneTGM121		carthage_salambo	10	0	
+ligneTGM121	18:27:00	le kram	11	0	18:27:00
+ligneTGM121		l'aéroport	12	0	
+ligneTGM121		khiareddine	13	0	
+ligneTGM121		goulette_casino	14	0	
+ligneTGM121		goulette_neuve	15	0	
+ligneTGM121	18:34:00	la goulette	16	0	18:34:00
+ligneTGM121		le bac	17	0	
+ligneTGM121	18:44:00	tunis_marine	18	0	18:44:00
+ligneTGM122	18:21:00	marsa_plage	1	0	18:21:00
+ligneTGM122		corniche	2	0	
+ligneTGM122		sidi_dhrif	3	0	
+ligneTGM122		sidi_bousaid	4	0	
+ligneTGM122		carthage_amilcar	5	0	
+ligneTGM122	18:31:00	carthage_présidence	6	0	18:31:00
+ligneTGM122		carthage_hannibal	7	0	
+ligneTGM122		carthage_dermech	8	0	
+ligneTGM122		carthage_byrsa	9	0	
+ligneTGM122		carthage_salambo	10	0	
+ligneTGM122	18:39:00	le kram	11	0	18:39:00
+ligneTGM122		l'aéroport	12	0	
+ligneTGM122		khiareddine	13	0	
+ligneTGM122		goulette_casino	14	0	
+ligneTGM122		goulette_neuve	15	0	
+ligneTGM122	18:46:00	la goulette	16	0	18:46:00
+ligneTGM122		le bac	17	0	
+ligneTGM122	18:56:00	tunis_marine	18	0	18:56:00
+ligneTGM123	18:33:00	marsa_plage	1	0	18:33:00
+ligneTGM123		corniche	2	0	
+ligneTGM123		sidi_dhrif	3	0	
+ligneTGM123		sidi_bousaid	4	0	
+ligneTGM123		carthage_amilcar	5	0	
+ligneTGM123	18:43:00	carthage_présidence	6	0	18:43:00
+ligneTGM123		carthage_hannibal	7	0	
+ligneTGM123		carthage_dermech	8	0	
+ligneTGM123		carthage_byrsa	9	0	
+ligneTGM123		carthage_salambo	10	0	
+ligneTGM123	18:51:00	le kram	11	0	18:51:00
+ligneTGM123		l'aéroport	12	0	
+ligneTGM123		khiareddine	13	0	
+ligneTGM123		goulette_casino	14	0	
+ligneTGM123		goulette_neuve	15	0	
+ligneTGM123	18:58:00	la goulette	16	0	18:58:00
+ligneTGM123		le bac	17	0	
+ligneTGM123	19:08:00	tunis_marine	18	0	19:08:00
+ligneTGM124	18:45:00	marsa_plage	1	0	18:45:00
+ligneTGM124		corniche	2	0	
+ligneTGM124		sidi_dhrif	3	0	
+ligneTGM124		sidi_bousaid	4	0	
+ligneTGM124		carthage_amilcar	5	0	
+ligneTGM124	18:55:00	carthage_présidence	6	0	18:55:00
+ligneTGM124		carthage_hannibal	7	0	
+ligneTGM124		carthage_dermech	8	0	
+ligneTGM124		carthage_byrsa	9	0	
+ligneTGM124		carthage_salambo	10	0	
+ligneTGM124	19:03:00	le kram	11	0	19:03:00
+ligneTGM124		l'aéroport	12	0	
+ligneTGM124		khiareddine	13	0	
+ligneTGM124		goulette_casino	14	0	
+ligneTGM124		goulette_neuve	15	0	
+ligneTGM124	19:10:00	la goulette	16	0	19:10:00
+ligneTGM124		le bac	17	0	
+ligneTGM124	19:20:00	tunis_marine	18	0	19:20:00
+ligneTGM125	18:57:00	marsa_plage	1	0	18:57:00
+ligneTGM125		corniche	2	0	
+ligneTGM125		sidi_dhrif	3	0	
+ligneTGM125		sidi_bousaid	4	0	
+ligneTGM125		carthage_amilcar	5	0	
+ligneTGM125	19:07:00	carthage_présidence	6	0	19:07:00
+ligneTGM125		carthage_hannibal	7	0	
+ligneTGM125		carthage_dermech	8	0	
+ligneTGM125		carthage_byrsa	9	0	
+ligneTGM125		carthage_salambo	10	0	
+ligneTGM125	19:15:00	le kram	11	0	19:15:00
+ligneTGM125		l'aéroport	12	0	
+ligneTGM125		khiareddine	13	0	
+ligneTGM125		goulette_casino	14	0	
+ligneTGM125		goulette_neuve	15	0	
+ligneTGM125	19:22:00	la goulette	16	0	19:22:00
+ligneTGM125		le bac	17	0	
+ligneTGM125	19:32:00	tunis_marine	18	0	19:32:00
+ligneTGM126	19:09:00	marsa_plage	1	0	19:09:00
+ligneTGM126		corniche	2	0	
+ligneTGM126		sidi_dhrif	3	0	
+ligneTGM126		sidi_bousaid	4	0	
+ligneTGM126		carthage_amilcar	5	0	
+ligneTGM126	19:19:00	carthage_présidence	6	0	19:19:00
+ligneTGM126		carthage_hannibal	7	0	
+ligneTGM126		carthage_dermech	8	0	
+ligneTGM126		carthage_byrsa	9	0	
+ligneTGM126		carthage_salambo	10	0	
+ligneTGM126	19:27:00	le kram	11	0	19:27:00
+ligneTGM126		l'aéroport	12	0	
+ligneTGM126		khiareddine	13	0	
+ligneTGM126		goulette_casino	14	0	
+ligneTGM126		goulette_neuve	15	0	
+ligneTGM126	19:34:00	la goulette	16	0	19:34:00
+ligneTGM126		le bac	17	0	
+ligneTGM126	19:44:00	tunis_marine	18	0	19:44:00
+ligneTGM127	19:33:00	marsa_plage	1	0	19:33:00
+ligneTGM127		corniche	2	0	
+ligneTGM127		sidi_dhrif	3	0	
+ligneTGM127		sidi_bousaid	4	0	
+ligneTGM127		carthage_amilcar	5	0	
+ligneTGM127	19:43:00	carthage_présidence	6	0	19:43:00
+ligneTGM127		carthage_hannibal	7	0	
+ligneTGM127		carthage_dermech	8	0	
+ligneTGM127		carthage_byrsa	9	0	
+ligneTGM127		carthage_salambo	10	0	
+ligneTGM127	19:51:00	le kram	11	0	19:51:00
+ligneTGM127		l'aéroport	12	0	
+ligneTGM127		khiareddine	13	0	
+ligneTGM127		goulette_casino	14	0	
+ligneTGM127		goulette_neuve	15	0	
+ligneTGM127	19:58:00	la goulette	16	0	19:58:00
+ligneTGM127		le bac	17	0	
+ligneTGM127	20:08:00	tunis_marine	18	0	20:08:00
+ligneTGM128	19:45:00	marsa_plage	1	0	19:45:00
+ligneTGM128		corniche	2	0	
+ligneTGM128		sidi_dhrif	3	0	
+ligneTGM128		sidi_bousaid	4	0	
+ligneTGM128		carthage_amilcar	5	0	
+ligneTGM128	19:55:00	carthage_présidence	6	0	19:55:00
+ligneTGM128		carthage_hannibal	7	0	
+ligneTGM128		carthage_dermech	8	0	
+ligneTGM128		carthage_byrsa	9	0	
+ligneTGM128		carthage_salambo	10	0	
+ligneTGM128	20:03:00	le kram	11	0	20:03:00
+ligneTGM128		l'aéroport	12	0	
+ligneTGM128		khiareddine	13	0	
+ligneTGM128		goulette_casino	14	0	
+ligneTGM128		goulette_neuve	15	0	
+ligneTGM128	20:10:00	la goulette	16	0	20:10:00
+ligneTGM128		le bac	17	0	
+ligneTGM128	20:20:00	tunis_marine	18	0	20:20:00
+ligneTGM129	20:10:00	marsa_plage	1	0	20:10:00
+ligneTGM129		corniche	2	0	
+ligneTGM129		sidi_dhrif	3	0	
+ligneTGM129		sidi_bousaid	4	0	
+ligneTGM129		carthage_amilcar	5	0	
+ligneTGM129	20:20:00	carthage_présidence	6	0	20:20:00
+ligneTGM129		carthage_hannibal	7	0	
+ligneTGM129		carthage_dermech	8	0	
+ligneTGM129		carthage_byrsa	9	0	
+ligneTGM129		carthage_salambo	10	0	
+ligneTGM129	20:28:00	le kram	11	0	20:28:00
+ligneTGM129		l'aéroport	12	0	
+ligneTGM129		khiareddine	13	0	
+ligneTGM129		goulette_casino	14	0	
+ligneTGM129		goulette_neuve	15	0	
+ligneTGM129	20:35:00	la goulette	16	0	20:35:00
+ligneTGM129		le bac	17	0	
+ligneTGM129	20:45:00	tunis_marine	18	0	20:45:00
+ligneTGM130	20:45:00	marsa_plage	1	0	20:45:00
+ligneTGM130		corniche	2	0	
+ligneTGM130		sidi_dhrif	3	0	
+ligneTGM130		sidi_bousaid	4	0	
+ligneTGM130		carthage_amilcar	5	0	
+ligneTGM130	20:55:00	carthage_présidence	6	0	20:55:00
+ligneTGM130		carthage_hannibal	7	0	
+ligneTGM130		carthage_dermech	8	0	
+ligneTGM130		carthage_byrsa	9	0	
+ligneTGM130		carthage_salambo	10	0	
+ligneTGM130	21:03:00	le kram	11	0	21:03:00
+ligneTGM130		l'aéroport	12	0	
+ligneTGM130		khiareddine	13	0	
+ligneTGM130		goulette_casino	14	0	
+ligneTGM130		goulette_neuve	15	0	
+ligneTGM130	21:10:00	la goulette	16	0	21:10:00
+ligneTGM130		le bac	17	0	
+ligneTGM130	21:20:00	tunis_marine	18	0	21:20:00
+ligneTGM131	21:30:00	marsa_plage	1	0	21:30:00
+ligneTGM131		corniche	2	0	
+ligneTGM131		sidi_dhrif	3	0	
+ligneTGM131		sidi_bousaid	4	0	
+ligneTGM131		carthage_amilcar	5	0	
+ligneTGM131	21:40:00	carthage_présidence	6	0	21:40:00
+ligneTGM131		carthage_hannibal	7	0	
+ligneTGM131		carthage_dermech	8	0	
+ligneTGM131		carthage_byrsa	9	0	
+ligneTGM131		carthage_salambo	10	0	
+ligneTGM131	21:48:00	le kram	11	0	21:48:00
+ligneTGM131		l'aéroport	12	0	
+ligneTGM131		khiareddine	13	0	
+ligneTGM131		goulette_casino	14	0	
+ligneTGM131		goulette_neuve	15	0	
+ligneTGM131	21:55:00	la goulette	16	0	21:55:00
+ligneTGM131		le bac	17	0	
+ligneTGM131	22:05:00	tunis_marine	18	0	22:05:00
+ligneTGM132	22:30:00	marsa_plage	1	0	22:30:00
+ligneTGM132		corniche	2	0	
+ligneTGM132		sidi_dhrif	3	0	
+ligneTGM132		sidi_bousaid	4	0	
+ligneTGM132		carthage_amilcar	5	0	
+ligneTGM132	22:40:00	carthage_présidence	6	0	22:40:00
+ligneTGM132		carthage_hannibal	7	0	
+ligneTGM132		carthage_dermech	8	0	
+ligneTGM132		carthage_byrsa	9	0	
+ligneTGM132		carthage_salambo	10	0	
+ligneTGM132	22:48:00	le kram	11	0	22:48:00
+ligneTGM132		l'aéroport	12	0	
+ligneTGM132		khiareddine	13	0	
+ligneTGM132		goulette_casino	14	0	
+ligneTGM132		goulette_neuve	15	0	
+ligneTGM132	22:55:00	la goulette	16	0	22:55:00
+ligneTGM132		le bac	17	0	
+ligneTGM132	23:05:00	tunis_marine	18	0	23:05:00
+ligneTGM133	23:45:00	marsa_plage	1	0	23:45:00
+ligneTGM133		corniche	2	0	
+ligneTGM133		sidi_dhrif	3	0	
+ligneTGM133		sidi_bousaid	4	0	
+ligneTGM133		carthage_amilcar	5	0	
+ligneTGM133	23:55:00	carthage_présidence	6	0	23:55:00
+ligneTGM133		carthage_hannibal	7	0	
+ligneTGM133		carthage_dermech	8	0	
+ligneTGM133		carthage_byrsa	9	0	
+ligneTGM133		carthage_salambo	10	0	
+ligneTGM133	0:03:00	le kram	11	0	0:03:00
+ligneTGM133		l'aéroport	12	0	
+ligneTGM133		khiareddine	13	0	
+ligneTGM133		goulette_casino	14	0	
+ligneTGM133		goulette_neuve	15	0	
+ligneTGM133	0:10:00	la goulette	16	0	0:10:00
+ligneTGM133		le bac	17	0	
+ligneTGM133	0:22:00	tunis_marine	18	0	0:22:00

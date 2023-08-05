@@ -1,0 +1,93 @@
+stop_desc	stop_id	stop_lat	stop_lon	stop_name	wheelchair_boarding	zone_id
+	"echebbi_retour	"	36.75253438	10.21482627	Abou El Kacem CHebbi		"echebbi_retour	"
+	"ennour_retour	"	36.75166935	10.20463371	Cité Ennour		"ennour_retour	"
+	"ouardia6_retour	"	36.75436157	10.19935851	Ouardia 6		"ouardia6_retour	"
+	"kabbaria_retour	"	36.75977682	10.1906982	Kabbaria		"kabbaria_retour	"
+	ibnsina_retour	36.75405577	10.19405939	Ibn Sina		ibnsina_retour
+	13aout_retour	36.77494413	10.1792279	13 Aout		13aout_retour
+	med ali_retour	36.76766438	10.18409715	Mohamed Ali		med ali_retour
+	manachou_retour	36.78200541	10.1796296	Manachou		manachou_retour
+	babalioua_retour	36.78587492	10.17975384	Bab Alioua		babalioua_retour
+	ben_arous	36.75530885	10.22039386	Ben Arous		ben_arous
+	echebbi	36.75251266	10.21488903	Abou El Kacem Chebbi		echebbi
+	cité_ennour	36.75164636	10.20458731	Cité Ennour		cité_ennour
+	ouardia6	36.75426551	10.19933165	Ouardia 6		ouardia6
+	ibn_sina	36.75443178	10.19371593	Ibn sina		ibn_sina
+	kabbaria	36.7595542	10.19071365	Kabbaria		kabbaria
+	mohamed_ali	36.76762785	10.18410095	Mohamed Ali		mohamed_ali
+	13_aout	36.77495188	10.17914397	13 Aout		13_aout
+	manachou	36.78208299	10.17964134	Manachou	1	manachou
+	bab_alioua	36.78573204	10.17978603	Bab Alioua	1	bab_alioua
+	barcelone_sud	36.79605188	10.18090226	Place Barcelone Sud		barcelone_sud
+	hached	36.79789209	10.18612896	Farhat Hached		hached
+	marine	36.79991849	10.19287094	Tunis Marine	1	marine
+	Lycée_wardiya	36.77533814	10.18064181	Lycée wardiya		Lycée_wardiya
+	13août	36.77557858	10.17861433	13 août		13août
+	rue_sahel	36.77844548	10.17677556	Rue de sahel		rue_sahel
+	soned	36.78321403	10.17402233	Soned		soned
+	"sayda	"	36.78540626	10.17089328	"Sayda	"		"sayda	"
+	gorjeni	36.78845046	10.16661125	Gorjeni		gorjeni
+	sidi_kacem	36.79243325	10.16307243	Sidi kacem		sidi_kacem
+	9avril	36.79487744	10.16322953	9 Avril		9avril
+	Cour_cassation	36.80003241	10.16500815	Cour de cassation		Cour_cassation
+	charnicol	36.80371629	10.16315149	Charnicole		charnicol
+	hôpital_d'enfants	36.80776179	10.15893481	Hôpital d'enfants		hôpital_d'enfants
+	abd_ slam	36.81000356	10.16285749	Bab abd slam		abd_ slam
+	mechtel	36.81351306	10.1717526	Mechtel		mechtel
+	tayeb_mhiri	36.81406884	10.1751391	Tayeb mhiri	1	tayeb_mhiri
+	"zoo	"	36.81844649	10.17713983	"Zoo	"	1	"zoo	"
+	"centre_culturel	"	36.82080097	10.18023707	"Centre culturel Britannique	"		"centre_culturel	"
+	med	36.81873004	10.18258897	Mohamed 5	1	med
+	fac_technologie	36.81620615	10.18381674	Fac de technologie		fac_technologie
+	Moh5	36.8131148	10.18423661	Mohamed 5		Moh5
+	cité_culture	36.8106809	10.18480325	Cité de la Culture		cité_culture
+	"Place_droit 	"	36.80722421	10.18526313	"Place droit de l'homme	"	1	"Place_droit 	"
+	med5	36.8025308	10.1859003	Mohamed 5	1	med5
+	saadzagloul	36.79901202	10.18714696	Saad zagloul		saadzagloul
+	Moncefbay	36.79264116	10.18596084	Moncef bey	1	Moncefbay
+	eljalaz	36.78732112	10.18058008	El jalaz	1	eljalaz
+	rnta	36.78149874	10.18134935	Rnta	1	rnta
+	bellevue	36.7737029	10.18624983	Belle vue	1	bellevue
+	ariana_retour	36.85984613	10.19742388	Ariana	1	ariana_retour
+	indépendance_retour	36.85462529	10.1958891	L'indépendance	1	indépendance_retour
+	sciences_retour	36.84713521	10.19230569	Cité des sciences	1	sciences_retour
+	10décembre_retour	36.8443178	10.18420131	10 Décembre 1948	1	10décembre_retour
+	sportive_retour	36.83828048	10.18183309	Cité Sportive	1	sportive_retour
+	Jeunesse_retour	36.83340765	10.18270829	La Jeunesse	1	Jeunesse_retour
+	jardins_retour	36.82330145	10.18546911	Les Jardins retour	1	jardins_retour
+	palestine_retour	36.81938456	10.1813573	Palestine	1	palestine_retour
+	mohamed 5_retour	36.8151309	10.18375807	Mohamed 5	1	mohamed 5_retour
+	mandella_retour	36.81102666	10.18249232	Mandella	1	mandella_retour
+	république_retour	36.80680851	10.1808023	Station République	1	république_retour
+	ariana	36.85958008	10.19761406	Ariana	1	ariana
+	l'indépendance	36.85447645	10.19598683	L'indépendance	1	l'indépendance
+	Cité_des Sciences	36.84690998	10.19216605	Cité Des Sciences	1	Cité_des Sciences
+	10_Décembre_1948	36.84430922	10.18425651	10 Décembre 1948	1	10_Décembre_1948
+	Cité_sportive	36.83830713	10.18193656	Cité Sportive	1	Cité_sportive
+	la jeunesse	36.83331537	10.18267747	La jeunesse	1	la jeunesse
+	cité_elkhadhra	36.82909065	10.19062161	Cité El Khadhra	1	cité_elkhadhra
+	les Jardins	36.82335209	10.1855183	Les Jardins	1	les Jardins
+	palestine	36.8201662	10.18212709	Palestine	1	palestine
+	mohamed 5	36.81581115	10.18300463	Mohamed 5	1	mohamed 5
+	mandella	36.81226634	10.18312744	Mandella	1	mandella
+	station_république	36.80682517	10.18078014	Station République	1	station_république
+	habib_thamer	36.80245819	10.17896405	Habib Thamer	1	habib_thamer
+	place_barcelone_nord	36.79652476	10.17961419	Place Barcelone Nord	1	place_barcelone_nord
+	marsa_plage	36.88304243	10.333452	MARSA PLAGE		marsa_plage
+	corniche	36.88297713	10.33348709	LA CORNICHE		corniche
+	sidi_dhrif	36.87574092	10.33967038	SIDI DHRIF		sidi_dhrif
+	sidi_bousaid	36.87045373	10.34212619	SIDI BOUSAID		sidi_bousaid
+	carthage_amilcar	36.86658561	10.33744243	CARTHAGE AMILCAR		carthage_amilcar
+	carthage_présidence	36.86164887	10.33494266	CARTHAGE PRÉSIDENCE		carthage_présidence
+	carthage_hannibal	36.85339133	10.32891639	CARTHAGE HANNIBAL		carthage_hannibal
+	carthage_dermech	36.85012217	10.32558066	CARTHAGE DERMECH		carthage_dermech
+	carthage_byrsa	36.84612588	10.32184529	CARTHAGE BYRSA		carthage_byrsa
+	carthage_salambo	36.8415416	10.31910447	CARTHAGE SALAMBO		carthage_salambou
+	le kram	36.83617046	10.31660569	LE KRAM		le kram
+	l'aéroport	36.83194722	10.31387454	L'AÉROPORT		l'aéroport
+	khiareddine	36.82878318	10.3115529	KHIAREDDINE		khiareddine
+	goulette_casino	36.82420048	10.30877351	GOULETTE CASINO		goulette_casino
+	goulette_neuve	36.81984487	10.30560139	GOULETTE NEUVE		goulette_neuve
+	la goulette	36.81805125	10.30193962	LA GOULETTE		la goulette
+	le bac	36.81417755	10.2924504	LE BAC		le bac
+	tunis_marine	36.80069347	10.19174295	TUNIS MARINE		tunis_marine
